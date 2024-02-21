@@ -1,0 +1,1447 @@
+Table of Contents 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our Consolidated Financial Statements and related notes included elsewhere in this Annual Report. In addition to historical information, the following discussion contains forward-looking statements, such as statements regarding the Company s expectation for future performance, liquidity and capital resources that involve risks, uncertainties and assumptions that could cause actual results to differ materially from the Company's expectations. The Company's actual results may differ materially from those contained in or implied by any forward-looking statements. Factors that could cause such differences include those identified below and those described in Cautionary Note Regarding Forward-Looking Statements, and in Item 1A Risk Factors of this Annual Report on Form 10-K. The Company assumes no obligation to update any of these forward-looking statements. 
+ 
+ Business Overview 
+ 
+ The Company is a Delaware corporation headquartered in Thornton, Colorado. The audited consolidated financial statements included herein include the accounts of Concrete Pumping Holdings, Inc. and its wholly owned subsidiaries including Brundage-Bone Concrete Pumping, Inc. Brundage-Bone ), Capital Pumping Capital ), and Camfaud Group Limited Camfaud ), and Eco-Pan, Inc. Eco-Pan ). 
+ 
+ On December 6, 2018, the Company, formerly known as Concrete Pumping Holdings Acquisition Corp., consummated a business combination transaction (the Business Combination pursuant to which it acquired (i) the private operating company formerly called Concrete Pumping Holdings, Inc. CPH and (ii) the former special purpose acquisition company called Industrea Acquisition Corp Industrea ). In connection with the closing of the Business Combination, the Company changed its name to Concrete Pumping Holdings, Inc. The financial results described herein for the dates and periods prior to the Business Combination relate to the operations of CPH prior to the consummation of the Business Combination. 
+ 
+ U.S. Concrete Pumping 
+ 
+ In May 2019, the Company, through its wholly-owned subsidiary Brundage-Bone, acquired Capital Pumping, LP and its affiliates, a concrete pumping provider based in Texas for a purchase price of 129.2 million. The closing of this acquisition provided the Company with complementary assets and operations and significantly expanded its footprint and business in Texas. 
+ 
+ Brundage-Bone and Capital are concrete pumping service providers in the United States ("U.S."). Their core business is the provision of concrete pumping services to general contractors and concrete finishing companies in the commercial, infrastructure and residential sectors. Equipment generally returns to a home base nightly and neither company contracts to purchase, mix, or deliver concrete. Brundage-Bone and Capital collectively have approximately 90 branch locations across 22 states with their corporate headquarters in Thornton (near Denver), Colorado. 
+ 
+ U.S. Concrete Waste Management Services 
+ 
+ Eco-Pan provides industrial cleanup and containment services, primarily to customers in the construction industry. Eco-Pan uses containment pans specifically designed to hold waste products from concrete and other industrial cleanup operations. Eco-Pan has 16 operating locations across the United States with its corporate headquarters in Thornton, Colorado. 
+ 
+ U.K. Operations 
+ 
+ Camfaud is a concrete pumping service provider in the United Kingdom U.K. ). Their core business is primarily the provision of concrete pumping services to general contractors and concrete finishing companies in the commercial, infrastructure and residential sectors. Equipment generally returns to a home base nightly and does not contract to purchase, mix, or deliver concrete. Camfaud has 30 branch locations throughout the U.K., with its corporate headquarters in Epping (near London), England. In addition, during the third quarter of fiscal 2019, we started concrete waste management operations under our Eco-Pan brand name in the U.K. and currently operate from a shared Camfaud location. 
+ 
+ Corporate 
+ 
+ Our Corporate segment is primarily related to the intercompany leasing of real estate to certain of our U.S Concrete Pumping branches . 
+
+26
+
+Table of Contents 
+
+Impacts of COVID-19 
+ 
+ In March 2020, the World Health Organization declared the outbreak of COVID-19 to be a global pandemic and recommended containment and mitigation measures worldwide. The COVID-19 pandemic has rapidly changed market and economic conditions globally and may continue to create significant uncertainty in the macroeconomic environment. Such macroeconomic volatility, in addition to other unforeseen effects of this pandemic, has impacted our business, results of operations and overall financial performance. The Company actively monitors and responds to developments relating to ongoing COVID-19 pandemic. As part of its actions, the Company has made adjustments to its operations and executed certain cost reduction initiatives. 
+ 
+ As a result of the pandemic, we have implemented certain short-term cost reductions, including headcount reductions, modified work schedules reducing hours where needed, and furloughs in limited locations. The Company had previously suspended any remaining uncommitted 2020 capital expenditure investments, but that was lifted as its overall liquidity and operations improved. In the final month of the second quarter of fiscal 2020, our operations in the Seattle and U.K. markets were negatively impacted due to COVID-19-imposed construction site shutdowns. These restrictions were, for the most part, lifted during the third quarter ended July 31, 2020. While the Company believes these disruptions will be temporary, it is difficult to predict how long they will last and the impact they will have on the Company in future periods. 
+ 
+ In addition, the COVID-19 pandemic drove a sustained decline in the Company's stock price and a deterioration in general economic conditions in the fiscal 2020 second quarter, which qualified as a triggering event necessitating the evaluation of its goodwill and long-lived assets for indicators of impairment. As a result of the evaluation, the Company conducted a quantitative interim impairment test as of April 30, 2020. There were no triggering events during the remainder of fiscal 2020. Refer to Notes 2 and 8 of the financial statements for further discussion. The Company will continue to evaluate its goodwill and intangible assets in future quarters. Additional impairments may be recorded in the future based on events and circumstances, including those related to COVID-19 discussed above. 
+ 
+ Despite recent news regarding vaccines, both the outbreak and the containment and mitigation measures have had and are likely to continue to have a serious adverse impact on the global economy, the severity and duration of which are uncertain. It is likely that government stabilization efforts will only partially mitigate the consequences to the economy. The extent to which the COVID-19 pandemic will impact the Company s business, financial condition, and results of operations in the future is highly uncertain and will be affected by a number of factors. These include the duration and extent of the pandemic; the duration and extent of imposed or recommended containment and mitigation measures; the extent, duration, and effective execution of government stabilization and recovery efforts, including those from the successful distribution of an effective vaccine; the impact of the pandemic on economic activity, including on construction projects and the Company s customers demand for its services; the Company s ability to effectively operate, including as a result of travel restrictions and mandatory business and facility closures; the ability of the Company s customers to pay for services rendered; any further closures of the Company s and the Company s customers offices and facilities; and any additional project delays or shutdowns. Customers have and may continue to slow down decision-making, delay planned work or seek to terminate existing agreements. Any of these events may have a material adverse effect on the Company s business, financial condition, and/or results of operations, including further impairment to our goodwill and intangible assets. The Company will continue to evaluate the effect of COVID-19 on its business. 
+ 
+ Results of Operations 
+ 
+ To reflect the application of different bases of accounting as a result of the Business Combination, the tables provided below separate the Company s results via a black line into two distinct periods as follows: (1) up to and including the Business Combination closing date (labeled Predecessor and (2) the period after that date (labeled Successor ). The periods after December 5, 2018 are the Successor periods while the periods before December 6, 2018 are the Predecessor periods. 
+
+27
+
+Table of Contents 
+
+The historical financial information of Industrea prior to the Business Combination (a special purpose acquisition company, or SPAC has not been reflected in the Predecessor financial statements as these historical amounts have been determined to be not useful information to a user of the financial statements. SPACs deposit the proceeds from their initial public offerings into a segregated trust account until a business combination occurs, where such funds are then used to pay consideration for the acquiree and/or to pay stockholders who elect to redeem their shares of common stock in connection with the business combination. The operations of a SPAC, until the closing of a business combination, other than income from the trust account investments and transaction expenses, are nominal. Accordingly, no other activity in the Company was reported for periods prior to December 6, 2018 besides CPH s operations as Predecessor. 
+ 
+ As Industrea s historical financial information is excluded from the Predecessor financial information, the business, and thus financial results, of the Successor and Predecessor entities, are expected to be largely consistent, excluding the impact on certain financial statement line items that were impacted by the Business Combination. Management believes reviewing our operating results for the twelve-months ended October 31, 2019 by combining the results of the Predecessor and Successor periods S/P Combined is more useful in discussing our overall operating performance when compared to the same period in the current year. Accordingly, in addition to presenting our results of operations as reported in our consolidated financial statements in accordance with GAAP, the tables below present the non-GAAP combined results for the year. 
+
+S/P Combined 
+
+Successor 
+
+Predecessor 
+
+(non-GAAP) 
+
+(dollars in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+December 6, 2018 through October 31, 2019 
+
+November 1, 2018 through December 5, 2018 
+
+Year Ended October 31, 2019 
+
+Revenue 
+
+304,301 
+
+258,565 
+
+24,396 
+
+282,961 
+
+Cost of operations 
+
+166,998 
+
+143,512 
+
+14,027 
+
+157,539 
+
+Gross profit 
+
+137,303 
+
+115,053 
+
+10,369 
+
+125,422 
+
+Gross margin 
+
+45.1 
+
+44.5 
+
+42.5 
+
+44.3 
+
+General and administrative expenses 
+
+111,087 
+
+91,914 
+
+4,936 
+
+96,850 
+
+Goodwill and intangibles impairment 
+
+57,944 
+
+- 
+
+- 
+
+- 
+
+Transaction costs 
+
+- 
+
+1,521 
+
+14,167 
+
+15,688 
+
+Loss from operations 
+
+(31,728) 
+
+21,618 
+
+(8,734) 
+
+12,884 
+
+Other income (expense): 
+
+Interest expense, net 
+
+(34,408) 
+
+(34,880) 
+
+(1,644) 
+
+(36,524) 
+
+Loss on extinguishment of debt 
+
+- 
+
+- 
+
+(16,395) 
+
+(16,395) 
+
+Other income, net 
+
+169 
+
+47 
+
+6 
+
+53 
+
+Total other expense 
+
+(34,239) 
+
+(34,833) 
+
+(18,033) 
+
+(52,866) 
+
+Loss before income taxes 
+
+(65,967) 
+
+(13,215) 
+
+(26,767) 
+
+(39,982) 
+
+Income tax benefit 
+
+(4,977) 
+
+(3,303) 
+
+(4,192) 
+
+(7,495) 
+
+Net loss 
+
+(60,990) 
+
+(9,912) 
+
+(22,575) 
+
+(32,487) 
+
+Less accretion of liquidation preference on preferred stock 
+
+(1,930) 
+
+(1,623) 
+
+(126) 
+
+(1,749) 
+
+Net loss available to common shareholders 
+
+(62,920) 
+
+(11,535) 
+
+(22,701) 
+
+(34,236) 
+
+28
+
+Table of Contents 
+
+Twelve Months Ended October 31, 2020 and October 31, 2019 
+ 
+ For the twelve-months ended October 31, 2020, our net loss was 61.0 million, an increase of 28.5 million compared to net loss of 32.5 million in the same period a year ago. The higher net loss was primarily attributable to goodwill and intangible impairment charges totaling 57.9 million resulting from the significant decline in the Company s stock price during the second quarter driven by the COVID-19 pandemic. Despite the impact from COVID-19, we had a 7.5 improvement in revenue year-over-year, driven mostly by (1) the additional assets we obtained from the acquisition of Capital, which supported the operations in our Texas market, (2) modest organic growth in most of our U.S. Concrete Pumping markets and (3) strong revenue growth of 18.0 from our U.S. Concrete Waste Management Services segment. Our improved revenue was slightly offset by a 20.4 year-over-year decline in revenue from our U.K. Operations segment which has been heavily impacted from construction site shutdowns due to COVID-19. Net income for the twelve-months ended October 31, 2020, when compared to the S/P combined period a year ago, was also impacted by (1) lower transaction costs of 15.7 million, most of which were related to the Business Combination, (2) lower loss on extinguishment of debt of 16.4 million, all of which were the result of the Business Combination, and (3) 14.2 million in higher general and administrative expenses primarily due to reporting a full year with Capital and increased stock based compensation expense. 
+ 
+ Total Assets 
+
+October 31, 
+
+October 31, 
+
+(in thousands) 
+ 
+ 2020 
+
+2019 
+
+Total Assets 
+
+U.S. Concrete Pumping 
+
+570,536 
+
+637,384 
+
+U.K. Operations 
+
+109,726 
+
+138,435 
+
+U.S. Concrete Waste Management Services 
+
+140,209 
+
+137,646 
+
+Corporate 
+
+25,517 
+
+24,223 
+
+Intersegment 
+
+(72,230) 
+
+(66,323) 
+
+773,758 
+
+871,365 
+
+Total assets decreased from 871.4 million as of October 31, 2019 to 773.8 million as of October 31, 2020. The decrease is primarily attributable to the goodwill and intangibles impairment charges of 57.9 million that were recorded during the second quarter of fiscal 2020. The remainder is predominately attributable to depreciation and amortization of long lived assets. 
+ 
+ Revenue 
+
+Successor 
+
+Predecessor 
+
+S/P Combined (non-GAAP) 
+
+Change 
+
+(in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+December 6, 2018 through October 31, 2019 
+
+November 1, 2018 through December 5, 2018 
+
+Year Ended October 31, 2019 
+
+Revenue 
+
+U.S. Concrete Pumping 
+
+229,740 
+
+187,031 
+
+16,659 
+
+203,690 
+
+26,050 
+
+12.8 
+
+U.K. Operations 
+
+39,145 
+
+44,021 
+
+5,143 
+
+49,164 
+
+(10,019) 
+
+-20.4 
+
+U.S. Concrete Waste Management Services 
+
+35,890 
+
+27,779 
+
+2,628 
+
+30,407 
+
+5,483 
+
+18.0 
+
+Corporate 
+
+2,500 
+
+2,258 
+
+242 
+
+2,500 
+
+- 
+
+0.0 
+
+Intersegment 
+
+(2,974) 
+
+(2,524) 
+
+(276) 
+
+(2,800) 
+
+(174) 
+
+6.2 
+
+304,301 
+
+258,565 
+
+24,396 
+
+282,961 
+
+21,340 
+
+7.5 
+
+29
+
+Table of Contents 
+
+U.S. Concrete Pumping 
+ 
+ Revenue for our U.S. Concrete Pumping segment increased by 12.8 , or 26.1 million, from 203.7 million in the S/P combined twelve-months ended October 31, 2019 to 229.7 million for fiscal 2020. The incremental benefit of the acquisition of Capital, which added additional pumping capacity to Texas, drove 22.9 million of the increase in revenue. The remaining increase was the result of modest organic growth in many of our markets. 
+ 
+ U.K. Operations 
+ 
+ Revenue for our U.K. Operations segment decreased by 20.4 , or 10.0 million, from 49.2 million in the S/P combined twelve-months ended October 31, 2019 to 39.1 million for fiscal 2020. The decline in revenue was attributable to the impact of COVID-19, which resulted in job site lockdowns on our U.K. business operations in the month of April and negatively impacted operations throughout the remainder of fiscal 2020. 
+ 
+ U.S. Concrete Waste Management Services 
+ 
+ Revenue for the U.S. Concrete Waste Management Services segment improved by 18.0 , or 5.5 million, from 30.4 million in the S/P combined twelve-months ended October 31, 2019 to 35.9 million for fiscal 2020. The increase in revenue was primarily due to robust organic growth, pricing improvements, new product offerings (such as our new roll off service, which allows for 100 to 120 concrete truck mixer wash outs), and continuing momentum in the newer branch locations established over the last year. 
+ 
+ Corporate 
+ 
+ There was limited movement in revenue for our Corporate segment for the periods presented. Any year-over-year changes for our Corporate segment was primarily related to the intercompany leasing of real estate to certain of our U.S Concrete Pumping branches. These revenues are eliminated in consolidation through the Intersegment line included above. 
+ 
+ Gross Margin 
+ 
+ Gross margin for the twelve-months ended October 31, 2020 increased 80 basis points from 44.3 in the S/P combined twelve-months ended October 31, 2019 to 45.1 . The increase in gross margin for the twelve-months ended October 31, 2020 was primarily due to the post-acquisition contribution from Capital and more favorable fuel pricing. 
+ 
+ General and Administrative Expenses 
+ 
+ G A expenses for the twelve-months ended October 31, 2020 were 111.1 million, an increase of 14.2 million from 96.9 million in the S/P combined twelve-months ended October 31, 2019. The overall increase was largely due to (1) a 7.8 million increase in stock-based compensation expense, which was required following a revaluation and acceleration of expense after most outstanding awards were modified at the end of fiscal 2020 and (2) a 2.0 million charge for a settlement reached at the end of fiscal 2020 between the Company and our previous shareholders as a result of carrying back certain net operating loss carryforwards and remitting them to the prior shareholders. The remaining increase in G A expenses is mostly attributable to having a full year of Capital s results in G A expenses. 
+ 
+ G A expenses as a percent of revenue ("G A rate") were 36.5 for fiscal 2020 compared to 34.2 for the same period a year ago. Excluding non-cash costs for depreciation expense, amortization of intangibles, and stock-based compensation expense, our G A rate increased slightly from 20.7 in the S/P combined twelve-months ended October 31, 2019 to 21.2 in fiscal 2020. 
+
+30
+
+Table of Contents 
+
+Transaction Costs Debt Extinguishment Costs 
+ 
+ Transaction costs include expenses for legal, accounting, and other professionals that were engaged in connection with an acquisition. There were no transaction costs or debt extinguishment costs during fiscal 2020. Transaction costs amounted to 1.5 million for the successor period from December 6, 2018 through October 31, 2019, which were associated with the Capital Acquisition. 
+ 
+ During the period from November 1, 2018 through December 5, 2018, the Predecessor incurred transaction costs of 14.2 and debt extinguishment costs of 16.4 million. All costs in this period were related to the Business Combination. 
+ 
+ Interest Expense, Net 
+ 
+ Interest expense, net for the Successor year ended October 31, 2020 was 34.4 million, down 2.1 million from the same S/P combined period from a year ago as a result of lower average debt balances and lower variable interest rates. 
+ 
+ Goodwill and Intangibles Impairment 
+ 
+ During the second quarter of fiscal year 2020, as a result of the COVID-19 impact on the Company s market capitalization, with the assistance of a third party valuation specialist, we performed an interim impairment test over our indefinite-lived trade name intangible assets and goodwill as of April 30, 2020. The analysis resulted in 57.9 million in impairments, including a 5.0 million impairment of our Brundage-Bone Concrete Pumping trade-name, a 38.5 million goodwill impairment for our U.S Concrete Pumping reporting unit and a 14.4 million impairment to our U.K. Operations reporting unit. There were no additional impairments recorded for the remainder of fiscal 2020. 
+ 
+ Income Tax (Benefit) Provision 
+ 
+ For the twelve-months ended October 31, 2020, the Company recorded an income tax benefit of 5.0 million on a pretax loss of 66.0 million. Our income tax provision was mostly impacted by the following factors during fiscal 2020: 
+
+(1) 
+ Of the 57.9 million of impairments recorded for goodwill and intangibles by the Company during the second quarter of fiscal 2020, only 11.2 million was deductible for tax purposes 2.7 million tax benefit to the Company) as the remaining impairment was related to nondeductible goodwill; 
+
+(2) 
+ We recorded a tax benefit of 1.4 million in the Successor year ended October 31, 2020 related to write-up in the carrying value of certain net operating losses NOL carryforwards as it was determined that those NOLs would be carried back to prior years pursuant to the provisions included in the CARES Act; 
+
+(3) 
+ As a result of the increase in the deferred statutory U.K. corporate tax rate from 17 to 19 in fiscal 2020, we recorded 0.9 million of tax expense 
+
+(4) 
+ We recorded nondeductible expenses related to a settlement with the Predecessor shareholders that resulted in a 0.4 million permanent tax difference; and 
+
+For the S/P Combined twelve months ended October 31, 2019, the Company recorded an income tax benefit of 7.5 million on a pretax loss of 40.0 million, resulting in an effective tax rate of 18.7 . Our income tax benefit was negatively impacted by 1.4 million of transaction expenses that were not deductible and 0.3 million in deferred taxes on undistributed foreign earnings. 
+
+31
+
+Table of Contents 
+
+Adjusted EBITDA 1 
+
+Net Income 
+
+Adjusted EBITDA 
+
+(in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+S/P Combined Year Ended October 31, 2019 
+
+Year Ended October 31, 2020 
+
+S/P Combined Year Ended October 31, 2019 
+
+Change 
+
+Change 
+
+U.S. Concrete Pumping 
+
+(50,140) 
+
+(36,283) 
+
+74,886 
+
+62,821 
+
+12,065 
+
+19.2 
+
+U.K. Operations 
+
+(16,620) 
+
+1,281 
+
+12,228 
+
+15,694 
+
+(3,466) 
+
+-22.1 
+
+U.S. Concrete Waste Management Services 
+
+4,404 
+
+489 
+
+17,686 
+
+14,177 
+
+3,509 
+
+24.8 
+
+Corporate 
+
+1,366 
+
+2,026 
+
+2,501 
+
+2,802 
+
+(301) 
+
+-10.7 
+
+(60,990) 
+
+(32,487) 
+
+107,301 
+
+95,494 
+
+11,807 
+
+12.4 
+
+1 Please see Non-GAAP Measures (EBITDA and Adjusted EBITDA) below for reconciliation of Net Income (Loss) to EBITDA to Adjusted EBITDA. 
+ 
+ U.S. Concrete Pumping 
+ 
+ Adjusted EBITDA for our U.S. Concrete Pumping segment was 74.9 million for the twelve-months ended October 31, 2020, up 19.2 from 62.8 million for the S/P combined twelve-months ended October 31, 2019. The significant year-over-year increase was due primarily to (1) the acquisition of Capital, (2) modest organic revenue growth in many of our remaining markets and (3) improved gross margins as a result of more favorable fuel pricing. 
+ 
+ U.K. Operations 
+ 
+ Adjusted EBITDA for our U.K. Operations segment was 12.2 million for the twelve-months ended October 31, 2020, down 22.1 from 15.7 million for the S/P combined twelve-months ended October 31, 2019. The decrease was primarily attributable to the year-over-year decline in revenue due to the negative impact on construction activity resulting from COVID-19 imposed operating conditions. 
+ 
+ U.S. Concrete Waste Management Services 
+ 
+ Adjusted EBITDA for our U.S. Concrete Waste Management Services segment was 17.7 million for the Successor year ended October 31, 2020, up 24.8 from 14.2 million for the S/P combined twelve-months ended October 31, 2019. The increase was primarily attributable to the year-over-year change in revenue discussed previously. 
+ 
+ Corporate 
+ 
+ There was limited movement in Adjusted EBITDA for our Corporate segment for the periods presented. Any year-over-year changes for our Corporate segment was primarily related to the allocation of overhead costs. 
+
+32
+
+Table of Contents 
+
+Liquidity and Capital Resources 
+ 
+ Overview 
+ 
+ We use our liquidity and capital resources to: (1) finance working capital requirements; (2) service our indebtedness; (3) purchase property, plant and equipment; and (4) finance strategic acquisitions, such as the acquisition of Capital. Our primary sources of liquidity are cash generated from operations, available cash and cash equivalents and access to our revolving credit facility under our Asset-Based Lending Credit Agreement (the ABL Credit Agreement ), which provides for aggregate borrowings of up to 60.0 million, subject to a borrowing base limitation. As of October 31, 2020, we had 6.7 million of cash and cash equivalents and 52.6 million of available borrowing capacity under the ABL Credit Agreement, providing total available liquidity of 59.3 million. 
+ 
+ Capital Resources 
+ 
+ Our capital structure is primarily a combination of (1) permanent financing, represented by stockholders equity; (2) zero-dividend convertible perpetual preferred stock; (3) long-term financing represented by our Term Loan Agreement (defined below) and (4) short-term financing under our ABL Credit Agreement. We may from time to time seek to retire or pay down borrowings on the outstanding balance of our ABL Credit Agreement or Term Loan Agreement using cash on hand. Such repayments, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. 
+ 
+ After consideration of any potential impacts from COVID-19 on our operations, we believe our existing cash and cash equivalent balances, cash flow from operations, and borrowing capacity under our ABL Credit Agreement will be sufficient to meet our working capital and capital expenditure needs for at least the next 12 months. Our future capital requirements may vary materially from those currently planned and will depend on many factors, including our rate of revenue growth, potential acquisitions and overall economic conditions. To the extent that current and anticipated future sources of liquidity are insufficient to fund our future business activities and requirements, we may be required to seek additional equity or debt financing. The sale of additional equity could result in dilution to our stockholders. The incurrence of debt financing would result in debt service obligations and the agreements in place governing such debt could provide for operating and financing covenants that could restrict our operations. 
+ 
+ Term Loan Agreement and ABL Credit Agreement 
+ 
+ As part of the Business Combination, the Company entered into (i) a Term Loan Agreement, dated December 6, 2018, among the Company, certain subsidiaries of the Company, Credit Suisse AG, Cayman Islands Branch as administrative agent and Credit Suisse Loan Funding LLC, Jefferies Finance LLC and Stifel Nicolaus Company Incorporated LLC as joint lead arrangers and joint bookrunners, and the other Lenders party thereto (as amended, the Term Loan Agreement and (ii) a Credit Agreement, dated December 6, 2018, among the Company, certain subsidiaries of the Company, Wells Fargo Bank, National Association, as agent, sole lead arranger and sole bookrunner, the other Lenders party thereto and the other parties thereto ABL Credit Agreement ). Summarized terms of those debt agreements are included below. 
+ 
+ Term Loan Agreement 
+ 
+ Summarized terms of the Term Loan Agreement are as follows: 
+
+Provides for an original aggregate principal amount of 357.0 million. This amount was increased in May 2019 by 60.0 million in connection with the acquisition of Capital; 
+
+The initial term loans advanced will mature and be due and payable in full seven years after the issuance, with principal amortization payments in an annual amount equal to 5.00 of the original principal amount; 
+
+Borrowings under the Term Loan Agreement, will bear interest at either (1) an adjusted LIBOR rate or (2) an alternate base rate, plus an applicable margin of 6.00 or 5.00 , respectively; 
+
+The Term Loan Agreement is secured by (i) a first priority perfected lien on substantially all of the assets of the Company and certain of its subsidiaries that are loan parties thereunder to the extent not constituting ABL Credit Agreement priority collateral and (ii) a second priority perfected lien on substantially all ABL Credit Agreement priority collateral, in each case subject to customary exceptions and limitations; 
+
+The Term Loan Agreement includes certain non-financial covenants. 
+
+The outstanding balance under the Term Loan Agreement as of October 31, 2020 was 381.2 million and the Company was in compliance with all debt covenants. The Company s interest on borrowings under the Term Loan Agreement bear interest using the London Inter-bank Offered Rate (LIBOR) as the base rate plus an applicable margin in line with the summarized terms of the Term Loan Agreement as described above. 
+
+33
+
+Table of Contents 
+
+Asset Based Revolving Lending Credit Agreement 
+ 
+ Summarized terms of the ABL Credit Agreement are as follows: 
+
+Borrowing availability in U.S. Dollars and GBP up to a maximum of 60.0 million; 
+
+Borrowing capacity available for standby letters of credit of up to 7.5 million and for swing loan borrowings of up to 7.5 million. Any issuance of letters of credit or making of a swingline loan will reduce the amount available under the ABL Facility; 
+
+All loans advanced will mature and be due and payable in full five years after the issuance; 
+
+Amounts borrowed may be repaid at any time, subject to the terms and conditions of the agreement; 
+
+Interest on borrowings in U.S. Dollars and GBP under the ABL Credit Agreement, will bear interest at either (1) an adjusted LIBOR rate or (2) a base rate, in each case plus an applicable margin currently set at 2.25 and 1.25 , respectively. The ABL Credit Agreement is subject to two step-downs of 0.25 and 0.50 based on excess availability levels; 
+
+U.S. ABL Credit Agreement obligations are secured by (i) a perfected first priority security interest in substantially all personal property of the Company and certain of its subsidiaries that are loan parties thereunder consisting of all accounts receivable, inventory, cash, intercompany notes, books and records, chattel paper, deposit, securities and operating accounts and all other working capital assets and all documents, instruments and general intangibles related to the foregoing (the U.S. ABL Priority Collateral and (ii) a perfected second priority security interest in substantially all Term Loan Agreement priority collateral, in each case subject to customary exceptions and limitations; 
+
+U.K. ABL Credit Agreement obligations are secured by (i) a perfected first-priority security interest in (A) the U.S. ABL Priority Collateral, (B) all of the stock (or other ownership interests) in, and held by, the U.K. borrower subsidiaries of the Company, and (C) all of the current and future assets and property of the U.K. subsidiaries of the Company that are loan parties thereunder, including a first-ranking floating charge over all current and future assets and property of each U.K. subsidiary of the Company that is a loan party thereunder; and (ii) a perfected, second-priority security interest in substantially all Term Loan Agreement priority collateral, in each case subject to customary exceptions and limitations; and 
+
+The ABL Credit Agreement also includes (i) a springing financial covenant (fixed charge coverage ratio) based on excess availability levels that the Company must comply with on a quarterly basis during required compliance periods and (ii) certain non-financial covenants. 
+
+The outstanding balance under the ABL Credit Agreement as of October 31, 2020 was 1.7 million and the Company was in compliance with all debt covenants thereunder. 
+ 
+ Cash Flows 
+ 
+ Cash generated from operating activities typically reflects net income, as adjusted for non-cash expense items such as depreciation, amortization and stock-based compensation, and changes in our operating assets and liabilities. Generally, we believe our business requires a relatively low level of working capital investment due to low inventory requirements and customers paying the Company as invoices are submitted daily for many of our services. 
+ 
+ Successor 
+ 
+ Net cash provided by (used in) operating activities generally reflects the cash effects of transactions and other events used in the determination of net income or loss. Net cash provided by operating activities during the twelve-months ended October 31, 2020 was 79.0 million. The Company had a net loss of 61.0 million that included significant non-cash charges, net totaling 133.6 million as follows: (1) Goodwill and intangibles impairment of 57.9 million, (2) depreciation of 28.3 million, (3) amortization of intangible assets of 33.4 million, (4) amortization of deferred financing costs of 4.1 million (5) stock-based compensation expense of 11.5 million, and (6) gain on sale of 1.5 million. In addition, we had cash inflows related to the following activity: (1) a decrease of 1.6 million in trade receivables, (2) a decrease of prepaid expenses and other current assets of 1.7 million, and (3) an increase of 5.8 million in accrued payroll, accrued expenses and other current liabilities. These amounts were partially offset by outflows related to the following activity: (1) a decrease of 1.0 million in income taxes payable, (2) a decrease of 0.8 million in accounts payable, and (3) a 0.5 million payment of contingent consideration in connection with the acquisition of Camfaud in excess of amounts established in purchase accounting. 
+
+34
+
+Table of Contents 
+
+We used 35.9 million to fund investing activities during the twelve-months ended October 31, 2020. The Company used 39.3 million for the purchase of property, plant and equipment, which was partially offset by 3.5 million in proceeds from the sale of property, plant and equipment. 
+ 
+ Net cash used in financing activities was 43.9 million for the twelve-months ended October 31, 2020. Financing activities during this period included 21.7 million in net payments under the Company s ABL Credit Agreement, 20.9 in payments on the Company's Term Loan Agreement, and the payment of the contingent consideration in connection with the acquisition of Camfaud of 1.2 million. 
+ 
+ Net cash provided by operating activities during the period from December 6, 2018 through October 31, 2019 (the Successor Period was 22.8 million. The Company had a net loss of 9.9 million that included significant non-cash charges totaling 60.0 million as follows: (1) depreciation of 20.3 million, (2) amortization of intangible assets of 32.4 million, (3) amortization of deferred financing costs of 3.7 million and (4) stock-based compensation expense of 3.6 million. These amounts were partially offset by net cash outflows related to the following activity: (1) an increase of 5.9 million in trade receivables, (2) a 0.5 million increase in inventory, (3) a 1.0 million increase in prepaid expenses and other current assets, (4) an increase of 2.4 million in our net deferred income taxes, (5) a decrease in income taxes payable of 1.4 million, (6) a 7.3 million decrease in accounts payable, and (7) a decrease of 8.3 million in accrued payroll, accrued expenses and other current liabilities. 
+ 
+ We used 374.9 million to fund investing activities during the Successor Period. The Company paid 449.2 million to fund the Business Combination, 129.2 million to fund the acquisition of Capital and 2.3 million to fund other business combinations. Additionally, 35.7 million was used to purchase machinery, equipment and other vehicles to service our business. These cash outflows were partially offset by 238.5 million in cash withdrawn from Industrea trust account in addition to proceeds from the sale of property, plant and equipment of 3.1 million. 
+ 
+ Net cash used in financing activities was 361.6 million for the Successor Period. Financing activities during the Successor Period included cash inflows from 402.1 million in net borrowings from our new Term Loan Agreement, 23.3 million in net borrowings under the Company s new ABL Credit Agreement, 174.3 million from the issuance of common shares, 1.4 million in proceeds from the exercise of stock options and an additional 25.0 million from the issuance of preferred stock. All of these cash inflows were used to fund business combinations and other operational activity such as equipment purchases. These cash inflows were offset by payments for redemptions of common stock totaling 231.4 million, 24.9 million for the payment of debt issuance costs (which are inclusive of any original issuance discounts) that were associated with the Term Loan Agreement and new ABL Credit Agreement, and 8.1 million in payments for underwriting fees. 
+ 
+ Predecessor 
+ 
+ Net cash provided by operating activities during the period from November 1, 2018 through December 5, 2018 (the Predecessor Period was 7.9 million. The Company had a net loss of 22.6 million that included significant non-cash charges totaling 18.5 million as follows: (1) depreciation of 2.1 million, (2) prepayment penalty on early extinguishment of debt of 13.0 million, and (3) write off deferred debt issuance costs of 3.4 million. The Company had cash outflows due to (1) an increase of 0.3 million in inventory, (2) a 1.3 million increase in prepaid expenses and other current assets, (3) an increase of 4.4 million in our net deferred income taxes, and (4) a 0.7 million decrease in accounts payable. The amounts were more than offset by cash inflows from an increase of 17.3 million in accrued payroll, accrued expenses and other current liabilities. 
+ 
+ We used 0.1 million to fund investing activities during the Predecessor Period. We used 0.5 million to fund purchases of machinery, equipment and other vehicles to service our business. This was offset by 0.4 million in proceeds received from the sale of property, plant and equipment. 
+ 
+ We used 15.4 million to fund financing activities during the Predecessor Period and this activity was driven by 15.4 million of net borrowings under the Revolver to operate our business and fund acquisitions. 
+
+35
+
+Table of Contents 
+
+Off-Balance Sheet Arrangements 
+ 
+ We do not currently have any off-balance sheet arrangements that have had or are reasonably likely to have a material current or future effect on our financial condition, revenue or expenses, results of operations, liquidity, capital expenditures, or capital resources. From time to time, we enter into non-cancellable operating leases that are not reflected on our balance sheet. At October 31, 2020, we had 1.2 million of undrawn letters of credit outstanding. 
+ 
+ Non-GAAP Measures (EBITDA and Adjusted EBITDA) 
+ 
+ We calculate EBITDA by taking GAAP net income and adding back interest expense, income taxes, depreciation and amortization. Adjusted EBITDA is calculated by taking EBITDA and adding back transaction expenses, loss on debt extinguishment, stock-based compensation, other income, net, and other adjustments. We believe these non-GAAP measures of financial results provide useful information to management and investors regarding certain financial and business trends related to our financial condition and results of operations, and provide a tool for investors to use in evaluating our ongoing operating results and trends and in comparing our financial measures with competitors who also present similar non-GAAP financial measures. In addition, these measures (1) are used in quarterly and annual financial reports prepared for management and our board of directors and (2) help management to determine incentive compensation. EBITDA and Adjusted EBITDA have limitations and should not be considered in isolation or as a substitute for performance measures calculated under GAAP. These non-GAAP measures exclude certain cash expenses that we are obligated to make. In addition, other companies in our industry may calculate EBITDA and Adjusted EBITDA differently or may not calculate it at all, which limits the usefulness of EBITDA and Adjusted EBITDA as comparative measures. Transaction expenses represent expenses for legal, accounting, and other professionals that were engaged in the completion of various acquisitions. Transaction expenses can be volatile as they are primarily driven by the size of a specific acquisition. As such, we exclude these amounts from Adjusted EBITDA for comparability across periods. Other adjustments include severance expenses, director fees, expenses related to being a newly publicly-traded company and other non-recurring costs, which includes the 2.0 million charge recorded during fiscal 2020 related to a settlement with the Company's prior shareholders. 
+
+S/P Combined 
+
+Successor 
+
+Predecessor 
+
+(non-GAAP) 
+
+(in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+December 6, 2018 through October 31, 2019 
+
+November 1, 2018 through December 5, 2018 
+
+Year Ended October 31, 2019 
+
+Consolidated 
+
+Net loss 
+
+(60,990) 
+
+(9,912) 
+
+(22,575) 
+
+(32,487) 
+
+Interest expense, net 
+
+34,408 
+
+34,880 
+
+1,644 
+
+36,524 
+
+Income tax benefit 
+
+(4,977) 
+
+(3,303) 
+
+(4,192) 
+
+(7,495) 
+
+Depreciation and amortization 
+
+61,655 
+
+52,652 
+
+2,713 
+
+55,365 
+
+EBITDA 
+
+30,096 
+
+74,317 
+
+(22,410) 
+
+51,907 
+
+Transaction expenses 
+
+- 
+
+1,521 
+
+14,167 
+
+15,688 
+
+Loss on debt extinguishment 
+
+- 
+
+- 
+
+16,395 
+
+16,395 
+
+Stock-based compensation 
+
+11,455 
+
+3,619 
+
+- 
+
+3,619 
+
+Other income, net 
+
+(169) 
+
+(47) 
+
+(6) 
+
+(53) 
+
+Goodwill and intangibles impairment 
+
+57,944 
+
+- 
+
+- 
+
+- 
+
+Other adjustments 
+
+7,975 
+
+6,496 
+
+1,442 
+
+7,938 
+
+Adjusted EBITDA 
+
+107,301 
+
+85,906 
+
+9,588 
+
+95,494 
+
+36
+
+Table of Contents 
+
+Successor 
+
+Predecessor 
+
+S/P Combined (non-GAAP) 
+
+(in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+December 6, 2018 through October 31, 2019 
+
+November 1, 2018 through December 5, 2018 
+
+Year Ended October 31, 2019 
+
+U.S. Concrete Pumping 
+
+Net loss 
+
+(50,140) 
+
+(11,031) 
+
+(25,252) 
+
+(36,283) 
+
+Interest expense, net 
+
+31,452 
+
+32,173 
+
+1,154 
+
+33,327 
+
+Income tax benefit 
+
+(5,955) 
+
+(6,658) 
+
+(2,102) 
+
+(8,760) 
+
+Depreciation and amortization 
+
+41,717 
+
+32,245 
+
+1,635 
+
+33,880 
+
+EBITDA 
+
+17,074 
+
+46,729 
+
+(24,565) 
+
+22,164 
+
+Transaction expenses 
+
+- 
+
+1,521 
+
+14,167 
+
+15,688 
+
+Loss on debt extinguishment 
+
+- 
+
+- 
+
+16,395 
+
+16,395 
+
+Stock-based compensation 
+
+11,455 
+
+3,619 
+
+- 
+
+3,619 
+
+Other income, net 
+
+(37) 
+
+(45) 
+
+(6) 
+
+(51) 
+
+Goodwill and intangibles impairment 
+
+43,500 
+
+- 
+
+- 
+
+- 
+
+Other adjustments 
+
+2,894 
+
+4,245 
+
+761 
+
+5,006 
+
+Adjusted EBITDA 
+
+74,886 
+
+56,069 
+
+6,752 
+
+62,821 
+
+Successor 
+
+Predecessor 
+
+S/P Combined (non-GAAP) 
+
+(in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+December 6, 2018 through October 31, 2019 
+
+November 1, 2018 through December 5, 2018 
+
+Year Ended October 31, 2019 
+
+U.K. Operations 
+
+Net income (loss) 
+
+(16,620) 
+
+1,123 
+
+158 
+
+1,281 
+
+Interest expense, net 
+
+2,955 
+
+2,705 
+
+490 
+
+3,195 
+
+Income tax expense 
+
+80 
+
+538 
+
+49 
+
+587 
+
+Depreciation and amortization 
+
+8,422 
+
+8,807 
+
+890 
+
+9,697 
+
+EBITDA 
+
+(5,163) 
+
+13,173 
+
+1,587 
+
+14,760 
+
+Transaction expenses 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Loss on debt extinguishment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock-based compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other income, net 
+
+(132) 
+
+- 
+
+- 
+
+- 
+
+Goodwill and intangibles impairment 
+
+14,444 
+
+- 
+
+- 
+
+- 
+
+Other adjustments 
+
+3,079 
+
+861 
+
+73 
+
+934 
+
+Adjusted EBITDA 
+
+12,228 
+
+14,034 
+
+1,660 
+
+15,694 
+
+37
+
+Table of Contents 
+
+Successor 
+
+Predecessor 
+
+S/P Combined (non-GAAP) 
+
+(in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+December 6, 2018 through October 31, 2019 
+
+November 1, 2018 through December 5, 2018 
+
+Year Ended October 31, 2019 
+
+U.S. Concrete Waste Management Services 
+
+Net income (loss) 
+
+4,404 
+
+(1,520) 
+
+2,009 
+
+489 
+
+Interest expense, net 
+
+- 
+
+2 
+
+- 
+
+2 
+
+Income tax expense (benefit) 
+
+593 
+
+2,485 
+
+(1,784) 
+
+701 
+
+Depreciation and amortization 
+
+10,687 
+
+10,871 
+
+163 
+
+11,034 
+
+EBITDA 
+
+15,684 
+
+11,838 
+
+388 
+
+12,226 
+
+Transaction expenses 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Loss on debt extinguishment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock-based compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other income, net 
+
+- 
+
+(2) 
+
+- 
+
+(2) 
+
+Goodwill and intangibles impairment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other adjustments 
+
+2,002 
+
+1,342 
+
+611 
+
+1,953 
+
+Adjusted EBITDA 
+
+17,686 
+
+13,178 
+
+999 
+
+14,177 
+
+Successor 
+
+Predecessor 
+
+S/P Combined (non-GAAP) 
+
+(in thousands) 
+ 
+ Year Ended October 31, 2020 
+
+December 6, 2018 through October 31, 2019 
+
+November 1, 2018 through December 5, 2018 
+
+Year Ended October 31, 2019 
+
+Corporate 
+
+Net income 
+
+1,366 
+
+1,516 
+
+510 
+
+2,026 
+
+Interest expense, net 
+
+1 
+
+- 
+
+- 
+
+- 
+
+Income tax expense (benefit) 
+
+305 
+
+332 
+
+(355) 
+
+(23) 
+
+Depreciation and amortization 
+
+829 
+
+729 
+
+25 
+
+754 
+
+EBITDA 
+
+2,501 
+
+2,577 
+
+180 
+
+2,757 
+
+Transaction expenses 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Loss on debt extinguishment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Stock-based compensation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other income, net 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Goodwill and intangibles impairment 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other adjustments 
+
+- 
+
+48 
+
+(3) 
+
+45 
+
+Adjusted EBITDA 
+
+2,501 
+
+2,625 
+
+177 
+
+2,802 
+
+Jobs Act 
+ 
+ On April 5, 2012, the JOBS Act was signed into law. The JOBS Act contains provisions that, among other things, relax certain reporting requirements for qualifying public companies. As we are an emerging growth company, we have qualified for and have previously elected to delay the adoption of new or revised accounting standards, and as a result, we may not comply with new or revised accounting standards on the relevant dates on which adoption of such standards is required for non-emerging growth companies. As a result, our financial statements may not be comparable to companies that comply with new or revised accounting pronouncements as of public company effective dates. If we were to subsequently elect instead to comply with these public company effective dates, such election would be irrevocable pursuant to Section 107 of the JOBS Act. 
+
+38
+
+Table of Contents 
+
+Critical Accounting Policies and Estimates 
+ 
+ In presenting our financial statements in conformity with U.S. GAAP, we are required to make estimates and assumptions that affect the amounts reported therein. Several of the estimates and assumptions we are required to make relate to matters that are inherently uncertain as they pertain to future events. However, events that are outside of our control cannot be predicted and, as such, they cannot be contemplated in evaluating such estimates and assumptions. If there is a significant unfavorable change to current conditions, it could result in a material impact to our consolidated and combined results of operations, financial position and liquidity. We believe that the estimates and assumptions we used when preparing our financial statements were the most appropriate at that time. Presented below are those accounting policies that we believe require subjective and complex judgments that could potentially affect reported results. However, the majority of our business activities are in environments where we are paid a fee for a service performed, and therefore the results of the majority of our recurring operations are recorded in our financial statements using accounting policies that are not particularly subjective, nor complex. 
+ 
+ Listed below are those estimates that we believe are critical and require the use of complex judgment in their application. 
+ 
+ Goodwill and Intangible Assets 
+ 
+ In accordance with ASC Topic 350, Intangibles Goodwill and Other ASC 350 ), the Company evaluates goodwill for possible impairment annually, generally as of August 31st, or more frequently if events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. The Company uses a two-step process to assess the realizability of goodwill. The first step is a qualitative assessment that analyzes current economic indicators associated with a particular reporting unit. For example, the Company analyzes changes in economic, market and industry conditions, business strategy, cost factors, and financial performance, among others, to determine if there are indicators of a significant decline in the fair value of a particular reporting unit. If the qualitative assessment indicates a stable or improved fair value, no further testing is required. If a qualitative assessment indicates it is more likely than not that the fair value of a reporting unit is less than its carrying amount, the Company will proceed to the quantitative second step where the fair value of a reporting unit is calculated based on weighted income and market-based approaches. If the fair value of a reporting unit is lower than its carrying value, an impairment to goodwill is recorded, not to exceed the carrying amount of goodwill in the reporting unit. 
+ 
+ Fair value determinations require considerable judgment and are sensitive to changes in underlying assumptions, estimates and market factors. Estimating fair value of individual reporting units and indefinite-lived intangible assets requires us to make assumptions and estimates regarding our future plans, as well as industry and economic conditions including those relating to the duration and severity of COVID-19. These assumptions and estimates include projected revenue, trade name royalty rates, discount rate, tax amortization benefit and other market factors outside of our control. The Company elects to perform a qualitative assessment for the other quarterly reporting periods throughout the fiscal year. 
+ 
+ During the second quarter of fiscal year 2020, the Company identified a triggering event from the recent decline in its stock price and deterioration in general economic conditions resulting from the COVID-19 pandemic. As a result, the Company performed an interim step one goodwill impairment analysis in accordance with ASU 2017-04, Intangibles Goodwill and Other (ASC 350): Simplifying the Test for Goodwill Impairment ASU 2017-04 and recorded a goodwill and intangibles impairment charge of 57.9 million. No such impairment was required during the remainder of fiscal 2020. 
+ 
+ When we perform any goodwill impairment test, the estimated fair value of our reporting units are determined using an income approach that utilizes a discounted cash flow DCF model and a market approach that utilizes the guideline public company method GPC ), both of which are weighted for each reporting unit and are discussed below in further detail. In accordance with ASC 820, we evaluated the methods for reasonableness and reliability and assigned weightings accordingly. A mathematical weighting is not prescribed by ASC 820, rather it requires judgement. As such, each of the valuation methods were weighted by accounting for the relative merits of each method and considered, among other things, the reliability of the valuation methods and the inputs used in the methods. In addition, in order to assess the reasonableness of the fair value of our reporting units as calculated under both approaches, we also compare the Company s total fair value to its market capitalization and calculate an implied control premium (the excess sum of the reporting unit s fair value over its market capitalization). We evaluate the implied control premium by comparing it to control premiums of recent comparable market transactions, as applicable. 
+
+39
+
+Table of Contents 
+
+Under the income approach, the DCF model is based on expected future after-tax operating cash flows of the reporting unit, discounted to a present value using a risk-adjusted discount rate. Estimates of future cash flows require management to make significant assumptions concerning (i) future operating performance, including future sales, long-term growth rates, operating margins, variations in the amount and timing of cash flows and the probability of achieving the estimated cash flows, (ii) the probability of regulatory approvals, and (iii) future economic conditions, including the extent and duration of the COVID-19 pandemic, all of which may differ from actual future cash flows. These assumptions are based on significant inputs not observable in the market and thus represent Level 3 measurements within the fair value hierarchy. The discount rate, which is intended to reflect the risks inherent in future cash flow projections, used in the DCF model, is based on estimates of the weighted average cost of capital WACC of market participants relative to our reporting unit. Financial and credit market volatility can directly impact certain inputs and assumptions used to develop the WACC. Any changes in these assumptions may affect our fair value estimate and the result of an impairment test. The discount rates and other inputs and assumptions are consistent with those that a market participant would use. 
+ 
+ The GPC method provides an estimate of value using multiples derived from the stock prices of publicly traded companies. This method requires a selection of comparable publicly-traded companies on major exchanges and involves a certain degree of judgment, as no two companies are entirely alike. These companies should be engaged in the same or a similar line of business as the reporting units be evaluated. Once comparable companies are selected, the application of the GPC method includes (i) analysis of the guideline public companies' financial and operating performance, growth, intangible asset's value, size, leverage, and risk relative to the respective reporting unit, (ii) calculation of valuation multiples for the selected guideline companies, and (iii) application of the valuation multiples to each reporting unit's selected operating metrics to arrive at an indication of value. Market multiples for the selected guideline public companies are developed by dividing the business enterprise value of each guideline public company by a measure of its financial performance (e.g., earnings). The business enterprise value is calculated taking the market value of equity (share price times fully-diluted shares outstanding) plus total interest bearing debt net of cash, preferred stock and minority interest. The market value of equity is based upon the stock price of equity as of the valuation date, and the debt figures are taken from the most recently available financial statements as of the valuation date. In selecting appropriate multiples to apply to each reporting unit, we perform a comparative analysis between the reporting units and the guideline public companies. In making a selection, we consider the revenue growth, profitability and the size of the reporting unit compared to the guideline public companies, and the overall EBITDA multiples implied from the transaction price. In addition, we consider a control premium for purposes of estimating the fair value of our reporting units as we believe that a market participant buyer would be required to pay a premium for control of our business. The control premium utilized is based on control premiums observed in recent comparable market transactions. 
+ 
+ The impairment charges were primarily due to COVID-19, which negatively impacted our market capitalization, drove an increase in the discount rate that is utilized in our DCF models, and negatively impacted near-term cash flow expectations. 
+ 
+ Income Taxes 
+ 
+ We are subject to income taxes in the U.S., U.K. and other jurisdictions. Significant judgment is required in determining our provision for income tax, including evaluating uncertainties in the application of accounting principles and complex tax laws. 
+ 
+ Income taxes include federal, state and foreign taxes currently payable and deferred taxes arising from temporary differences between income for financial reporting and income tax purposes. Deferred tax assets and liabilities are determined based on the differences between the financial statement balances and the tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the year that includes the enactment date. Valuation allowances are established when necessary to reduce deferred tax assets to amounts expected to be realized. 
+
+40
+
+Table of Contents 
+
+Stock-Based Compensation. 
+ 
+ ASC Topic 718, Compensation Stock Compensation ASC 718 requires that share-based compensation expense be measured and recognized at an amount equal to the fair value of share-based payments granted under compensation arrangements. The fair value of each restricted stock award or stock option awards (with an exercise price of 0.01) that only contains a time-based vesting condition is equal to the market value of our common stock on the date of grant. A substantial portion of the Company's stock awards contain a market condition. For those awards, we estimate the fair value using a Monte Carlo simulation model whereby the fair value of the awards is fixed at grant date and amortized over the longer of the remaining performance or service period. The Monte Carlo Simulation valuation model incorporates the following assumptions: expected stock price volatility, the expected life of the awards, a risk-free interest rate and expected dividend yield. Significant judgment is required in determining the expected volatility of our common stock. Due to the limited history of trading of the Company s common stock, the Company determined expected volatility based on a peer group of publicly traded companies. 
+ 
+ The Company accounts for forfeitures as they occur. 
+ 
+ Recently Issued Accounting Standards 
+ 
+ For a detailed description of recently adopted and new accounting pronouncements refer to Note 2 to the Company s audited financial statements included elsewhere in this Annual Report. 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+ 
+ We are a smaller reporting company as defined in Rule 12b-2 of the Exchange Act; therefore, pursuant to Item 305(e) of Regulation S-K, we are not required to provide the information required by this Item. 
+
+41

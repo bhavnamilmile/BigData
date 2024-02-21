@@ -1,0 +1,1284 @@
+﻿
+in the forepart of this Annual Report. 
+
+Business
+Overview 
+
+Pareteum
+Corporation (OTC: TEUM) is a growth-oriented cloud software communications platform company with a mission to Connect
+Every Person and Every(Thing) . Pareteum s goal is to unleash the power of applications and mobile services, bringing
+secure, ubiquitous, scalable, and seamlessly available voice, video, SMS/text messaging, and data services to its customers, making
+worldwide communications services easily and economically accessible to everyone. By harnessing the value of our cloud communications
+platform, Pareteum serves enterprises, communications service providers, early-stage innovators, developers, IoT and telecommunications
+infrastructure providers. 
+
+Pareteum
+integrates a variety of disparate communications methods and services and offers them to customers and application developers,
+allowing communications to become a value-added service. The vast majority of our platform is comprised of our internally-developed
+software and intellectual property, which provides our customers with flexibility in how they use our products and allows us to
+be market driven going forward. We have been granted over 70 patents related to techniques and processes which support our cloud
+software and communications platform solutions. Our platform services partners (whose technologies are integrated into our cloud)
+include Hewlett Packard, IBM, Sonus, Oracle, Microsoft, NetNumber, Affirmed and other world-class technology providers. 
+
+The
+Pareteum cloud communications platform targets large and growing sectors from IoT, MVNO, Smart Cities, and Application developer
+markets each in need of mobile platforms, management and connectivity. These sectors need Communications-Platform-as-a-Service
+(CPaaS), which Pareteum delivers. Our vision is to empower Communication Service Providers, Enterprises and Developers to simply
+create and control their own wireless communications products and experiences through our powerful combination of software, services
+and global connectivity. 
+
+Pareteum
+Corporation, a Delaware corporation, was originally formed in 2001 as Elephant Talk Communications Corp. as a result of a merger
+between Staruni Corporation (USA, 1962) and Elephant Talk Limited (Hong Kong, 1994). Since 2016, our name has been Pareteum Corporation,
+and from November 12, 2019 until November 12, 2020, our common stock was traded on the Nasdaq Capital Market under the ticker
+symbol TEUM. Prices for our common stock are now quoted on the Pink Sheets under the same symbol. 
+
+Restatement
+and Revision of Previously Issued Interim Financial Statements 
+
+We
+restated the unaudited quarterly financial statements as of and for the three months ended March 31, 2019 and as of and for the
+three and six months ended June 30, 2019. The impact of the restatement is reflected in this Management s Discussion and
+Analysis of Financial Condition and Results of Operations MD A ), see the discussion below in Consolidated
+Quarterly Results . The Company has not yet filed its Quarterly Report on Form 10-Q for the period ended September 30, 2019
+with the SEC. 
+
+Delisting
+of the Company s Common Stock 
+
+On
+November 5, 2020, the Company notified the Nasdaq Hearings Panel that it would not be able to file its Quarterly Report on Form
+10-Q for the period ended September 30, 2019, its amended Annual Report on Form 10-K/A for the year ended December 31, 2018, its
+Annual Report on Form 10-K for the year ended December 31, 2019 or its Quarterly Reports on Form 10-Q for the periods ended March
+31, 2020 and June 30, 2020 by November 9, 2020, the date by which the Nasdaq Hearings Panel had required the Company to make such
+filings in order for the Company s common stock to remain listed on Nasdaq Capital Market. 
+
+In
+response to the Company s notice to the Nasdaq Stock Market that it would not satisfy the conditions to the exception to
+the listing requirements granted by the Hearing Panel, the Nasdaq Stock Market notified the Company by letter dated November 10,
+2020 that the Company s common stock would be delisted, and trading of the Company s common stock on Nasdaq s
+Capital Market was suspended effective at the open of business on November 12, 2020. Since the trading of the Company s
+common stock was suspended, prices for our common stock have been quoted on Pink Sheets. 
+
+30 
+
+Results
+of Operations 
+
+Consolidated
+Annual Results 
+
+Our
+results of operations for the periods presented were as follows: 
+
+Years Ended December 31, 
+ Change 
+ 
+ in thousands) 
+ 2019 
+ 2018 
+ Increase/(Decrease) 
+ 
+ REVENUES 
+ 62,049 
+ 20,258 
+ 41,791 
+
+COST AND OPERATING EXPENSES 
+
+Cost of revenues (excluding depreciation and amortization) 
+ 47,134 
+ 10,054 
+ 37,080 
+ 
+ Product development 
+ 12,956 
+ 3,083 
+ 9,873 
+ 
+ Sales and marketing 
+ 10,345 
+ 3,197 
+ 7,148 
+ 
+ General and administrative 
+ 34,583 
+ 17,330 
+ 17,253 
+ 
+ Restructuring and acquisition costs 
+ 3,457 
+ 7,260 
+ (3,803 
+ 
+ Impairment of goodwill and intangible assets 
+ 160,989 
+ - 
+ 160,989 
+ 
+ Depreciation and amortization 
+ 12,938 
+ 5,427 
+ 7,511 
+ 
+ Total cost and operating expenses 
+ 282,402 
+ 46,351 
+ 236,051 
+
+LOSS FROM OPERATIONS 
+ (220,353 
+ (26,093 
+ (194,260 
+
+OTHER INCOME (EXPENSE) 
+
+Interest income 
+ 358 
+ 184 
+ 174 
+ 
+ Interest expense 
+ (2,120 
+ (309 
+ (1,811 
+ 
+ Interest expense related to debt discount and conversion feature 
+ (619 
+ (184 
+ (435 
+ 
+ Changes in derivative liabilities 
+ - 
+ 1,284 
+ (1,284 
+ 
+ Loss on extinguishment of debt 
+ (8,873 
+ - 
+ (8,873 
+ 
+ Gain on equity investment 
+ - 
+ 6,371 
+ (6,371 
+ 
+ Amortization of deferred financing costs 
+ (237 
+ (29 
+ (208 
+ 
+ Other income (expense), net 
+ (3,221 
+ 578 
+ (3,799 
+ 
+ Total other income (expense) 
+ (14,712 
+ 7,895 
+ (22,607 
+
+LOSS BEFORE BENEFIT FOR INCOME TAXES 
+ (235,065 
+ (18,198 
+ (216,867 
+ 
+ Income tax benefit 
+ (8,295 
+ (174 
+ (8,121 
+ 
+ NET LOSS 
+ (226,770 
+ (18,024 
+ (208,746 
+
+OTHER COMPREHENSIVE LOSS 
+
+Foreign currency translation loss 
+ (219 
+ (200 
+ (19 
+ 
+ COMPREHENSIVE LOSS 
+ (226,989 
+ (18,224 
+ (208,765 
+
+Although
+the majority of our business activity is carried out in Euros, we report our financial statements in U.S. dollars USD ).
+The conversion of Euros and USD leads to period-to-period fluctuations in our reported USD results arising from changes in the
+exchange rate between the USD and the Euro. Generally, when the USD strengthens relative to the Euro, it has an unfavorable impact
+on our reported revenue and income and a favorable impact on our reported expenses. Conversely, when the USD weakens relative
+to the Euro, it produces a favorable impact on our reported revenue and income, and an unfavorable impact on our reported expenses.
+These fluctuations in the USD/Euro exchange rate therefore result in currency translation effects (not to be confused with real
+currency exchange effects), which impact our reported USD results and may make it difficult to determine actual increases and
+decreases in our revenue and expenses that are attributable to our actual operating activities. We carry out our business activities
+primarily in Euros, and we do not currently engage in hedging activities. 
+
+The
+following table shows the average USD equivalent of the major currencies used to translate our financial results for the years
+ended December 31, 2019 and 2018: 
+
+USD 
+
+Equivalent 
+
+2019 
+ 2018 
+ 
+ Euro 
+ 1.14460 
+ 1.18102 
+ 
+ British Pound 
+ 1.27369 
+ 1.33501 
+
+31 
+
+Comparison
+of Years Ended December 31, 2019 and 2018 
+
+Revenue 
+
+We
+generate revenues primarily through providing CPaaS solutions to enterprises, communications service providers, early-stage innovators,
+developers, IoT, and telecommunications infrastructure providers. Our solutions are hosted software solutions that generate hosting
+and subscription revenue. We also offer customer support and professional services related to implementing and supporting our
+suite of applications. We offer managed services and bundled services for our mobile solutions services. Managed service revenues
+are recognized monthly based on an average number of end-users managed and is calculated based on a pre-determined service fee
+per user. For bundled services, we provide both network administration as well as mobile airtime management services. Bundled
+service revenue is recognized monthly based on an average number of end-users of managed and mobile airtime usage, calculated
+based on a pre-determined service fee. We also earn revenue from telecommunications services we offer, which revenue is based
+on a pre-determined rate and number of user minutes and calls that we manage in a given month. We also earn revenue from professional
+services, including consulting services to support business process mapping, configuration, data migration, integration and training. 
+
+Our
+total revenues for the year ended December 31, 2019 were 62.0 million, an increase of 41.8 million, or 206 , compared to 20.3
+million for the year ended December 31, 2018. This increase was mainly due to the Company s inclusion of a full year of
+revenues of Artilium following the acquisition of Artilium in the fourth quarter of 2018, and the addition of iPass revenues following
+the iPass acquisition in the first quarter of 2019. 
+
+Cost
+of Revenues 
+
+Cost
+of revenues includes origination, termination, network and billing charges from telecommunications operators, costs of telecommunications
+service providers, network costs, data center costs, facility cost of hosting network and equipment and cost in providing resale
+arrangements with long distance service providers, cost of leasing transmission facilities, international gateway switches for
+voice, data transmission services, and the cost of professional services of staff directly related to the generation of revenues,
+consisting primarily of employee-related costs associated with these services, including share-based compensation and the cost
+of subcontractors. Cost of revenues excludes depreciation and amortization. 
+
+Cost of revenues for the year ended December
+31, 2019 was 47.1 million, an increase of 37.1 million, or 369 , compared to 10.1 million for the year ended December 31, 2018.
+Similar to the increase in revenues, the increase in cost of revenues in 2019 was primarily due to Company s acquisitions
+of Artilium and iPass. 
+
+Product
+Development 
+
+Product
+development expenses consist primarily of salaries and related expenses, including share-based compensation expenses, of employees
+involved in the development of the Company s services, which are expensed as incurred. Costs such as database architecture,
+and Pareteum BOSS IN platform development and testing are included in this function. 
+
+Costs incurred during the application development
+stage of internal-use software projects, such as those used in the Company s operations, are capitalized in accordance with
+the accounting guidance for costs of computer software developed for internal use. Capitalized costs are amortized on a straight-line
+basis. When assigning useful lives to internal-use software, the Company considers the effects of obsolescence, competition, technology,
+and other economic factors. During the years ended December 31, 2019 and 2018, the Company capitalized 6.4 million and 1.3 million,
+respectively, of internal-use software. 
+
+Product development expenses for the years
+ended December 31, 2019 and 2018 were 13.0 million and 3.1 million, respectively, an increase of 9.9 million, or 320 , primarily
+due to the incremental product developments costs of the iPass business acquired in 2019. 
+
+Sales
+and Marketing 
+
+Sales
+and marketing expenses consist primarily of salaries and related expenses, including share-based compensation expenses, for our
+sales and marketing staff, including commissions, payments to partners and marketing programs. Marketing programs consist of advertising,
+events, corporate communications and brand building. 
+
+32 
+
+Sales and marketing expenses for the years
+ended December 31, 2019 and 2018 were 10.3 million and 3.2 million, respectively, an increase of 7.1 million, or 224 . The increase
+was due to additions to the sales force as well as the inclusion of the Artilium and iPass sales and marketing expenses in 2019. 
+
+General
+and Administrative 
+
+General
+and administrative expenses are our largest cost, other than our impairment charge, and consist primarily of salaries and related
+expenses, including share-based compensation, for non-employee directors, finance and accounting, legal and human resources personnel,
+legal costs, professional fees and other corporate expenses. 
+
+General and administrative expenses for
+the years ended December 31, 2019 and 2018 were 34.6 million and 17.3 million, respectively, an increase of 17.3 million, or
+100 . An increase in non-cash compensation, staff-related costs and the addition of Artilium and iPass resulted in higher
+general administrative expenses of 5.7 million during the year ended December 31, 2019 when compared to the same period in 2018.
+In 2019, the Company worked to decrease the compensatory costs from Artilium through identified synergies as a result of the acquisition. 
+
+Restructuring
+and Acquisition Costs 
+
+Restructuring and acquisition costs for
+the years ended December 31, 2019 and 2018 were 3.5 million and 7.3 million, respectively, a decrease of 3.8 million or 52 .
+The acquisition costs for the year ended December 31, 2019 were 3.5 million related to our acquisition of iPass compared to 7.1
+million related to our acquisition of Artilium in 2018. 
+
+Impairment
+of goodwill and intangible assets 
+
+During
+the fourth quarter of 2019, the Company performed its annual goodwill impairment test. Based on results of the goodwill impairment
+test, the Company determined that the estimated fair values of two of the Company s three operating segments, Artilium and
+iPass, were less than their carrying values. As a result, the Company recognized a non-cash goodwill impairment charge of 129.1
+million during the year ended December 31, 2019 to write down the carrying value of its goodwill from 139.2 million to 10.1
+million. In determining the estimated fair value of its reporting unit, the Company used the income approach. Under the income
+approach, the fair value is based on the present value of discounted cash flows projected which includes assumptions about revenue
+growth rates, operating margins and terminal growth rates discounted by an estimated weighted-average cost of capital derived
+from other publicly traded companies that are similar but not identical from an operational and economic standpoint. The primary
+factor contributing to the reduction in the fair value of the Company s reporting unit was a significant decline in projected
+long-term cash flow projections following the below expectations performance of Artilium and iPass during 2019, which the Company
+primarily attributes to disruptions caused by an uncertain economic environment. 
+
+Based
+on the Company s review for impairment of intangible assets, the Company determined that the carrying values exceeded the
+fair values by 31.9 million. As a result, the Company recognized a non-cash impairment charge of 31.9 million during the year
+ended December 31, 2019 to write down the carrying value of certain intangible assets to 15.5 million. The primary factor contributing
+to the impairment charge was the significant decline in projected long-term cash flow projections which the Company primarily
+attributes to disruptions caused by an uncertain economic environment. 
+
+Depreciation
+and Amortization 
+
+Depreciation
+and amortization for the years ended December 31, 2019 and 2018 was 12.9 million and 5.4 million, an increase of 7.5 million,
+or 138 . The increase is primarily due to the amortization of the intangible assets acquired through the acquisitions of Artilium
+and iPass. 
+
+Interest
+Income 
+
+Interest
+income increased slightly for the year ended December 31, 2019 as compared to 2018. 
+
+Interest
+Expense 
+
+Interest
+expense for the years ended December 31, 2019 and 2018 was 2.1 million and 0.3 million, respectively, an increase of 1.8 million.
+The increase results primarily from borrowings under that certain credit agreement (the Credit Agreement with Post
+Road Administrative Finance, LLC and its affiliate Post Road Special Opportunity Fund I LLP (the Post Road Loan entered into February 2019, which was subsequently paid off in conjunction with a securities purchase agreement entered into in
+September 2019. (see Note 15, Stockholders Equity Securities Purchase Agreement ). 
+
+33 
+
+Interest
+Expense Related to Debt Discount and Conversion Feature 
+
+For
+the years ended December 31, 2019 and 2018, interest expenses related to debt discount and conversion features of certain of our
+exercisable and convertible securities was 0.6 million and 0.2 million, respectively, an increase of 0.4 million. The increase
+was primarily attributable to the issuance of the Post Road Loan Facility in February 2019 that was subsequently paid off in conjunction
+with a securities purchase agreement entered into in September 2019. (see Note 15, Stockholders Equity 
+Securities Purchase Agreement ). 
+
+Changes
+in Fair Value of Derivative Liabilities 
+
+In
+2018, we recognized a revaluation gain of 1.3 million on derivative liabilities associated with a promissory note that was settled
+in the third quarter of 2018. We did not have a similar transaction in 2019. 
+
+Loss
+on Extinguishment of Debt 
+
+In
+2019, we recognized a loss on extinguishment of debt of 8.9 million related to the extinguishment of Post Road Loan and Fortress
+Credit Agreement in September 2019 (see Note 12, Long-term Debt ). 
+
+Gain
+on Equity Investment 
+
+In
+2018, we recognized a gain on equity investment that represents the gain in our equity investment in Artilium at its carrying
+value of 3.2 million at the time of our acquisition of Artilium compared to its acquisition-date fair value of 9.6 million.
+There is no comparable transaction in 2019. 
+
+Amortization
+of Deferred Financing Costs 
+
+Amortization
+of deferred financing costs for the year ended December 31, 2019 was 0.2 million, compared to a de minimis amount in the same
+period in 2018. The increase was primarily attributable to the issuance of the Post Road Loan in February 2019 that was subsequently
+paid off in September 2019. 
+
+Other
+Income (expense), net 
+
+Other income (expense) net, is generated
+from non-operating activities and includes foreign currency gains and losses. For the year ended December 31, 2019, the Company
+recorded other expense, net of 3.2 million compared to other income, net of 0.6 million for the year ended December 31, 2018.
+The decrease of 3.8 million was primarily due to the recognition of a reserve on a note receivable and the favorable impact of
+foreign exchange rates on our results in 2018 when compared to 2019. 
+
+Income
+Taxes Benefit 
+
+Income
+ tax benefit for the year ended December 31, 2019 and 2018 was 8.3
+ million and 0.2 million,
+respectively. This change was primarily due to the full valuation of the deferred tax liability resulting from the Artilium acquisition.
+On October 1, 2018, the Company completed the acquisition of Artilium and as a result of the purchase price allocation, the Company
+recorded a net deferred tax liability of 8.6 million for the basis difference on acquired intangible assets and tax attributes
+from the business combination. The total tax-effected intangible impairment for Artilium in 2019 totaled 17.2 million. 
+
+Other
+Comprehensive Loss 
+
+We
+ record foreign
+currency translation gains and losses as part of accumulated other comprehensive income (loss). Foreign currency translation loss
+for the year ended December 31, 2019 and 2018 was 0.2 million and
+ 0.2 million, respectively. 
+
+34 
+
+Consolidated
+Quarterly Results Our unaudited quarterly financial results for
+the three months ended March 31, 2019 and for the three and six months ended June 30, 2019 ,
+as restated, and the impact of the restatement adjustments are summarized in the following tables. Additional information regarding
+the restatement is discussed in Note 21, Unaudited Quarterly Data (Restated) in Item 8 of this Annual
+Report. 
+
+Selected Quarterly Financial Data 
+
+For
+ the quarters ended 
+
+March 31, 
+ June 30, 
+ Six months ended 
+ 
+ in thousands) 
+ 2018 
+ 2018 
+ June
+ 30, 2018 
+ 
+ REVENUES 
+ 3,650 
+ 3,879 
+ 7,529 
+
+COST AND OPERATING EXPENSES 
+
+Cost of revenues (excluding depreciation and amortization) 
+ 1,200 
+ 1,836 
+ 3,036 
+ 
+ Product development 
+ 728 
+ 804 
+ 1,532 
+ 
+ Sales Marketing 
+ 704 
+ 809 
+ 1,513 
+ 
+ General administrative 
+ 1,829 
+ 2,254 
+ 4,083 
+ 
+ Restructuring and acquisition costs 
+ 74 
+ 5 
+ 79 
+ 
+ Depreciation and amortization 
+ 965 
+ 995 
+ 1,960 
+ 
+ Total cost and operating expenses 
+ 5,500 
+ 6,703 
+ 12,203 
+
+LOSS FROM OPERATIONS 
+ (1,850 
+ (2,824 
+ (4,674 
+
+OTHER INCOME (EXPENSE) 
+ (300 
+ 2,071 
+ 1,771 
+
+LOSS BEFORE PROVISION FOR INCOME TAXES 
+ (2,150 
+ (753 
+ (2,903 
+ 
+ Provision for income taxes 
+ - 
+ 18 
+ 18 
+ 
+ NET LOSS 
+ (2,150 
+ (771 
+ (2,921 
+
+OTHER COMPREHENSIVE INCOME/(LOSS) 
+
+Foreign currency translation income/(loss) 
+ 193 
+ (363 
+ (170 
+ 
+ COMPREHENSIVE LOSS 
+ (1,957 
+ (1,134 
+ (3,091 
+
+Adjustments 
+
+For the quarters ended 
+
+Increase / (decrease) (a) 
+
+March 31, 
+
+June 30, 
+
+March 31, 
+
+June 30, 
+
+2019 
+
+2019 
+
+2019 
+
+2019 
+
+in thousands) 
+ 
+ (As restated) 
+
+(As restated) 
+
+REVENUES 
+
+13,069 
+
+16,876 
+
+(9,971) 
+
+(17,272) 
+
+COST AND OPERATING EXPENSES 
+
+Cost of revenues (excluding depreciation and amortization) 
+
+8,046 
+
+12,644 
+
+(2,022) 
+
+(2,649) 
+ 
+ Product development 
+
+2,552 
+
+3,625 
+
+354 
+
+383 
+
+Sales and marketing 
+
+2,937 
+
+3,095 
+
+372 
+
+326 
+
+General and administrative expenses 
+
+7,932 
+
+8,367 
+
+317 
+
+(666) 
+ 
+ Restructuring and acquisition costs 
+
+3,308 
+
+124 
+
+228 
+
+(304) 
+ 
+ Depreciation and amortization 
+
+2,726 
+
+3,105 
+
+(117) 
+
+(119) 
+ 
+ Total cost and operating expenses 
+
+27,501 
+
+30,960 
+
+(868) 
+
+(3,029) 
+
+LOSS FROM OPERATIONS 
+
+(14,432) 
+
+(14,084) 
+
+9,103 
+
+14,243 
+
+OTHER INCOME (EXPENSE) 
+
+(1,616) 
+
+(944) 
+
+(1,000) 
+
+180 
+
+LOSS BEFORE (BENEFIT) PROVISION FOR INCOME TAXES 
+
+(16,048) 
+
+(15,028) 
+
+10,103 
+
+14,063 
+
+Income tax benefit 
+
+(167) 
+
+(197) 
+
+- 
+
+252 
+
+NET LOSS 
+
+(15,881) 
+
+(14,831) 
+
+10,103 
+
+14,315 
+
+OTHER COMPREHENSIVE LOSS 
+
+Foreign currency translation loss 
+
+(97) 
+
+(21) 
+
+263 
+
+(457) 
+ 
+ COMPREHENSIVE LOSS 
+
+(15,978) 
+
+(14,852) 
+
+9,840 
+
+14,772 
+
+(a)
+For further details regarding the restatement adjustments, see Note 21, Unaudited Quarterly Data (Restated) to the Notes to our
+consolidated financial statements included in this Annual Report in Item 8. Financial Statements and Supplementary Data 
+
+35 
+
+Quarterly
+Results of Operations Discussion: 
+
+Revenues 
+
+Comparison
+of three months ended March 31, 2019 and March 31, 2018. 
+
+Revenue for the three months ended March 31, 2019 was 13.1 million, a 9.4 million or 258 increase compared to 3.7 million
+for the comparable three months in 2018. Our deployments with existing customers continue to grow, new implementations generated
+new revenues and new cloud-based revenues were all factors in our revenue growth. Additionally, revenues include 8.9 million
+in revenues from Artilium and iPass which were acquired in October 2018 and February 2019, respectively. Comparable revenues were
+not reflected in the three months ended March 31, 2018, because these subsidiaries were acquired in subsequent periods. 
+
+Comparison
+of three months and six months ended June 30, 2019 and June 30, 2018. 
+
+Revenues
+for the three and six months ended June 30, 2019 were 16.9
+ million and 29.9 million;
+a 13.0 million and 22.4 million,
+respectively, or 335 and 298 ,
+respectively, increase compared to 3.9 million and 7.5 million,
+respectively, for the comparable three and six months in 2018. The increase was primarily due to acquisition of Artilium and iPass
+that occurred subsequent to the same period in 2018. 
+
+Cost
+of Revenues 
+
+Cost
+of revenues includes origination, termination, network and billing charges from telecommunications operators, costs of telecommunications
+service providers, network costs, data center costs, facility cost of hosting network and equipment and cost in providing resale
+arrangements with long distance service providers, cost of leasing transmission facilities, international gateway switches for
+voice, data transmission services, and the cost of professional services of staff directly related to the generation of revenues,
+consisting primarily of employee-related costs associated with these services, including share-based compensation and the cost
+of subcontractors. Cost of service excludes depreciation and amortization. 
+
+Comparison
+of three months ended March 31, 2019 and March 31, 2018. 
+
+Cost of revenues for the three months ended March 31, 2019 was
+ 8.0 million, an increase of 6.8 million or 571 , compared to 1.2 million for the comparable three-month period in 2018. For
+the three months ended March 31, 2019, this includes 5.0 million of cost of revenues for Artilium and iPass. Comparable costs
+were not reflected in the three months ended March 31, 2018, because these subsidiaries were acquired in subsequent periods. 
+
+Comparison
+of three months and six months ended June 30, 2019 and June 30, 2018. 
+
+Cost of revenues for the three and
+six months ended June 30, 2019 was 12.6 million and 20.7 million, respectively, an increase of 10.8 million and 17.7 million,
+respectively, or 589 and 581 , respectively, compared to 1.8 million and 3.0 million, respectively, for the comparable three-
+and six-month periods in 2018. The increase in cost of revenues was primarily due to acquisition of Artilium and iPass that occurred
+subsequent to the same period in 2018 and volume in revenue growth. 
+
+Product
+Development 
+
+Product
+development costs consist primarily of salaries and related expenses, including share-based expenses, of employees involved in
+the development of the Company s services, which are expensed as incurred. Costs such as database architecture, and Pareteum
+BOSS IN platform development and testing are included in this function. 
+
+36 
+
+Comparison
+of three months ended March 31, 2019 and March 31, 2018. 
+
+Product
+development costs for the three-month periods ended March 31, 2019 and 2018, were 2.6 million
+and 0.7 million, respectively, an increase of 1.8 million
+or 251 . The increase is primarily due to the overall expansion of
+our lines of business year over year and the inclusion of product development costs of 0.8 million for Artilium and iPass for
+the three months ended March 31, 2019. Comparable costs were not reflected in the three months ended March 31, 2018, because these
+subsidiaries were acquired in subsequent periods. 
+
+Comparison
+of three months and six months ended June 30, 2019 and June 30, 2018. 
+
+Product
+development costs for the three and six months ended June 30, 2019 were 3.6 million
+and 6.2 million, respectively, an increase of 2.8 million
+and 4.6 million, respectively, or 351 and
+ 303 , respectively, compared to 0.8 million
+and 1.5 million, respectively, for the comparable three- and six-month
+periods in 2018. The increase was due to the overall expansion of our lines of business year over year. The increase in product
+development costs is primarily due to acquisition of Artilium and iPass that occurred subsequent to the same period in 2018 and
+overall expansion of our lines of business year over year. 
+
+Sales
+and Marketing 
+
+Sales
+and marketing expenses consist primarily of salaries and related expenses, including share-based expenses, for our sales and marketing
+staff, including commissions, payments to partners and marketing programs. Marketing programs consist of advertising, events,
+corporate communications and brand building. 
+
+Comparison
+of three months ended March 31, 2019 and March 31, 2018. 
+
+Sales
+and marketing expenses for the three-month periods ended March 31, 2019 and 2018, were 2.9 million
+and 0.7 million, respectively, an increase of 2.2 million
+or 317 . This increase is primarily a direct result of hiring new
+employees, the inclusion of the Artilium and iPass sales and marketing expenses of 0.9 million, and other incremental costs incurred
+as the Company expanded. 
+
+Comparison
+of three months and six months ended June 30, 2019 and June 30, 2018. 
+
+Sales
+and marketing expenses for the three and six months ended June 30, 2019 were 3.1 million
+and 6.0 million, respectively, an increase of 2.3 million
+and 4.5 million, respectively, or 283 and 299 , respectively, compared to 0.8 million and 1.5 million, respectively, for the
+comparable three- and six-month periods in 2018. The increase in sales and
+marketing expenses is primarily due to acquisition of Artilium and iPass that occurred subsequent to the same period in 2018 and
+ hiring new employees and allocating resources to growing our business. 
+
+General
+and Administrative 
+
+General
+and administrative expenses are typically our largest cost and consist primarily of overhead related salaries and expenses, including
+share-based compensation, for non-employee directors, finance and accounting, legal, internal audit and human resources personnel,
+legal costs, professional fees and other corporate expenses. 
+
+Comparison
+of three months ended March 31, 2019 and March 31, 2018. 
+
+General and administrative expenses for the three-month period
+ended March 31, 2019 and 2018, were 7.9 million and 1.8 million, respectively, an increase of 6.1 million or 334 . These increases
+were primarily due to the inclusion of general and administrative expenses for Artilium and iPass of 3.6 million and increase
+in personnel costs including share-based compensation expense. 
+
+Comparison
+of three months and six months ended June 30, 2019 and June 30, 2018. 
+
+General
+and administrative expenses for the three and six months ended June 30, 2019 were 8.4 million
+and 16.3 million, respectively, an increase of 6.1 million
+and 12.2 million, respectively, or 271 and 299 , respectively, compared to 2.3 million and 4.1 million, respectively, for the
+comparable three- and six-month periods in 2018. The increase in general
+and administrative expenses is primarily due to acquisition of Artilium and iPass that occurred subsequent to the same period in
+2018 and increase in personnel costs including share-based compensation expense. 
+
+Restructuring
+and Acquisition Charges 
+
+Comparison
+of three months ended March 31, 2019 and March 31, 2018. 
+
+Restructuring and acquisition charges for
+the three months ended March 31, 2019 and 2018, were 3.3 million and 0.1 million, an increase of 3.2 million. The costs incurred
+in 2019 were primarily the result of the iPass acquisition which was completed on February 12, 2019. 
+
+37 
+
+Comparison
+of three months and six months ended June 30, 2019 and June 30, 2018. 
+
+Restructuring
+and acquisition charges for the three months ended June 30, 2019 were 0.1 million.
+Restructuring and acquisition costs of 3.4 million for the six months
+ended June 30, 2019 were comprised predominantly of acquisition costs related to the acquisition of iPass that was completed
+on February 12, 2019 and to a lesser extent, restructuring charges following the acquisitions of Artilium and iPass. 
+
+Restructuring
+and acquisition charges for the three months and six months ended June 30, 2018 were not significant. 
+
+Liquidity
+and Capital Resources 
+
+As reflected in the accompanying consolidated
+financial statements, the Company reported net losses of 226.8 million and 18.0 million for the years ended 2019 and 2018, respectively,
+and had an accumulated deficit of 543.9 million as of December 31, 2019 and 317.1 million as of December 31, 2018. During the
+fourth quarter of 2019, the Company recognized a non-cash goodwill impairment charge of 129.1 million and intangible assets impairment
+of 31.9 million. 
+
+The
+cash balance, including restricted cash and cash, of the Company at December 31, 2019 was 5.9 million. As of December 31, 2018 ,
+ our cash balance, including restricted cash, was 6.5 million. 
+
+On
+June 8, 2020, we issued a 17.5 million 8 Senior Secured Convertible Note (the High Trail Note to High Trail
+Investments SA LLC High Trail due April 1, 2025 for an aggregate purchase price of 14 million, of which 7
+million is currently maintained in one or more blocked accounts. The terms of the High Trail Note and related documents
+require the Company to meet certain specified conditions and covenants, some of which have not been satisfied by the dates
+required, including (i) the Company filing its restated financial statements with the SEC for (a) the fiscal year ended
+December 31, 2018, (b) the quarter ended March 31, 2019 and (c) the quarter ended June 30, 2019, in each case on or prior to
+October 31, 2020, (ii) after October 31, 2020, the Company timely filing its subsequent quarterly reports on Form 10-Q or its
+subsequent annual reports on Form 10-K with the SEC in the manner and within the time periods required under the Exchange Act
+and (iii) the Company maintaining the listing of its common stock on the Nasdaq Stock Market. As a result, on December 1,
+2020, we entered into a forbearance agreement (the Forbearance Agreement with High Trail under which: (i) we
+admitted that we were in default of several obligations under the High Trail Note and related agreements, (ii) High Trail
+acknowledged such defaults and agreed not to exercise any right or remedy under the High Trail Note or the related securities
+purchase agreement, warrant or security documents, including its right to accelerate the aggregate amount outstanding under
+the High Trail Note, until the earlier of December 31, 2020 (since extended to March 31, 2021), the date of any new event
+of default or initiation of any action by the Company to invalidate any of the representations and warranties made in the
+Forbearance Agreement. As a result of the defaults, the interest rate paid on the principal outstanding under the High Trail
+Note increased to 18 per annum. As partial consideration for its agreement to not to exercise any right or remedy under the
+High Trail financing documents, we agreed with High Trail to make certain changes to the High Trail Note and related
+agreements. In this regard, we agreed to delete the Floor Price of 0.10 that had previously limited the number
+of shares of Company common stock into which (i) the outstanding indebtedness could be converted upon default and (ii)
+payments of interest could be made. We also agreed to increase the number of shares it was required to reserve for issuance
+upon conversion of the High Trail Note and to decrease the exercise price of the related warrant from 0.58 to
+ 0.37. 
+
+On
+February 22, 2021, the Company closed the issuance of 2.4 million aggregate principal amount of its Senior Second Lien Secured
+Convertible Notes due 2025 (the Second Lien Notes ). The Second Lien Notes were sold under the Securities Purchase
+Agreement, dated as of February 22, 2021, entered into by and between the Company and an institutional investor. The aggregate
+purchase price for the Second Lien Notes and related warrant to purchase common stock was 2.0 million. The Second Lien Notes
+are senior, secured obligations of the Company, but rank junior to the High Trail Note. Interest is payable monthly beginning
+April 1, 2021 at a rate of 8 per annum. The Second Lien Notes are secured by a second lien on substantially all assets of the
+Company and substantially all assets of its material U.S.-organized subsidiaries. Interest may be paid, at the election of the
+Company, in cash or in shares of common stock of the Company; provided, that, so long as the High Trail Note remains outstanding,
+such payments may only be made in shares. The number of shares issuable to pay interest in shares is determined by the application
+of a formula in which the amount of the interest due is divided by 85 of the lowest volume-weighted average price of the Company s
+common stock on the principal market for the Company s common stock over the 10 days preceding the date of such payment. 
+
+Subject
+to an intercreditor agreement with the holder of the High Trail Note, upon notice by the Company, the Company may elect to redeem
+all or a portion of the then-outstanding principal amount outstanding under the Second Lien Note. The holder of the Second Lien
+Note or the Company may also elect for the Company to redeem the Second Lien Notes at a 20 premium if the Company undergoes a
+fundamental change. The Second Lien Notes will be convertible into shares of common stock, in part or in whole, from time to time,
+at the election of the holder of the Second Lien Notes. The initial conversion rate is 1666.6667 shares of Company common stock
+for each 1,000 of principal amount of Second Lien Notes. The conversion rate is subject to customary anti-dilution adjustments
+in the event the Company issues stock dividends or effects a split or reverse split of the Company s common stock. 
+
+38 
+
+Because
+of the limited nature of the relief provided under the Forbearance Agreement, which does not lower the amounts payable in principal
+or interest, and the limited amount of additional capital we raised by selling the Second Lien Notes, we believe that we will
+not have sufficient resources to fund our operations and meet the obligations specified in the note for the next twelve months
+following the filing of this Annual Report. Our software platforms require ongoing funding to continue the current development
+and operational plans and we have a history of net losses. We will continue to expend substantial resources for the foreseeable
+future in connection with the continued development of our software platforms. These expenditures will include costs associated
+with research and development activity, corporate administration, business development, and marketing and selling of our services.
+In addition, other unanticipated costs may arise. 
+
+As
+a result, we believe that additional capital will be required to fund our operations and provide growth capital to meet the obligations
+under the High Trail Note. Accordingly, we will have to raise additional capital in one or more debt and/or equity offerings.
+However, there can be no assurance that we will be successful in raising the necessary capital or that any such offering will
+be available to us on terms acceptable to us, or at all. If we are unable to raise additional capital that may be needed, this
+would have a material adverse effect on the Company. Furthermore, the recent outbreak of the COVID-19 pandemic has significantly
+disrupted world financial markets, has negatively impacted U.S. market conditions and may reduce opportunities for us to seek
+out additional funding. In particular, a decline in the market price of our common stock, coupled with the stock s delisting
+from the Nasdaq Capital Market, could make it more difficult to sell equity or equity-related securities in the future at a time
+and price that we deem appropriate. The factors discussed above raise substantial doubt as to our ability to continue as a going
+concern within one year after the date that the financial statements are issued. 
+
+Operating
+Activities 
+
+We
+reported net cash used in operating activities of 17.8 million for the year ended December 31, 2019, compared to net cash used
+in operating activities of 7.8 million in 2018, an increase in cash used of 9.9 million. Operating activities decreased primarily
+as a result of a decrease in net operating results after the add back of the 161.0 million impairment of goodwill and intangible
+assets and 8.9 million loss on extinguishment of debt as well as the amortization of deferred financing costs, share-based compensation,
+depreciation and amortization and change in fair value of warrant liability. 
+
+in thousands) 
+ 2019 
+ 2018 
+ 
+ Net loss 
+ (226,770 
+ (18,024 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+ 192,617 
+ 5,511 
+
+(34,153 
+ (12,513 
+
+Changes in operating assets and liabilities: 
+ 16,392 
+ 4,693 
+ 
+ Net cash used in operating activities 
+ (17,761 
+ (7,820 
+
+Investing
+Activities 
+
+Net
+cash used in investing activities for year ended December 31, 2019, was 11.1 million, a decrease of 0.4 million or 3 , compared
+to 11.5 million net cash used in investing activities in 2018. This decrease is a result of an all common stock acquisition of
+iPass in the year ended December 31, 2019 partially offset by an increase in capitalized software, notes receivable issued to
+a third party, and assets purchased from Devicescape Holdings, Inc. 
+
+Financing
+Activities 
+
+Net
+cash provided by financing activities for the year ended December 31, 2019, was 28.3 million, compared to net cash provided by
+financing activities of 12.1 million for the year ended December 31, 2018. Financing activities increased as a result of the
+Company s issuance of common equity and redeemable preferred stock offset by repayment of loans issued during the current
+year and the repayment of debt held by iPass as of the date of the acquisition. 
+
+Off-Balance
+Sheet Arrangements 
+
+During
+the year ended December 31, 2019, the Company entered into certain off balance sheet commitments that require the future
+purchase of goods or services unconditional purchase obligations ). We entered into the Strategic Connectivity Agreement
+(the Connectivity Agreement with Hutchison 3G UK Limited 3UK on July 23, 2019. Under the Connectivity
+Agreement, we are obligated to pay 3UK 0.6 million for the implementation of a MVNO (the 3UK MVNO ), and for monthly
+services provided, based on usage, after the 3UK MVNO is launched, which we anticipate to be in the third quarter of 2021. As
+of December 31, 2019, 0.1 million was invoiced by 3UK and is recorded in Accrued expenses and other payables in the Consolidated
+Balance Sheet as of December 31, 2019. Of the remaining unconditional purchase obligation to 3UK outstanding as of December 31,
+2019, we expect to incur 0.1 million in 2020 and the remainder in 2021. 
+
+39 
+
+Concurrent
+with the execution of the Connectivity Agreement, we entered into the Agreement for the Sale and Purchase of Credit Voucher (the
+ Credit Voucher Agreement with PCCW Global Limited PCCW under which we are obligated to purchase
+a credit voucher for 28.0 million. The credit voucher will be used to offset certain monthly service charges incurred under the
+Connectivity Agreement. As of December 31, 2019, 0.6 million of the purchase price has been recorded in Accrued expenses and
+other payables in the Consolidated Balance Sheet. The remaining 27.5 million unconditional purchase obligation is due and payable
+following the launch date of the 3UK MVNO, with minimum aggregate payments due as of June 30 th , 2022, 2023, 2024 and
+2025. 
+
+See
+Note 19, Commitments and Contingencies for additional details about these off-balance sheet arrangements. 
+
+Application
+of Critical Accounting Policies and Estimates 
+
+Revenue
+Recognition and Net billings in Excess of Revenues 
+
+Revenue
+represents amounts earned for (non-software) arrangements consisting of hosting subscriptions for our CPaaS solutions. We also
+offer customer support and professional services related to implementing and supporting our suite of applications. Revenues generally
+are recognized net of any taxes collected from customers and subsequently remitted to governmental authorities. 
+
+Monthly
+Service Revenues: 
+
+The
+Company s performance obligations in monthly Software as a Service (SaaS) and service offerings are simultaneously received
+and consumed by the customer and therefore, are recognized over time. For recognition purposes, we do not unbundle such services
+into separate performance obligations. The Company typically bills its customer at the end of each month, with payment to be received
+shortly thereafter. The fees charged may include a combination of fixed and variable charges with the variable charges tied to
+the number of subscribers or some other measure of volume. Although the consideration may be variable, the volumes are estimable
+at the time of billing, with true-up adjustments occurring in the subsequent month. Such amounts have not been historically
+significant. 
+
+Installation
+and Software Development Revenues: 
+
+The
+Company s other revenues consist generally of installation and software development projects. 
+
+Installation
+represents the activities necessary for a customer to obtain access and connectivity to the Company s monthly SaaS and service
+offerings. While installation may require separate phases, it represents one promise within the context of the contract. 
+
+Software
+development consists of programming and other services which adds new functionality to a customer s existing or new service
+offerings. Each development project defines its milestones and will have its own performance obligation. 
+
+Revenue
+is recognized over time if the installation and software development activities create an asset that has no alternative use for
+which the Company is entitled to receive payment for performance completed to date. If not, then revenue is not recognized until
+the applicable performance obligation is satisfied. 
+
+Arrangements
+with Multiple Performance Obligations: 
+
+The
+Company s contracts with customers may include multiple performance obligations. For such arrangements, the Company allocates
+revenue to each performance obligation based on its relative standalone selling price. The Company generally determines standalone
+selling prices based on the prices charged to customers. 
+
+Contract
+assets and liabilities: 
+
+Given
+the nature of the Company s services and contracts, it has no contract assets. The Company records net billings in excess
+of revenues when payments are made in advance of our performance, including amounts which are refundable. 
+
+Payment
+terms vary by the type and location of our customer and the products or services offered. The term between invoicing and when
+payment is due is not significant. For certain products or services and customer types, payment is required before control is
+transferred or services are delivered to the customer. 
+
+40 
+
+Cost
+of Revenues 
+
+Cost
+of revenues includes origination, termination, network and billing charges from telecommunications operators, costs of telecommunications
+service providers, materials and supplies, network costs, data center costs, facility cost of hosting network and equipment and
+cost in providing resale arrangements with long distance service providers, cost of leasing transmission facilities, international
+gateway switches for voice, data transmission services, and the cost of professional services of staff directly related to the
+generation of revenues, consisting primarily of employee-related costs associated with these services, including share-based expenses
+and the cost of subcontractors. Cost of revenues excludes depreciation and amortization. 
+
+Allowance
+for Doubtful Accounts 
+
+We
+record an allowance for estimated uncollectible accounts in an amount approximating anticipated losses. Accounts receivable
+are periodically evaluated for collectability based on past credit history with customers. An allowance is recorded on the
+basis of loss experience, known and inherent risk in the account balance and current economic conditions. Individual
+uncollectible accounts are written off against the allowance when collection of the individual accounts appears
+doubtful. 
+
+Income
+Taxes 
+
+We
+estimate our income taxes separately for each tax jurisdiction in which we conduct operations. The provision for federal, state,
+foreign and local income taxes is calculated on income before income taxes based on current tax law and includes the cumulative
+effect of any changes in tax rates from those used previously in determining deferred tax assets and liabilities. Such provision
+differs from the amounts currently payable because certain items of income and expense are recognized in different reporting periods
+for financial reporting purposes than for income tax purposes. 
+
+We
+record net deferred tax assets to the extent we believe these assets will more likely than not be realized. In determining the
+net deferred tax assets and valuation allowances, we are required to make judgments and estimates in assessing the realizability
+of the deferred tax assets. In making such determination, we consider all available positive and negative evidence, including
+future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies and recent
+results of operations. If we were to determine that we would be able to realize our deferred income tax assets in the future in
+excess of their net recorded amount or would no longer be able to realize our deferred income tax assets in the future as currently
+recorded, we would make an adjustment to the valuation allowance which would decrease or increase the provision for income taxes. 
+
+Share-based
+Compensation 
+
+The
+Company follows the provisions of ASC 718 Compensation-Stock Compensation ASC 718 ). Under ASC 718, share-based
+awards are recorded at fair value as of the grant date and recognized as expense with an adjustment for forfeiture over the employee s
+requisite service period (the vesting period, generally three years), which the Company amortizes on a straight-line basis. 
+
+For
+both contractors and advisory board members, we recognize the guidance for share-based compensation awards to non-employees in
+accordance with ASC 505-50 Equity-Based Payments to Non-Employees ASC 505-50 ). Under ASC 505-50, we determine
+the fair value of the options or share-based compensation awards granted as either the fair value of the consideration received,
+or the fair value of the equity instruments issued, whichever is more reliably measurable. 
+
+Share-based
+compensation (cash and non-cash) related to equity plans for employees and non-employee directors are included within our cost
+of revenues and operating expenses. 
+
+Warrant
+and Conversion feature derivative liabilities 
+
+Warrants
+and convertible notes that are accounted for as derivative liabilities are remeasured at fair value each reporting period in accordance
+with the provisions of ASC 820, Fair Value Measurement ASC 820 ). The Company utilizes the Monte Carlo valuation
+model to determine the value of the outstanding warrants and the conversion feature in the convertible notes. Since the Monte
+Carlo valuation model requires special software and expertise to model the assumptions to be used, the Company uses a third-party
+valuation expert to fair value the derivative liabilities. 
+
+Business
+Combinations 
+
+We
+generally recognize the identifiable assets acquired, the liabilities assumed, and any non-controlling interests in an acquiree
+at their fair values as of the date of acquisition, under the purchase method of accounting. We measure goodwill as the excess
+of consideration transferred, which we also measure at fair value, over the net of the acquisition date fair values of the identifiable
+assets acquired and liabilities assumed. The acquisition method of accounting requires us to exercise judgment and make significant
+estimates and assumptions regarding the fair values of the elements of a business combination as of the date of acquisition, including
+the fair values of identifiable intangible assets, deferred tax asset valuation allowances, liabilities related to uncertain tax
+positions, and contingencies. This method also requires us to refine these estimates over a one-year measurement period to reflect
+new information obtained about facts and circumstances that existed as of the acquisition date that, if known, would have affected
+the measurement of the amounts recognized as of that date. If we are required to retroactively adjust provisional amounts that
+we have recorded for the fair value of assets and liabilities in connection with acquisitions, these adjustments could materially
+decrease our operating income and net income and result in lower asset values on our balance sheet. 
+
+41 
+
+Significant
+estimates and assumptions that we must make in estimating the fair value of acquired technology, customer lists, and other identifiable
+intangible assets include future cash flows that we expect to generate from the acquired assets. If the subsequent actual results
+and updated projections of the underlying business activity change compared with the assumptions and projections used to develop
+these values, we could record impairment charges. In addition, we have estimated the economic lives of certain acquired assets
+and these lives are used to calculate depreciation and amortization expense. If our estimates of the economic lives change, depreciation
+or amortization expenses could be accelerated or slowed. 
+
+Goodwill
+and Intangible Assets Impairment 
+
+Goodwill
+is not amortized but is tested for impairment on an annual basis and between annual tests whenever events or changes in circumstances
+indicate that the carrying amount may not be recoverable. Goodwill is tested at the reporting unit level, which is defined as
+an operating segment, or one level below the operating segment. We operate in one reportable segment. 
+
+We
+test for an indication of goodwill impairment in the fourth quarter of each year, or sooner, when indicators of impairment exist,
+by comparing the fair value of our reporting unit to its carrying value. If there is an indication of impairment, we perform a
+ step two test to measure the impairment. Impairments, if any, are recorded to the statement of operations in the
+period the impairment is recognized. 
+
+A
+significant amount of judgment is involved in determining if an indicator of impairment has occurred. Such indicators include
+a sustained and significant decline in our stock price and market capitalization, a decline in our expected future cash flows,
+a significant adverse change in legal factors or in the business climate and unanticipated competition. 
+
+In
+accordance with ASC 350 Intangibles Goodwill and Other ASC 350 ), intangible assets are carried at
+cost less accumulated amortization and impairment charges. Intangible assets are amortized on a straight-line basis over the expected
+useful lives of the assets, between three and ten years. Other intangible assets are reviewed for impairment in accordance with
+ASC 350, on an annual basis, or whenever events or changes in circumstances indicate that the carrying amount of such assets may
+not be recoverable. Measurement of any impairment loss for long-lived assets and identifiable intangible assets that management
+expects to hold and use, is based on the amount of the carrying value that exceeds the fair value of the asset. 
+
+Contingent
+Losses 
+
+From
+time to time, during the normal course of operations, we are party to litigation and regulatory matters, claims and other contingent
+matters. Litigation and
+regulatory reviews can be expensive and disruptive to normal business operations. Moreover, the results of complex proceedings
+and reviews are difficult to predict and our view of these matters may change in the future as events related thereto unfold.
+We expense legal fees as incurred. We record a provision for contingent losses when it is both probable that a liability will
+be incurred and the amount or range of the loss can be reasonably estimated. An unfavorable outcome to any legal or regulatory
+matter, if material, could have an adverse effect on the Company s operations or its financial position, liquidity or results
+of operations. 
+
+Impact
+of Recent Accounting Pronouncements 
+
+See
+Note 1, Business and Summary of Significant Accounting Policies to the consolidated financial statements in Item 8 of this
+report for a discussion of the impact of recent accounting pronouncements. 
+
+Item
+7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+We
+are a smaller reporting company as defined by regulation S-K and as such, are not required to provide the information
+contained in this item pursuant to regulation S-K. 
+
+42 

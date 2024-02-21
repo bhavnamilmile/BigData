@@ -1,0 +1,799 @@
+
+ ITEM 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ For a description of our significant accounting policies and an understanding of the significant factors that influenced our performance during the year ended September 30, 2020, this Management s Discussion and Analysis of Financial Condition and Results of Operations (hereafter referred to as MD A should be read in conjunction with the consolidated financial statements, including the related notes, appearing in Part II, Item 8 of this Annual Report on Form 10-K for the fiscal year ended September 30, 2020 (this Form 10-K ). 
+ 
+ Stated in thousands of US dollars, except per share amounts. 
+ Note about Forward-Looking Statements 
+ This Form 10-K includes statements that constitute forward-looking statements. These forward-looking statements are often characterized by the terms may, believes, projects, intends, plans, expects, or anticipates, and do not reflect historical facts. 
+ Specific forward-looking statements contained in this portion of the Annual Report include, but are not limited to: (i) statements that are based on current projections and expectations about the markets in which we operate, (ii) statements about current projections and expectations of general economic conditions, (iii) statements about specific industry projections and expectations of economic activity, (iv) statements relating to our future operations, prospects, results, and performance, (v) statements about the Chapter 11 Case, (vi) statements that the cash on hand and additional cash generated from operations together with potential sources of cash through issuance of debt or equity will provide the Company with sufficient liquidity for the next 12 months, and (vii) statements that the outcome of pending legal proceedings will not have a material adverse effect on business, financial position and results of operations, cash flow or liquidity. 
+ Forward-looking statements involve risks, uncertainties and other factors, which may cause our actual results, performance or achievements to be materially different from those expressed or implied by such forward-looking statements. Factors and risks that could affect our results, future performance and capital requirements and cause them to materially differ from those contained in the forward-looking statements include those identified in this Form 10-K under Item 1A Risk Factors , as well as other factors that we are currently unable to identify or quantify, but that may exist in the future. 
+ In addition, the foregoing factors may generally affect our business, results of operations and financial position. Forward-looking statements speak only as of the date the statements were made. We do not undertake and specifically decline any obligation to update any forward-looking statements. Any information contained on our website www.liveventures.com or any other websites referenced in this Annual Report are not part of this Annual Report. 
+ Our Company 
+ Live Ventures Incorporated is a holding company of diversified businesses, which, together with our subsidiaries, we refer to as the Company , Live Ventures , we , us or our . We acquire and operate companies in various industries that have historically demonstrated a strong history of earnings power. We currently have three segments to our business: Retail, Manufacturing, and Corporate Other. 
+ Under the Live Ventures brand, we seek opportunities to acquire profitable and well-managed companies. We will work closely with consultants who will help us identify target companies that fit within the criteria we have established for opportunities that will provide synergies with our businesses. 
+ Our principal offices are located at 325 E. Warm Springs Road, Suite 102, Las Vegas, Nevada 89119, our telephone number is (702) 939-0231, and our corporate website (which does not form part of this report Form 10-K) is located at www.liveventures.com. Our common stock trades on the NASDAQ Capital Market under the symbol LIVE . 
+ 32 
+ 
+ Retail Segment 
+ Our Retail Segment is composed of Vintage Stock and ApplianceSmart. 
+ Vintage Stock 
+ Vintage Stock Holdings LLC, Vintage Stock, V-Stock, Movie Trading Company and EntertainMart (collectively Vintage Stock is an award-winning specialty entertainment retailer offering a large selection of entertainment products including new and pre-owned movies, video games and music products, as well as ancillary products such as books, comics, toys and collectibles all available in a single location. With its integrated buy-sell-trade business model, Vintage Stock buys, sells and trades new and pre-owned movies, music, video games, electronics and collectibles through 62 retail locations strategically positioned across Arkansas, Colorado, Idaho, Illinois, Kansas, Missouri, New Mexico, Oklahoma Texas and Utah. 
+ ApplianceSmart 
+ At September 30, 2020, ApplianceSmart Affiliated Holdings LLC and ApplianceSmart, Inc. (collectively ApplianceSmart operated one store in Ohio. ApplianceSmart is a household appliance retailer with two product categories: one consisting of typical and commonly available, innovative appliances, and the other consisting of affordable value-priced, niche offerings such as close-outs, factory overruns, discontinued models, and special-buy appliances, including open box merchandise and others. 
+ On December 9, 2019, ApplianceSmart filed a voluntary petition (the Chapter 11 Case in the United States Bankruptcy Court for the Southern District of New York (the Bankruptcy Court seeking relief under Chapter 11 of Title 11 of the United States Code (the Bankruptcy Code ). The bankruptcy affects Live Ventures indirect subsidiary ApplianceSmart only and does not affect any other subsidiary of Live Ventures, or Live Ventures itself. ApplianceSmart expects to continue to operate its business in the ordinary course of business as debtor-in-possession under the jurisdiction of the Bankruptcy Court and in accordance with applicable provisions of the Bankruptcy Code and the orders of the Bankruptcy Court. In addition, the Company reserves its right to file a motion seeking authority to use cash collateral of the lenders under the reserve-based revolving credit facility. The case is being administrated under the caption In re: ApplianceSmart, Inc . (case number 19-13887). Court filings and other information related to the Chapter 11 Case are available at the PACER Case Locator website for those registered to do so or at the Courthouse located at One Bowling Green, Manhattan, New York 10004. 
+ Flooring Manufacturing Segment 
+ Our Flooring Manufacturing segment is comprised of Marquis. 
+ Marquis Affiliated Holdings LLC and wholly owned subsidiaries Marquis ). Marquis is a leading carpet manufacturer and distributor of carpet and hard surface flooring products. Over the last decade, Marquis has been an innovator and leader in the value-oriented polyester carpet sector, which is currently the market s fastest-growing fiber category. We focus on the residential, niche commercial, and hospitality end-markets and serve thousands of customers. 
+ Since commencing operations in 1995, Marquis has built a strong reputation for outstanding value, styling, and customer service. Its innovation has yielded products and technologies that differentiate its brands in the flooring marketplace. Marquis s state-of-the-art operations enable high quality products, unique customization, and exceptionally short lead-times. Furthermore, the Company has recently invested in additional capacity to grow several attractive lines of business, including printed carpet and yarn extrusion. 
+
+Steel Manufacturing Segment 
+ Our Steel Manufacturing segment is comprised of Precision Industries, Inc. Precision Marshall . 
+ 
+ 33 
+ 
+ Precision Marshall is the North American leader in providing and manufacturing pre-finished de-carb free tool and die steel. For over 70 years, Precision Marshall has served steel distributors through quick and accurate service. Precision Marshall has led the industry with exemplary availability and value-added processing that saves distributors time and processing costs. 
+ 
+ Founded in 1948, Precision Marshall The Deluxe Company has built a reputation of high integrity, speed of service and doing things the Deluxe Way . The term Deluxe refers to all aspects of the product and customer service to be head and shoulders above the rest. From order entry to packaging and delivery, Precision Marshall makes it easy to do business and backs all products and service with a guarantee. 
+ 
+ Precision Marshall provides four key products to over 500 steel distributors in four product categories: Deluxe Alloy Plate, Deluxe Tool Steel Plate, Precision Ground Flat Stock, and Drill Rod. With over 5,000 distinct size grade combinations in stock every day, Precision Marshall arms tool steel distributors with deep inventory availability and same day shipment to their place of business or often ships direct to their customer saving time and handling. 
+ 
+ Critical Accounting Policies 
+ Our consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America GAAP ). Preparation of these statements requires us to make judgments and estimates. Some accounting policies have a significant and material impact on amounts reported in these financial statements. Estimates and assumptions are based on management's experience and other information available prior to the issuance of our financial statements. Our actual realized results may differ materially from management s initial estimates as reported. Our critical and significant accounting policies include Trade and Other Receivables, Inventories, Goodwill, Revenue Recognition, Fair Value Measurements, Stock Based Compensation, Income Taxes, Segment Reporting and Concentrations of Credit Risk. 
+ Results of Operations 
+ The following table sets forth certain statement of income items and as a percentage of revenue, for the periods indicated: 
+
+Year Ended 
+
+Year Ended 
+
+September 30, 2020 
+
+September 30, 2019 
+
+of Total 
+
+of Total 
+
+Revenue 
+
+Revenue 
+
+Statement of Income Data: 
+
+Revenues 
+
+191,720 
+
+100.0 
+
+193,288 
+
+100.0 
+
+Cost of revenues 
+
+116,403 
+
+60.7 
+
+122,415 
+
+63.3 
+
+Gross profit 
+
+75,317 
+
+39.3 
+
+70,873 
+
+36.7 
+
+General and administrative expenses 
+
+43,561 
+
+22.7 
+
+52,840 
+
+27.3 
+
+Sales and marketing expenses 
+
+11,334 
+
+5.9 
+
+14,777 
+
+7.6 
+
+Operating income 
+
+20,422 
+
+10.7 
+
+3,256 
+
+1.7 
+
+Interest expense, net 
+
+(5,254 
+
+(2.7 
+
+(6,315 
+
+(3.3 
+
+Gain on lease settlement, net 
+
+307 
+
+0.2 
+
+Bargain purchase gain 
+
+1,507 
+
+0.8 
+
+Impairment charges 
+
+(525 
+
+(0.3 
+
+(3,222 
+
+(1.7 
+
+Other income 
+
+(841 
+
+(0.4 
+
+644 
+
+0.3 
+
+Income (loss) before income taxes 
+
+15,616 
+
+8.1 
+
+(5,637 
+
+(2.9 
+
+Provision (benefit) for income taxes 
+
+4,957 
+
+2.6 
+
+(1,625 
+
+(0.8 
+
+Net income (loss) 
+
+10,659 
+
+5.6 
+
+(4,012 
+
+(2.1 
+
+Net loss attributable to non-controlling interest 
+
+268 
+
+0.1 
+
+Net income (loss) attributable to Live stockholders 
+
+10,927 
+
+5.7 
+
+(4,012 
+
+(2.1 
+
+34 
+ 
+ The following table sets forth revenues by segment: 
+
+Year Ended 
+
+Year Ended 
+
+September 30, 2020 
+
+September 30, 2019 
+
+Net 
+
+of Total 
+
+Net 
+
+of Total 
+
+Revenue 
+
+Revenue 
+
+Revenue 
+
+Total Revenue 
+
+Revenue 
+
+Retail 
+
+Movies, Music, Games and Other 
+
+69,602 
+
+36.3 
+
+76,961 
+
+39.8 
+
+Appliances 
+
+3,961 
+
+2.1 
+
+23,740 
+
+12.3 
+
+Flooring manufacturing 
+
+109,642 
+
+57.2 
+
+91,951 
+
+47.6 
+
+Steel manufacturing 
+
+7,962 
+
+4.2 
+
+Corporate and other 
+
+553 
+
+0.3 
+
+636 
+
+0.3 
+
+Total Revenue 
+
+191,720 
+
+100.0 
+
+193,288 
+
+100.0 
+
+The following table sets forth gross profit and gross profit as a percentage of total revenue by segment: 
+
+Year Ended 
+
+Year Ended 
+
+September 30, 2020 
+
+September 30, 2019 
+
+Gross 
+
+Gross Profit 
+
+Gross 
+
+Gross Profit 
+
+Profit 
+
+of Total 
+ Revenue 
+
+Profit 
+
+of Total 
+ Revenue 
+
+Gross Profit 
+
+Retail 
+
+Movies, Music, Games and Other 
+
+39,343 
+
+20.5 
+
+43,617 
+
+22.6 
+
+Appliances 
+
+1,436 
+
+0.7 
+
+1,539 
+
+0.8 
+
+Flooring manufacturing 
+
+32,857 
+
+17.1 
+
+25,121 
+
+13.0 
+
+Steel manufacturing 
+
+1,163 
+
+0.6 
+
+Corporate and other 
+
+518 
+
+0.3 
+
+596 
+
+0.3 
+
+Total Gross Profit 
+
+75,317 
+
+39.3 
+
+70,873 
+
+36.7 
+
+Revenue 
+ Revenue remained relatively flat at 191,720 for the year ended September 30, 2020 as compared to the year ended September 30, 2019 of 193,288. 
+ Retail: The decrease in Movies, Music, Games and Other of 7,359 was primarily due to a lack of new content related to video games and lack of new movie releases as compared to the prior year. Appliance revenue decreased 19,779 due to the closure of certain retail locations were incurring continual decreases in sales resulting from increased competition. 
+ Flooring Manufacturing revenues increased a total of 17,691 as a result of the development of new products and the acquisition of Lonesome Oak in January 2020. 
+ Steel Manufacturing revenues were 7,962 represents revenues for the period of July 14, 2020 through September 30, 2020 due to the acquisition of Precision Marshall on July 14, 2020. 
+ Cost of Revenue 
+ Cost of revenue decreased 6,012, or 4.9 for the year ended September 30, 2020 as compared to the year ended September 30, 2019, primarily due primarily due primarily due to the closure of certain ApplianceSmart retail locations during 2019 and other cost saving measures, partially offset by the acquisitions of Lonesome Oak and Precision Marshall. 
+ 35 
+ 
+ General and Administrative Expense 
+ General and Administrative expense decreased 9,279 or 17.6 , for the year ended September 30, 2020 as compared to the year ended September 30, 2019, primarily due to lower costs resulting from the decreased rent and employee costs associated with permanent closure of certain ApplianceSmart retail locations and the temporary closure of Vintage Stock retail locations due to COVID-19. 
+ Selling and Marketing Expense 
+ Selling and marketing expense decreased 3,443 or 23.3 for the year ended September 30, 2020 as compared to the year ended September 30, 2019 primarily due to reduced marketing efforts related to the permanent ApplianceSmart retail location closures and reduced travel activities due to COVID-19. 
+ Interest Expense, net 
+ Interest expense, net decreased 1,061 or 16.8 , for the year ended September 30, 2020 as compared to the year ended September 30, 2019, due to a decrease in certain interest rates and the continued efforts to repay certain debt obligations, partially offset by debt incurred as part of the Precision acquisition during July 2020. 
+ Gain on Lease Settlement, net 
+ During the year ended September 30, 2020, the Company recorded a net gain on lease settlement of 307 which consisted of impairment charges of 614 related to the decision to close additional ApplianceSmart retail locations resulting in a decrease to the associated right of use asset related to these leases, offset by a gain on lease settlement of 921 resulting from the extinguishment of the lease liability associated with the closed retail locations. There were no such transactions during the year ended September 30, 2019. 
+ 
+ Bargain Purchase Gain 
+ 
+ The bargain purchase gain of 1,507 for year ended September 30, 2020 was related to the acquisition of Precision Marshall. There were no similar bargain purchase gains for the year ended September 30, 2019. 
+ Impairment Charges 
+ 
+ Impairment charges of 525 for the year ended September 30, 2020 were related to the disposal of fixed assets that were no longer in use. Impairment charges of 3,222 for the year ended September 30, 2019, were related to the write down of intangibles associated with the ApplianceSmart customer list and trade names due to the bankruptcy filing in December 2019, the write down of lease intangibles related to the ApplianceSmart retail locations closed during the period and the write down of software that is no longer in use. 
+ Provision (Benefit) for Income Taxes 
+ For the year ended September 30, 2020, the Company recorded an income tax provision of 4,957 primarily due to the net income in the current period as compared to a tax benefit of 1,625 the year ended September 30, 2019. The rate for the year ended September 30, 2020 was impacted by state income taxes, net of federal benefit and non-deductible items related to the acquisition of Precision Marshall. The rate for the year ended September 30, 2019 was impacted by a significant change in valuation allowances, state income tax rates, net of federal benefit and carryforward adjustments. 
+ 36 
+ 
+ Results of Operations by Segment 
+
+Year Ended September 30, 2020 
+
+Year Ended September 30, 2019 
+
+Flooring 
+
+Steel 
+
+Corporate 
+
+Flooring 
+
+Steel 
+
+Corporate 
+
+Retail 
+
+Manufacturing 
+
+Manufacturing 
+
+Other 
+
+Total 
+
+Retail 
+
+Manufacturing 
+
+Manufacturing 
+
+Other 
+
+Total 
+
+Revenue 
+
+73,563 
+
+109,642 
+
+7,962 
+
+553 
+
+191,720 
+
+100,584 
+
+91,951 
+
+753 
+
+193,288 
+
+Cost of Revenue 
+
+32,784 
+
+76,785 
+
+6,797 
+
+35 
+
+116,402 
+
+55,431 
+
+66,829 
+
+155 
+
+122,415 
+
+Gross Profit 
+
+40,779 
+
+32,857 
+
+1,164 
+
+518 
+
+75,317 
+
+45,153 
+
+25,122 
+
+598 
+
+70,873 
+
+General and Administrative 
+ Expense 
+
+30,721 
+
+7,324 
+
+887 
+
+4,630 
+
+43,562 
+
+42,568 
+
+5,314 
+
+4,958 
+
+52,840 
+
+Selling and Marketing 
+ Expense 
+
+1,321 
+
+9,451 
+
+105 
+
+457 
+
+11,333 
+
+6,688 
+
+8,073 
+
+16 
+
+14,777 
+
+Operating Income (Loss) 
+
+8,737 
+
+16,082 
+
+172 
+
+(4,569 
+
+20,422 
+
+(4,103 
+
+11,735 
+
+(4,376 
+
+3,256 
+
+Retail Segment 
+ Segment results for Retail include Vintage Stock and ApplianceSmart. Revenue for the year ended September 30, 2020 decreased 27,021, or 26.9 , as compared to the prior year, primarily due to the closure of certain ApplianceSmart retail locations during 2019. Cost of revenue for the year ended September 30, 2020 decreased 22,647 or 40.9 , as compared to the prior year period, primarily due to the closure of certain ApplianceSmart retail locations during 2019 and other cost saving measures. Operating income for the year ended September 30, 2020 was 8,737, as compared to operating loss of 4,103 the prior year period, primarily due to the decrease in general and administrative expense of 11,847 and 5,367 in sales and marketing expenses due to the closure of certain ApplianceSmart retail locations during 2019 and other cost saving measures. 
+ Flooring Manufacturing Segment 
+ Segment results for Flooring Manufacturing includes Marquis. Revenue for the year ended September 30, 2020 increased 17,691, or 19.2 , as compared to the prior year period, due to increased sales of carpets and hard surface products related to development of new products and the acquisition of Lonesome Oak, partially offset by a decrease in synthetic turf products due to the sale of equipment for this division during December 2018. Cost of revenue for the year ended September 30, 2020 increased proportionately with revenue, as compared to the prior year period. Operating income for the year ended September 30, 2020 increased 4,347, or 37.0 , as compared to the prior year period. 
+ Steel Manufacturing Segment 
+ Segment results for Steel Manufacturing includes Precision Marshall. The Company completed the acquisition of Precision Marshall in July 2020. The results of operations represent the period of July 2020 to September 2020. 
+ Corporate and Other Segment 
+ Segment results for Corporate and Other includes our directory services business. Revenues and operating income continue to decline due to decreasing renewals. We expect revenue and operating income from this segment to continue to decrease in the future. We are no longer accepting new customers in our directory services business. 
+ Liquidity and Capital Resources 
+ Overview 
+ Based on our current operating plans, we believe that available cash balances, cash generated from our operating activities and funds available under our asset-based revolver lines of credit will provide sufficient liquidity to fund our operations, pay our scheduled loan payments, ability to repurchase shares under our share buyback program, and pay dividends on our shares of Series E Preferred Stock as declared by the Board of Directors, for at least the next 12 months. 
+ 37 
+ 
+ We have the following three asset-based revolver lines of credit : (i) Texas Capital Bank Revolver Loan TCB Revolver utilized by Vintage Stock , (ii) Bank of America Revolver Loan BofA Revolver utilized by Marquis utilizes , (ii i Enica Revolver Loan Encina Revolver utilized by Precision Marshall . Additionally, we have an unsecured revolving line of credit with Isaac Capital Group ICG Revolver utilized by the Company. 
+ As of September 30, 2020, we had total cash on hand of 8,984 and an additional 28,673 of available borrowing under our revolving credit facilities. As we continue to pursue acquisitions and other strategic transactions to expand and grow our business, we regularly monitor capital market conditions and may raise additional funds through borrowings or public or private sales of debt or equity securities. The amount, nature and timing of any borrowings or sales of debt or equity securities will depend on our operating performance and other circumstances; our then-current commitments and obligations; the amount, nature and timing of our capital requirements; any limitations imposed by our current credit arrangements; and overall market conditions. 
+ Coronavirus 
+ In March 2020, there was a global outbreak of COVID-19 (Coronavirus) that has resulted in changes in global supply of certain products. The pandemic is having an unprecedented impact on the U.S. economy as federal, state, and local governments react to this public health crisis, which has created significant uncertainties. These uncertainties include, but are not limited to, the potential adverse effect of the pandemic on the economy, the company s supply chain partners, its employees and customers, customer sentiment in general, and traffic within shopping centers, and, where applicable, malls, containing its stores. As the pandemic continues to grow, consumer fear about becoming ill with the virus and recommendations and/or mandates from federal, state, and local authorities to avoid large gatherings of people or self-quarantine are continuing to increase, which has already affected, and may continue to affect, traffic to the stores. As of March 31, 2020, Vintage Stock had closed all of its retail locations in response to the crisis. Beginning May 1, 2020, Vintage Stock began to reopen certain locations in compliance with government regulations. Additionally, as of June 30, 2020, all Vintage Stock retail locations were reopened while maintaining compliance with government mandates. The Company is unable to predict if additional periods of store closures will be needed or mandated. During March and April 2020, Marquis conducted rolling layoffs for certain employees, however, during May 2020, most employees have returned to their respective locations. Continued impacts of the pandemic could materially adversely affect the near-term and long-term revenues, earnings, liquidity, and cash flows, and may require significant actions in response, including but not limited to, employee furloughs, reduced store hours, store closings, expense reductions or discounting of pricing of products, all in an effort to mitigate such impacts. The extent of the impact of the pandemic on the business and financial results will depend largely on future developments, including the duration of the spread of the outbreak within the U.S., the impact on capital and financial markets and the related impact on consumer confidence and spending, all of which are highly uncertain and cannot be predicted. This situation is changing rapidly, and additional impacts may arise that the Company is not aware of currently. 
+ Sources of Liquidity 
+ We utilize cash on hand and cash generated from operations and have funds available to us under our four revolving loan facilities to cover normal and seasonal fluctuations in cash flows and to support our various growth initiatives. Our cash and cash equivalents are carried at cost and consist primarily of demand deposits with commercial banks. 
+ 38 
+ 
+ BofA Revolver 
+ Marquis may borrow funds for operations under the BofA Revolver subject to availability as described in Note 7 to the consolidated financial statements. The following tables summarize the BofA Revolver for the year ended and as of September 30, 2020: 
+
+During the year ended September 30, 2020 
+
+Cumulative borrowing during the period 
+
+121,924 
+
+Cumulative repayment during the period 
+
+123,073 
+
+Maximum borrowed during the period 
+
+11,347 
+
+Weighted average interest for the period 
+
+3.14 
+
+As of September 30, 2020 
+
+Total availability 
+
+21,732 
+
+Total outstanding 
+
+- 
+
+Encina Revolver 
+ Precision may borrow funds for operations under the Encina Revolver subject to availability as described in Note 7 to the consolidated financial statements. The following tables summarize the Encina Revolver for the period of July 14, 2020 through September 30, 2020 and as of September 30, 2020: 
+
+During the period of July 14, 2020 through September 30, 2020 
+
+Cumulative borrowing during the period 
+
+22,088 
+
+Cumulative repayment during the period 
+
+7,203 
+
+Maximum borrowed during the period 
+
+14,920 
+
+Weighted average interest for the period 
+
+6.50 
+
+As of September 30, 2020 
+
+Total availability 
+
+421 
+
+Total outstanding 
+
+14,886 
+
+TCB Revolver 
+ Vintage Stock may borrow funds for operations under the TCB Revolver subject to availability as described in Note 7 to the consolidated financial statements. The following tables summarize the TCB Revolver for the year ended and as of September 30, 2020: 
+
+During the year ended September 30, 2019 
+
+Cumulative borrowing during the period 
+
+66,362 
+
+Cumulative repayment during the period 
+
+69,837 
+
+Maximum borrowed during the period 
+
+11,799 
+
+Weighted average interest for the period 
+
+3.29 
+
+As of September 30, 2019 
+
+Total availability 
+
+5,520 
+
+Total outstanding 
+
+7,115 
+
+ICG Revolver 
+ The Company may borrow funds for operations under the ICG Revolver subject to availability as described in Note 7 to the consolidated financial statements. As of September 30, 2020, the Company had not borrowed any funds and the full amount of 1,000 was available . 
+ 39 
+ 
+ Loan Covenant Compliance 
+ We are in compliance with all loan covenants under our existing revolving and other loan agreements as of September 30, 2020, with the exception of covenants associated with the Crossroads Revolver (Note 7 to the Consolidated Financial Statements). 
+ 
+ Payroll Protection Program 
+ On May 4, 2020, Marquis entered into a promissory note (the Marquis Promissory Note with Bank of America, N.A. that provides for a loan in the amount of 4,768 (the Marquis PPP Loan pursuant to the Paycheck Protection Program under the Coronavirus Aid, Relief and Economic Security Act (the CARES Act ). The Marquis PPP Loan matures two years from the funding date of the Marquis PPP Loan and bears interest at a rate of 1.0 per annum. Monthly amortized principal and interest payments are deferred for six months after the date of disbursement. The Marquis Promissory Note contains events of default and other provisions customary for a loan of this type. The Paycheck Protection Program provides that the use of Marquis PPP Loan amount shall be limited to certain qualifying expenses and may be partially or wholly forgiven in accordance with the requirements set forth in the CARES Act. On May 5, 2020, Marquis received the funds from the PPP Loan. During December 2020, Marquis completed its application for forgiveness of the Marquis PPP Loan. There is no assurance that the Marquis PPP Loan will be forgiven . 
+ On April 27, 2020, Precision Marshall entered into a promissory note (the Precision Promissory Note with Citizens Bank, N.A. that provides for a loan in the amount of 1,382 (the Precision PPP Loan ). The Precision PPP Loan matures two years from the funding date of the Precision PPP Loan and bears interest at a rate of 1.0 per annum. Monthly amortized principal and interest payments are deferred until either the date the SBA remits the borrower s loan forgiveness amount to the lender or ten months after the end of the borrower s loan forgiveness covered period. The Precision Promissory Note contains events of default and other provisions customary for a loan of this type. On April 27, 2020, Precision received the funds from the PPP Loan. The Precision PPP Loan remained with Precision under the terms of the acquisition. During November 2020, Precision completed its application for forgiveness of the Precision PPP Loan. There is no assurance that the Precision PPP Loan will be forgiven. 
+ Cash Flows from Operating Activities 
+ The Company s cash and cash equivalents at September 30, 2020 was 8,984 compared to 2,681 at September 30, 2019, an increase of 6,303. Net cash provided by operations was 28,791 for the year ended September 30, 2020 as compared to net cash provided by operations of 19,053 for the same period in 2019 primarily due to the results of operations discussed above. 
+ Our primary source of cash inflows is from customer receipts from sales on account, factor accounts receivable proceeds and net remittances from directory services customers processed in the form of ACH billings. Our most significant cash outflows include payments for raw materials and general operating expenses, including payroll costs and general and administrative expenses that typically occur within close proximity of expense recognition. 
+ Cash Flows from Investing Activities 
+ Our cash flows used in investing activities of 8,776 for the year ended September 30, 2020 consisted of purchases of property and equipment and the acquisitions of Lonesome Oak and Precision Marshall . Our cash flows provided by investing activities of 100 for the year ended September 30, 2019 consisted of proceeds from the sale of equipment, offset by purchases of equipment and intangibles. 
+ Cash Flows from Financing Activities 
+ Our cash flows used in financing activities during the year ended September 30, 2020 consisted of 6,768 from the issuance of notes payable, offset by 5,974 in net payments under revolver loans, purchase of Series E preferred treasury stock and common treasury stock of 1,663 and payment on notes payable of 12,709. 
+ 40 
+ 
+ Our cash flows used in financing activities during the year ended September 30, 2019 consisted of 913 from the issuance of notes payable , 7,034 in net payments under revolver loans, payment of debt issuance costs of 223 , purchase of treasury stock 888 and payment on notes payable 11,982 . 
+ Currently, the Company is not issuing common shares for liquidity purposes. We prefer to use asset-based lending arrangements and mezzanine financing together with Company provided capital to finance acquisitions and have done so historically. Occasionally as our Company history has demonstrated we will issue stock and derivative instruments linked to stock for services and/or debt settlement. 
+ Working Capital 
+ We had working capital of 38,566 as of September 30, 2020 as compared to 20,727 as of September 30, 2019. Changes in working capital were primarily attributable to the acquisitions of Lonesome Oak and Precision Marshall and an increase in short term lease obligations due to the adoption of the new lease accounting standard. 
+ Equipment Loans 
+ Marquis has a master agreement and separate loan schedules (the Equipment Loans with Banc of America Leasing Capital, LLC which provide: 
+ Note #1 is 5,000 , secured by equipment. The Equipment Loan #1 is due September 2021, payable in 59 monthly payments of 84 beginning September 2016, with a final payment in the sum of 584, bearing interest at 3.9 per annum. 
+ Note #3 is 3,680, secured by equipment. The Equipment Loan #3 is due December 2023, payable in 84 monthly payments of 52 beginning January 2017, bearing interest rate at 4.8 per annum. 
+ Note #4 is 1,095, secured by equipment. The Equipment Loan #4 is due December 2023, payable in 81 monthly payments of 16 beginning April 2017, bearing interest at 4.9 per annum. 
+ Note #5 is 3,932, secured by equipment. The Equipment Loan #5 is due December 2024, payable in 84 monthly payments of 55 beginning January 2018, bearing interest at 4.7 per annum. 
+ Note #6 is 913, secured by equipment. The Equipment Loan #6 is due July 2024, payable in 60 monthly payments of 14 beginning August 2019, with a final payment of 197, bearing interest at 4.7 per annum. 
+ Note #7 is 5,000, secured by equipment. The equipment loan #7 is due February 2027, payable in 84 monthly payments of 59 beginning March 2020, with the final payment of 809, bearing interest at 3.2 per annum. 
+ Note #8 is 3,369, secured by equipment. The equipment loan #8 is due September 2027, payable in 84 monthly payments of 46 beginning October 2020, bearing interest at 4.0 . 
+ At September 30, 2020 we owed 1,229, 1,862, 572, 2,538, 758, 4,681 and 3,091 on Equipment Loan Note #1 and Note #3 through Note #8, respectively. At September 30, 2019 we owed 2,057, 2,379, 731, 3,065 and 891 on Equipment Loan Note #1 and Note #3 through Note #6, respectively. 
+ Lonesome Oak Equipment Loan 
+ In connection with the acquisition of Lonesome Oak, the Company assumed an unsecured note in the amount payable to Extruded Fibers Inc. The note is noninterest bearing, with principal payable monthly in the amount of 100 for 36 months, beginning March 31, 2020 maturity date March 3, 2023. 
+ 41 
+ 
+ Real Estate Financing 
+ During June 2016, we entered into a transaction with Store Capital Acquisitions, LLC. The transaction included a sale-leaseback of land owned by Marquis and a loan secured by the improvements on such land. The total aggregate proceeds received from the sale of the land and the loan was 10,000, which consisted of 644 from the sale of the land and a note payable of 9,356. In connection with the transaction, we entered into a lease with a 15-year term commencing on the closing of the transaction, which provides the Company an option to extend the lease upon the expiration of its term. The initial annual lease rate is 60. The proceeds from this transaction were used to pay down the BofA Revolver and Bank of America Term loans, related party loan, as well as to purchase a building from the previous owners of Marquis that was not purchased in the July 2015 transaction. At September 30, 2020 and September 30, 2019, we had 9,243 and 9,274 outstanding, respectively, on the Store Capital Acquisition, LLC loan. At September 30, 2020 and September 30, 2019, there are un-amortized debt issuance costs associated with this loan in the amounts of 411 and 422, respectively. 
+ During July 2020, in connection with our acquisition of Precision Marshall, Precision Marshall entered into a transaction with Harold St Interests LLC. The transaction included a sale-leaseback of land owned by Precision Marshall. The total aggregate proceeds received from the sale of the land was 6,000. In connection with the transaction, we entered into a lease with a 20-year term commencing on the closing of the transaction, which provides the Company an option to extend the lease upon the expiration of its term. The initial annual lease rate is 485. The proceeds from this transaction were used to partially fund the acquisition of Precision Marshall. 
+ Future Sources of Cash; New Products and Services 
+ We may require additional debt financing and/or capital to finance new acquisitions, refinance existing indebtedness or other strategic investments in our business. Other sources of financing may include stock issuances and additional loans; or other forms of financing. Any financing obtained may further dilute or otherwise impair the ownership interest of our existing stockholders. 
+ Contractual Obligations 
+ The following table summarizes our contractual obligations consisting of operating lease agreements and debt obligations and the effect such obligations are expected to have on our future liquidity and cash flows: 
+
+Payments due by Period 
+
+Less Than 
+ One Year 
+
+One to Three 
+ Years 
+
+Three to Five 
+ Years 
+
+More Than 
+ Five Years 
+
+Total 
+
+Notes payable 
+
+11,986 
+
+49,896 
+
+3,564 
+
+11,697 
+
+77,143 
+
+Notes Payable - related party 
+
+1,297 
+
+4,000 
+
+5,297 
+
+Lease obligations 
+
+9,155 
+
+12,994 
+
+7,348 
+
+16,133 
+
+45,631 
+
+Total 
+
+22,438 
+
+66,890 
+
+10,912 
+
+27,830 
+
+128,071 
+
+Off-Balance Sheet Arrangements 
+ At September 30, 2020, we had no off-balance sheet arrangements, commitments or guarantees that require additional disclosure or measurement. 
+ ITEM 7A. Quantitative and Qualitative Disclosures about Market Risk 
+ As of September 30, 2020, we did not participate in any market risk-sensitive commodity instruments for which fair value disclosure would be required. We believe we are not subject in any material way to other forms of market risk, such as foreign currency exchange risk or foreign customer purchases or commodity price risk. 
+ 
+ 42 

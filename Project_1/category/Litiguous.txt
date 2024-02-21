@@ -1,0 +1,8 @@
+contracts
+litigations
+claims
+settlements
+sue
+lawsuit
+dispute
+allegation

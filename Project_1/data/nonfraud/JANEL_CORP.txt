@@ -1,0 +1,933 @@
+
+ITEM 7 
+ 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Our discussions below in this Item 7 should be read along with Janel s audited financial statements and related notes thereto as of September 30, 2020 and 2019 and for each of the two years in the period ended
+ September 30, 2020 included in this Annual Report on Form 10-K.
+
+21 
+
+Table of Contents 
+
+INTRODUCTION 
+
+Janel is a holding company with subsidiaries in three business segments: Global Logistics Services, Manufacturing and Life Sciences. The Company strives to create shareholder value primarily through three strategic
+ priorities: supporting its businesses efforts to make investments and to build long-term profits allocating Janel s capital at higher risk-adjusted rates of return and attracting and retaining exceptional talent. A management group at the
+ holding company level (the corporate group focuses on significant capital allocation decisions and corporate governance. Janel expects to grow through its subsidiaries organic growth and by completing acquisitions. We plan to either acquire
+ businesses within our existing segments or expand our portfolio into new strategic segments. Our acquisition strategy focuses on reasonably-priced companies with strong and capable management teams, attractive existing business economics and stable
+ and predictable earnings power.
+
+COVID-19
+
+The outbreak of COVID-19 has had a significant impact on global trade and on our business during the fiscal year ended September 30, 2020. In late January 2020, China implemented extensive business shutdowns and work
+ restrictions to control the outbreak, which resulted in a steep drop in exports from China. As those shutdowns and restrictions in China started to ease, export volumes from China began to increase, in March 2020. The spread of COVID-19 to other
+ parts of the world, and the strong actions taken by many countries to reduce exposure to the virus, however, have led to a sharp decline in global economic activity that persisted during fiscal 2020 and resulted in a second steep decline in global
+ import and export trade volumes, which has materially impacted our Global Logistics Services business. Specifically, in the fiscal year ended September 30, 2020, we experienced a year-over-year decrease of 7.6 in our Global Logistics Services net
+ revenues and a decrease of 19.1 in our Manufacturing segment revenues as a result of the global trade slowdown arising from the COVID- 19 pandemic.
+
+We also experienced a significant slowdown in organic growth in our Life Sciences segment due to a slowdown in orders and in academic research as a result of the pandemic. Please see our results of operations
+ discussion below for additional information. We expect demand for our products and services across all of our reporting segments, and in particular our Global Logistics Services and Manufacturing segments, to be adversely impacted for as long as
+ global economic activity and trade volumes remain weak. A prolonged slowdown in trade volumes due to the pandemic could also significantly increase the longer-term financial challenges facing our customers. We are closely monitoring our customers 
+ payment performance and expect our customer credit risk will remain heightened as long as economic and trade disruptions persist.
+
+In our Global Logistics Services and Manufacturing segments, customer demand for our services and products in many parts of our business has been materially and negatively impacted by the mandated closure of our
+ customers operations or points of sale, while customer demand for our services in other parts of our business has increased significantly as consumers stockpile goods or switch to e-commerce platforms to make purchases.
+
+We are unable to accurately predict the impact that COVID-19 will have on our business, financial position, results of operations or liquidity going forward due to
+ uncertainties regarding the severity and duration of the outbreak, additional actions that may be taken by governmental authorities in response to a potential resurgence of the virus, the pace of recovery once
+ the pandemic subsides and the overall long-term impact on the global economy . That said, our results of operations and financial condition were significantly adversely impacted in the fiscal year ended September 30, 2020, as levels of
+ activity in the Company s business have historically been positively correlated to broad measures of economic activity, such as gross domestic product, and to measures of industrial economic activity, which have been negatively impacted by the
+ pandemic.
+
+Year Ended September 30, 2020 Acquisitions 
+
+On July 23, 2020, the Company acquired Atlantic Customs Brokers, Inc. (ACB) which we include in our Global Logistics Services segment.
+
+Year Ended September 30, 2019 Acquisitions 
+
+On September 6, 2019, the Company acquired Phospho, which we include in our Life Sciences segment.
+
+On July 1, 2019, we acquired the membership interests of a life sciences company to expand our product offerings, which we include in our Life Sciences segment.
+
+22 
+
+Table of Contents 
+
+On November 20, 2018, the Company acquired Honor, which we include in our Global Logistics Services segment.
+
+On October 17, 2018, we completed a business combination whereby we acquired substantially all of the assets and certain liabilities of a global logistics services provider, which we include in our Global Logistics
+ Services segment.
+
+Results of Operations Janel Corporation 
+
+Our results of operations and period-over-period change are discussed in the following section. The tables and discussion should be read in conjunction with the accompanying Consolidated Financial Statements and the notes thereto appearing in
+ Item 8.
+
+Refer to Item 7. Management Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report
+ on Form 10-K for the year ended September 30, 2019, filed on January 28, 2020, for a comparison of fiscal year 2019 results of operations to the fiscal year 2018 results of operations, which specific discussion is incorporated herein by reference
+
+Our condensed consolidated results of operations are as follows:
+
+Financial Summary
+
+in thousands
+
+(Fiscal years ended September 30,)
+
+2020
+
+2019
+
+2018
+
+Revenues
+
+82,429
+
+84,354
+
+67,521
+
+Forwarding expenses and cost of revenues
+
+58,908
+
+59,248
+
+47,209
+
+Gross profit
+
+23,521
+
+25,106
+
+20,312
+
+Operating expenses
+
+25,245
+
+23,527
+
+19,425
+
+Operating (loss) income
+
+(1,724
+
+1,579
+
+887
+
+Net (loss) income
+
+(1,725
+
+616
+
+248
+
+Adjusted operating income
+
+376
+
+3,040
+
+2,562
+
+Consolidated revenues for the year ended September 30, 2020 were 82,429, or 2.3 lower than fiscal 2019. Revenues for our Global Logistics Services and Manufacturing segments decreased mostly due to slowdown related
+ to the COVID-19 pandemic. Revenues for our Life Sciences segment increased largely due to acquisitions.
+
+The Company s net loss for the year ended September 30, 2020 totaled approximately 1,725) or 2.75) per diluted share, compared to net income of approximately 616 or 0.72 per diluted share for the year ended
+ September 30, 2019. Net income declined as a result of the impact of the COVID-19 pandemic, a shift in volume experienced during the first quarter of fiscal 2019 that did not recur, a reserve for the settlement of threatened litigation and
+ severance expenses, partially offset by contributions from acquisitions experienced during the first quarter. These expenses impacted our overall operating results and our adjusted operating profits for fiscal 2020 relative to prior years.
+
+23 
+
+Table of Contents 
+
+The following table sets forth a reconciliation of operating income to adjusted operating income:
+
+Adjusted Operating Income
+
+in thousands
+
+(Fiscal years ended September 30,)
+
+2020
+
+2019
+
+2018
+
+(Loss) income from operations
+
+(1,724
+
+1,579
+
+887
+
+Amortization of intangible assets
+
+955
+
+915
+
+807
+
+Stock-based compensation
+
+269
+
+296
+
+678
+
+Cost recognized on sale of acquired inventory
+
+876
+
+250
+
+190
+
+Adjusted operating income
+
+376
+
+3,040
+
+2,562
+
+BUSINESS PERFORMANCE 
+
+Results of Operations Global Logistics Services 
+
+Financial Summary in thousands
+
+(Fiscal years ended September 30,)
+
+2020
+
+2019
+
+Revenue
+
+68,492
+
+69,655
+
+Forwarding expense
+
+53,397
+
+53,319
+
+Net revenue
+
+15,095
+
+16,336 
+
+Net revenue yield
+
+22.0
+
+23.5
+
+Selling, general and administrative expenses
+
+14,992
+
+13,856
+
+Income from operations
+
+103
+
+2,480
+
+Fiscal 2020 compared with fiscal 2019 
+
+Revenue
+
+Total revenue in fiscal 2020 was 68,492 as compared to 69,655 in fiscal 2019, a decrease of 1,163 or 1.7 . The decrease in revenue was largely due to the impact of the continued global trade slowdown, in
+ particular the steep reduction in global import and export trade volumes due to the COVID-19 pandemic partially offset by an increase in transportation rates due to COVID related transportation capacity reductions. Acquired revenue from two
+ acquisitions completed during fiscal 2019 and one in fiscal 2020 also slightly offset a portion of the revenue decline in the twelve-month period. Our volume as measured by twenty-foot equivalent units TEUs grew 30 , metric tons and custom
+ entries decreased 24 and 10 , respectively.
+
+Net Revenue
+
+Net revenue in fiscal 2020 was 15,095, a decrease of 1,241, or 7.6 , as compared to 16,336 in fiscal 2019. The decrease reflected a low-double digit organic decline for the year due to volume pressures from the
+ COVID-19 pandemic and customers in the prior year period moving freight in advance of certain governmental trade policies, partially offset by acquisition contributions. Our net revenue yield (net revenue divided by gross revenues) declined to
+ 22.0 in fiscal 2020 compared to 23.5 in fiscal 2019 largely due to an increase in transportation rates.
+
+24 
+
+Table of Contents 
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses from continuing operations in fiscal 2020 were 14,992, as compared to 13,856 in fiscal 2019. The increase of 1,136, or 8.2 , was mainly due to additional expenses from acquired businesses,
+ severance expenses related to leadership changes, and settlement of threatened litigation. As a percentage of gross revenue, selling, general and administrative expenses were 21.8 and 19.9 for fiscal 2020 and fiscal 2019, respectively.
+
+Income from Operations
+
+Operating income decreased to 103 in fiscal 2020 compared to 2,480 in fiscal 2019, a decrease of 95.8 . Income from operations declined as a result of the impact of the COVID-19 pandemic and management s decision
+ to maintain staffing and operational capabilities, a shift in volume experienced during the first quarter of fiscal 2019 that did not recur and the settlement of threatened litigation, partially offset by contributions from acquisitions. Our
+ operating margin as a percentage of net revenue was 0.7 in fiscal 2020 compared to 15.2 in fiscal 2019.
+
+Results of Operations - Manufacturing 
+
+ Financial Summary
+
+ in thousands
+
+ (Fiscal years ended September 30,)
+
+2020
+
+2019
+
+Revenue
+
+7,319
+
+9,042
+
+Cost of revenues
+
+3,329
+
+4,020
+
+Gross profit
+
+3,990
+
+5,022
+
+Gross profit margin
+
+54.5
+
+55.5
+
+Selling, general and administrative expenses
+
+2,505
+
+3,113
+
+Income from operations
+
+1,485
+
+1,909
+
+Fiscal 2020 compared with fiscal 2019 
+
+Revenue
+
+Total revenue was 7,319 in fiscal 2020 compared with 9,042 in fiscal 2019, a decrease of 19 . The revenue decline reflected a decline in volumes across the business relative to the prior year period due to the
+ slowdown related to the COVID-19 pandemic.
+
+Gross Profit
+
+Gross profit was 3,990 and 5,022 for fiscal years 2020 and 2019, respectively. Gross profit margin for the Manufacturing segment in the full-year period of fiscal 2020 was 54.5 , as compared to 55.5 , in fiscal
+ 2019. Gross profit margin overall for the Manufacturing segment decreased slightly due to mix of business.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses for the Manufacturing segment were 2,505 and 3,113 for fiscal years 2020 and 2019, respectively. As a percentage of gross revenue, selling, general and administrative
+ expenses were 34.2 and 34.4 for fiscal 2020 and fiscal 2019, respectively. The decrease in expenses related to the decline in revenue, lower stock-based compensation items related to our debt refinancing and related dividend actions, partially
+ offset by management s decision to maintain staffing and operational capabilities.
+
+25 
+
+Table of Contents 
+
+Income from Operations
+
+Operating income for fiscal 2020 was 1,485 compared to 1,909 in fiscal 2019. Indco s operating income decreased 22.2 versus the prior year due to lower revenue without corresponding expense reductions.
+
+Results of Operations - Life Sciences
+
+Financial Summary
+
+ in thousands
+
+ (Fiscal years ended September 30,)
+
+2020
+
+2019
+
+Revenue
+
+6,618
+
+5,657
+
+Cost of revenues
+
+1,306
+
+1,659
+
+Cost recognized upon sale of acquired inventory
+
+876
+
+250
+
+Gross profit
+
+4,436
+
+3,748
+
+Gross profit margin
+
+67.0
+
+66.3
+
+Selling, general and administrative expenses
+
+3,870
+
+2,907
+
+Income from operations
+
+566
+
+841
+
+Fiscal 2020 compared with fiscal 2019 
+
+Revenue
+
+Total revenue was 6,618 in fiscal 2020 compared with 5,657 in fiscal 2019. The increase in sales was entirely due to acquisitions. Revenue declined at a mid-single digit rate on an organic basis due to the slowdown
+ in academic research related to the COVID-19 pandemic.
+
+Gross Profit
+
+Gross profit was 4,436 and 3,748 for fiscal years 2020 and 2019, respectively. The gross profit margin of 67.0 in fiscal 2020 remained comparable to 66.3 in the prior fiscal year. Gross profit was negatively
+ impacted as a result of purchase accounting related to inventory in fiscal 2020 and 2019. Under purchase accounting, inventory is valued at fair value less expected selling and marketing costs, resulting in reduced margins in future periods as the
+ inventory is sold. The gross profit margin was impacted by the amortization of non-cash acquired inventory expenses of 876 and 250 for fiscal 2020 and 2019, respectively.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses for the Life Sciences segment were 3,870 and 2,907 for fiscal years 2020 and 2019, respectively. The increase in both periods was largely due to acquired businesses. As
+ a percentage of gross revenue, selling, general and administrative expenses were 58.5 and 51.4 for fiscal 2020 and fiscal 2019, respectively. Expenses rose faster than revenue due to mix of business from acquisitions.
+
+Income from Operations
+
+The Life Sciences business earned 566 and 841 in income from operations for fiscal 2020 and 2019, respectively. The decline in operating income reflected higher cost recognized on sale of acquired inventory due to
+ acquisitions partially offset by the profit contribution from acquisitions. The difference in operating margin of 8.6 in fiscal 2020 compared with 14.9 in fiscal 2019 was largely due to higher amortization of acquired inventory from our
+ acquisitions.
+
+26 
+
+Table of Contents 
+
+Results of Operations Corporate and Other
+
+Below is a reconciliation of income from operations segments to net (loss) available to common stockholders
+
+Years Ended September 30,
+
+2020
+
+2019
+
+(In thousands)
+
+Total income from operating segments
+
+2,154
+
+5,230
+
+Administrative expenses
+
+(2,724
+
+(2,533
+
+Amortization expense
+
+(955
+
+(915
+
+Stock-based compensation
+
+(199
+
+(203
+
+Total Corporate expenses
+
+(3,878
+
+(3,651
+
+Interest expense
+
+(521
+
+(694
+
+Change in fair value of mandatorily redeemable non-controlling interest
+
+15
+
+61
+
+Net (loss) income before taxes
+
+(2,230
+
+946
+
+Income tax (benefit) expense
+
+505
+
+(330
+
+Net (loss) income
+
+(1,725
+
+616 
+
+Preferred stock dividends
+
+(675
+
+(571
+
+Non-controlling interest dividends
+
+(342
+
+Net (Loss) Available to Common Stockholders
+
+(2,400
+
+(297
+
+Total Corporate Expenses
+
+Corporate expenses increased by 227 to 3,878, or 6.2 , in fiscal 2020 as compared to fiscal 2019. The dollar increase was due primarily to higher accounting related professional expense and increases in
+ amortization of intangible expenses partially offset by lower stock-based compensation and merger and acquisition expenses. We incur merger and acquisition deal-related expenses and intangible amortization at the corporate level rather than at the
+ segment level.
+
+Interest Expense
+
+Interest expense for the consolidated company decreased 173, or 24.9 , to 521 in fiscal 2020 from approximately 694 in fiscal 2019. The decrease was primarily due to more favorable debt refinancing terms and lower
+ interest rates partially offset by higher average debt balances to support our acquisition efforts.
+
+Income Tax Expense
+
+On a consolidated basis, the Company recorded an income tax benefit of 505 in fiscal 2020, as compared to an income tax expense of 330 in fiscal 2019. The decrease was primarily due to a decrease in pretax income
+ and by the estimated deductible expense related to the expected loan forgiveness amount under the Paycheck Protection Program PPP loan received in the third quarter. In 2016, a deferred tax asset was established to reflect a net operating loss
+ carryforward, which the Company has begun using, and expects to continue to use, through ongoing profitability.
+
+Preferred Stock Dividends
+
+Preferred stock dividends include the Company s Series C Stock and dividends accrued but not paid. For the year ended September 30, 2020 and 2019, preferred stock dividends were 675 and 571, respectively. The
+ increase of 104, or 18.2 , was the result of a higher number of shares of Series C Stock outstanding and an increase in dividend rate as of January 1, 2020 to 7 .
+
+27 
+
+Table of Contents 
+
+Dividends accrued but not paid on the Company s Series C Stock were 1,661 and 1,041 as of September 30, 2020 and 2019, respectively.
+
+Net (Loss) Available to Common Shareholders
+
+Net (loss) available to common shareholders was 2,400), or 2.75) per diluted share, for fiscal 2020 and 297), or 0.35) per diluted share, for fiscal 2019. The increase in net loss was primarily due to lower
+ revenues and gross profit and higher selling, general and administrative expenses across our businesses in both periods and an increase in the dividend rate with respect to the Series C Stock as of January 1, 2020 to 7 .
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+General 
+
+Our ability to satisfy liquidity requirements, including satisfying debt obligations and fund working capital, day-to-day operating expenses and capital expenditures, depends upon future performance, which is subject
+ to general economic conditions, competition and other factors, some of which are beyond Janel s control. Our Global Logistics Services segment depends on commercial credit facilities to fund day-to-day operations as there is a difference between
+ the timing of collection cycles and the timing of payments to vendors.
+
+As a customs broker, our Global Logistics Services segment makes significant cash advances for a select group of our credit-worthy customers. These cash advances are for customer obligations such as the payment of
+ duties and taxes to customs authorities primarily in the United States. Increases in duty rates could result in increases in the amounts we advance on behalf of our customers. Cash advances are a pass through and are not recorded as a component
+ of revenue and expense. The billings of such advances to customers are accounted for as a direct increase in accounts receivable from the customer and a corresponding increase in accounts payable to governmental customs authorities. These pass
+ through billings can influence our traditional credit collection metrics. For customers that meet certain criteria, we have agreed to extend payment terms beyond our customary terms. Management believes that it has established effective credit
+ control procedures and has historically experienced relatively insignificant collection problems.
+
+The COVID-19 pandemic has negatively impacted our liquidity and cash flows. As discussed in greater detail in note 9 to the consolidated financial statements, on April 19, 2020, we entered into a loan agreement with
+ Santander and executed a U.S. Small Business Administration note pursuant to which we borrowed 2,726 from Santander pursuant to the PPP under The Coronavirus Aid, Relief and Economic Security Act, Section 7(a)(36) of the Small Business Act in
+ order to be able to continue to cover our payroll costs, group health care benefits, mortgage payments, rent and utilities. The duration and magnitude of the pandemic is not reasonably estimable at this point, and if the pandemic persists, our
+ liquidity and capital resources could be further negatively impacted.
+
+Subsidiaries depend on commercial credit facilities to fund day-to-day operations as there is a difference between the timing of collection cycles and the timing of payments to vendors. Generally, we do not make
+ significant capital expenditures. Janel s cash flow performance for the 2020 fiscal year is not necessarily indicative of future cash flow performance. As of September 30, 2020, and compared with the prior fiscal year, the Company s cash and cash
+ equivalents increased by 1,186, or 55 , to 3,349 from 2,163 as of September 30, 2020. During the fiscal year ended September 30, 2020, Janel s net working capital deficiency (current assets less current liabilities) increased by 4,182, from
+ 6,190) at September 30, 2019 to 10,372) at September 30, 2020.
+
+Cash flows from continuing operating activities
+
+Net cash (used in) provided by continuing operating activities for fiscal years 2020 and 2019 was 554) and 7,203, respectively. The decrease in cash provided by operations for the year ended September, 2020 was
+ driven principally by the higher net loss, partially offset by timing of cash collections for accounts receivables and cash payments on accounts payables for the year ended September 30, 2020.
+
+28 
+
+Table of Contents 
+
+Cash flows from investing activities
+
+Net cash used for investing activities, mainly for the acquisition of subsidiaries, was 1,544 for fiscal 2020 and 6,600 for fiscal 2019. The fiscal 2020 amount was associated with a logistics acquisition, and the
+ fiscal 2019 amount was associated with the two logistics and two Life Sciences acquisitions. The Company also used 1,297 for the acquisition of property and equipment for the year ended September 30, 2020 compared to 421 for the year ended
+ September 30, 2019.
+
+Cash flows from financing activities
+
+Net cash provided by financing activities was 3,284 for fiscal 2020 and 975 for fiscal 2019. Net cash provided by financing activities in fiscal 2020 primarily included proceeds from our PPP loan, deferred payments
+ for the ACB acquisition and proceeds from stock option exercises, proceeds from sale of Series C Preferred, offset by repurchase of Series C Preferred, and in fiscal 2019 primarily included repayments from a line of credit and proceeds from a
+ senior secured term loan.
+
+Credit Facilities 
+
+Global Logistics Services
+
+Santander Bank Facility
+
+On October 17, 2017, the Janel Group subsidiaries (collectively the Janel Group Borrowers ), with Company as a guarantor, entered into a Loan and Security Agreement (the Santander Loan Agreement with Santander
+ Bank, N.A. Santander with respect to a revolving line of credit facility (the Santander Facility ). As amended in March 2018, November 2018, March 2020 and July 22, 2020, the Santander Facility currently provides that the Janel Group Borrowers
+ can borrow up to 17,000 limited to 85 of the Janel Group Borrowers aggregate outstanding eligible accounts receivable, subject to adjustment as set forth in the Santander Loan Agreement. Interest accrues on the Santander Facility at an annual
+ rate equal to, at the Janel Group Borrowers option, prime plus 0.50 , or LIBOR (30, 60 or 90 day) plus 2.25 subject to a LIBOR floor of 75 basis points. The Janel Group Borrowers obligations under the Santander Facility are secured by all of the
+ assets of the Janel Group Borrowers, while the Santander Loan Agreement contains customary terms and covenants.
+
+The Santander Facility matures on October 17, 2022, unless earlier terminated or renewed. As a result of its terms, the Santander Facility is classified as a current liability on the consolidated balance sheet.
+
+On March 21, 2018, the Janel Group Borrowers, the Company and Aves entered into an amendment with Santander (the Santander Amendment with respect to the Santander Loan Agreement. Pursuant to the Santander
+ Amendment, among other changes Aves was added as a loan party obligor (but not a Janel Group Borrower) under the Santander Loan Agreement, the maximum amount available under the Santander Loan Agreement was increased from 10,000 to 11,000
+ (subject to 85 of eligible receivables), the foreign account sublimit was increased from 1,500 to 2,000, a one-time waiver was granted until May 31, 2018 for the stated event of default related to the delivery of the quarterly financial
+ statements for the fiscal quarter ended December 31, 2017, and a one-time waiver, retroactive to March 5, 2018, of the provision that prohibits the Company from using proceeds of the revolving loan to finance acquisitions was granted for the
+ purpose of partially funding the acquisition of Aves.
+
+On November 20, 2018, the Company and its wholly-owned subsidiaries entered into the Limited Waiver, Joinder and Second Amendment Amendment No. 2 to the Santander Loan Agreement (as amended by the Santander
+ Amendment), with Santander Bank, N.A. Pursuant to, and among other changes affected by, Amendment No. 2: (1) Honor Worldwide Logistics LLC, HWL Brokerage LLC and Global Trading Resources Inc. were added as new borrowers under the Santander Loan
+ Agreement (2) Aves was released as a loan party obligor under the Santander Loan Agreement (3) the maximum revolving facility amount available was increased from 11,000 to 17,000 (limited to 85 of the borrowers eligible accounts receivable
+ borrowing base and reserves) (4) the foreign account sublimit was increased from 2,000 to 2,500 (5) the letter of credit limit was increased from 500 to 1,000 (6) the definitions of Debt Service Coverage Ratio, Debt Service Coverage Ratio
+ (Borrower Group) and Loan Party were restated (7) the permitted acquisition debt basket was increased from 2,500 to 4,000 and (8) the permitted indebtedness basket was increased from 500 to 1,000.
+
+29 
+
+Table of Contents 
+
+As of May 1, 2019, Santander had granted the Janel Group Borrowers a one-time waiver until July 31, 2019 for an event of default related to the delivery of the audited financial statements for the fiscal year ended
+ September 30, 2018. Other than as specifically referenced above, the Janel Group Borrowers were in compliance with the covenants defined in the Santander Loan Agreement as of September 30, 2019.
+
+On March 4, 2020, the Company and its wholly-owned subsidiaries, entered into the Third Amendment to Loan and Security Agreement Amendment No. 3 to the Loan and Security Agreement, dated October
+ 17, 2017 by and between the Company, certain of its subsidiaries, and Santander Bank, N.A. (as amended by the Limited Waiver, Joinder and First Amendment dated as of March 21, 2018, and the Limited Waiver, Joinder and Second Amendment dated
+ November 20, 2018 (collectively, the Loan Agreement ). Pursuant to, and among other changes effected by, Amendment No. 3: (1) the Maturity date of the Loan evidenced by the Loan Agreement was extended to October 17, 2022; (2) the LIBOR rate margin
+ was reduced from 2.50 to 2.25 ; (3) the monthly Collateral Monitor Fee was reduced from 1 to 0.5; (4) the definition of EBITDA was revised to allow addback of up to 500 annually for merger and acquisition costs; and (5) the Company s
+ subsidiaries were permitted to pay up to 500 in aggregate dividends to the Company for fiscal 2020 if certain conditions were met.
+
+On July 22, 2020, Janel Group and Atlantic Customs Brokers, Inc. Atlantic as borrowers, and the Company as loan party obligor, entered into the Consent, Joinder and Fourth Amendment (the Fourth Amendment to
+ the Loan and Security Agreement, dated October 17, 2017 (as heretofore amended, the Loan Agreement ), with Santander Bank, N.A., in its capacity as Lender. Pursuant to, and among other changes effected by, the Fourth Amendment, (i) Atlantic was
+ added as a new borrower under the Loan Agreement, (ii) acquisition seller financing of up to 1,500 outstanding at any time was added as permitted indebtedness, and (iii) the Company was permitted to guaranty certain indebtedness of its Antibodies
+ subsidiary up to 2,920 outstanding at any time.
+
+At September 30, 2020, outstanding borrowings under the Santander Facility were 8,447, representing 49.7 of the 17,000 available thereunder, and interest was accruing at an effective interest rate of 2.40 .
+
+The Company was in compliance with the covenants defined in the Santander Loan Agreement at September 30, 2020 and September 30, 2019. 
+
+Working Capital Requirements
+
+Through September 30, 2020, Janel Group s cash needs were met by the Santander Facility and cash on hand. As of September 30, 2020, the Janel Group had, subject to collateral availability, 5,421 available for future
+ borrowings under its 17,000 Santander Facility and 56 in cash.
+
+The Company believes that its current financial resources will be sufficient to finance Janel Group s operations and obligations (current and long-term liabilities) for the long and short term. However, Janel Group s
+ actual working capital needs will depend upon numerous factors, including operating results, the costs associated with growing Janel Group, either organically or through acquisitions, competition and availability under the Santander Facility, none
+ of which can be predicted with certainty. If cash flow and available credit are not sufficient to fund working capital, Janel Group s operations will be materially negatively impacted.
+
+Manufacturing
+
+First Merchants Bank Credit Facility
+
+On March 21, 2016, Indco executed a Credit Agreement (the First Merchants Credit Agreement with First Merchants Bank with respect to a term loan, revolving loan and mortgage loan (together, the First Merchant
+ Facility ), as amended in August 2019 and July 2020. On February 4, 2020, Indco entered into a Purchase and Sale Agreement to acquire the land and building which serves as the Indco office and manufacturing facility in New Albany, Indiana. This
+ transaction closed on July 1, 2020.
+
+30 
+
+Table of Contents 
+
+On July 1, 2020, Indco and First Merchants Bank entered into Amendment No. 2 to the First Merchants Credit Agreement, modifying the terms of Indco s credit facilities. Under the revised terms, the credit facilities
+ consist of a 5,500 term loan, a 1,000 (limited to the borrowing base and reserves) revolving loan and a 680 mortgage loan. Interest will accrue on the Term Loan at an annual rate equal to the one-month LIBOR plus either 2.75 (if Indco s total
+ funded debt to EBITDA ratio is less than 2:1), or 3.5 (if Indco s total funded debt to EBITDA ratio is greater than or equal to 2:1). Interest will accrue on the Revolving Loan at an annual rate equal to the one-month LIBOR plus 2.75 . Interest
+ will accrue on the Mortgage Loan at an annual rate of 4.19 . Indco s obligations under the First Merchants Bank credit facilities are secured by all of Indco s real property and other assets, and are guaranteed by Janel. Additionally, Janel s
+ guarantee of Indco s obligations is secured by a pledge of Janel s Indco shares. The term loan and revolving loan portions of the First Merchants credit facilities will expire on August 30, 2024, and the mortgage loan will mature on July 1, 2025
+ (subject to earlier termination as provided in the First Merchants Credit Agreement), unless renewed or extended.
+
+As of September 30, 2020, there were no outstanding borrowings under the revolving loan, 4,349 of borrowings under the term loan, and 676 of borrowing under the mortgage loan with interest accruing on the term loan
+ and mortgage loan at an effective interest rate of 3.66 and 4.19 , respectively.
+
+The Company was in compliance with the covenants defined in the First Merchants Credit Agreement at September 30, 2020 and September 30, 2019.
+
+Working Capital Requirements
+
+Manufacturing s cash needs are currently met by the term loan and revolving credit facility under the First Merchants Credit Agreement and cash on hand. As of September 30, 2020, Manufacturing had 1,000 available
+ under its 1,000 revolving facility subject to collateral availability and 582 in cash. The Company believes that the current financial resources will be sufficient to finance Manufacturing operations and obligations (current and long-term
+ liabilities) for the long and short term. However, actual working capital needs will depend upon numerous factors, including operating results, the cost associated with growing Manufacturing either organically or through acquisitions, competition
+ and availability under the revolving credit facility, none of which can be predicted with certainty. If cash flow and available credit are not sufficient to fund working capital, Manufacturing s operations will be materially negatively impacted.
+
+Life Sciences
+
+First Northern Bank of Dixon
+
+On June 21, 2018, AB Merger Sub, Inc., a wholly-owned, indirect subsidiary of the Company, entered into a Business Loan Agreement (the First Northern Loan Agreement with First Northern Bank of Dixon First
+ Northern ), with respect to a 2,025 First Northern Term Loan (the First Northern Term Loan ). The proceeds of the First Northern Term Loan were used to fund a portion of the merger consideration to acquire Antibodies. Interest was to accrue on
+ the First Northern Term Loan at an annual rate based on the five-year Treasury constant maturity (index) plus 2.50 (margin) for years one through five then adjusted and fixed for years six through ten using the same index and margin. The
+ borrower s and the Company s obligations to First Northern under the First Northern Loan Agreement are secured by certain real property owned by Antibodies as of the closing of the Antibodies merger. The First Northern Loan Agreement contains
+ customary terms and covenants and matures on June 14, 2028 (subject to earlier termination).
+
+On November 18, 2019, Antibodies modified and refinanced its existing credit facilities with First Northern Bank. The existing First Northern Term Loan was increased to 2,235, the initial interest rate decreased to
+ 4.18 , and the maturity date was extended to November 14, 2029, with all other terms, covenants and conditions substantially unchanged. The existing revolving credit facility was expanded to 500, the interest rate decreased from 6.0 to 4.0 , and
+ the maturity date was extended to October 1, 2020, with all other terms, covenants and conditions substantially unchanged. Additionally, Antibodies entered into a new business loan agreement Solar Loan which provided for a 125 term loan in
+ connection with a potential expansion of solar generation capacity on the Antibodies property. The initial interest rate on the facility is 4.43 , subject to adjustment in five years.
+
+31 
+
+Table of Contents 
+
+On June 19, 2020, First Northern extended the draw period on the Solar Loan from May 14, 2020 to August 14, 2020, with all other terms, covenants and conditions substantially unchanged. Additionally, on June 19,
+ 2020, we entered into a new business loan agreement Generator Loan which provided for a 60 term loan in connection with a potential expansion of generator capacity on the Antibodies property. The draw period for the Generator Loan expires in
+ November 5, 2020. The interest rate for the Generator Loan is 4.25 , and the loan matures on November 5, 2025. There were no outstanding borrowings under the Generator Loan.
+
+As of September 30, 2020, the total amount outstanding under the First Northern Term Loan was 2,192, of which 2,139 is included in long-term debt and 53 is included in current portion of long-term debt, with
+ interest accruing at an effective interest rate of 4.18 .
+
+As of September 30, 2020, the total amount outstanding under the First Northern Solar Loan was 81, of which 76 is included in long-term debt and 5 is included in current portion of long-term debt, with interest
+ accruing at an effective interest rate of 4.43 .
+
+The Company was in compliance with the covenants defined in the First Northern Loan Agreement at September 30, 2020 and September 30, 2019.
+
+Working Capital Requirements
+
+Life Sciences cash needs are currently met by the First Northern Loan Agreement and cash on hand of 2,582. The Company believes that the current financial resources will be sufficient to finance Life Sciences
+ operations and obligations (current and long-term liabilities) for the long and short term. However, actual working capital needs will depend upon numerous factors, including operating results, the cost associated with growing Life Sciences either
+ organically or through acquisitions, competition and availability under the revolving credit facility, none of which can be predicted with certainty. If cash flow and available credit are not sufficient to fund working capital, Life Sciences
+ operations will be materially negatively impacted.
+
+CURRENT OUTLOOK 
+
+The results of operations in the Global Logistics Services, Manufacturing and Life Sciences segments are affected by the general economic cycle, particularly as it influences global trade levels and specifically the
+ import and export activities of our Janel Group business s various current and prospective customers. The effects of the COVID-19 pandemic may remain prevalent for a significant period of time and may continue to
+ adversely affect our business, results of operations and financial condition even after the COVID-19 outbreak has subsided. Historically, the Company s annual results of operations have been subject to seasonal trends which have been the
+ result of, or influenced by, numerous factors including climate, national holidays, consumer demand, economic conditions, the growth and diversification of Janel Group s international network and service offerings, and other similar and subtle
+ forces. The Company cannot accurately forecast many of these factors, nor can it estimate accurately the relative influence of any particular factor and, as a result, there can be no assurance that historical patterns, if any, will continue in
+ future periods.
+
+The Company s subsidiaries are implementing business strategies to grow revenue and profitability for fiscal 2021 and beyond. Janel Group s strategy calls for additional branch offices, introduction of new revenue
+ streams for existing locations, sales force expansion, additional acquisitions, and a continued focus on implementing lean methodologies to contain operating expenses.
+
+Our Manufacturing and Life Sciences segments expect to introduce new product lines and wider distribution and promotion of its products with internet sales efforts. In addition to supporting its subsidiaries growth
+ plans, the Company may seek to grow Janel by entering new business segments through acquisition.
+
+Certain elements of the Company s profitability and growth strategy, including proposals for acquisition and accelerating revenue growth, are contingent upon the availability of adequate financing on terms acceptable
+ to the Company.
+
+32 
+
+Table of Contents 
+
+Without adequate equity and/or debt financing, the implementation of significant aspects of the Company s strategic growth plan may be deferred beyond the originally anticipated timing, and the Company s operations
+ will be materially negatively impacted.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+
+The Company s consolidated financial statements have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires management to make estimates and assumptions about future events
+ that affect the amounts reported in the financial statements and accompanying notes. Since future events and their effects cannot be determined with absolute certainty, the determination of estimates requires the exercise of judgment. Actual
+ results could differ from those estimates, and such differences may be material to the financial statements. The most significant accounting estimates inherent in the preparation of our financial statements include estimates as to revenue
+ recognition, the appropriate carrying value of certain assets and liabilities which are not readily apparent from other sources, primarily allowance for doubtful accounts, accruals for transportation and other direct costs, accruals for cargo
+ insurance, deferred income taxes and potential impairment of goodwill and intangible assets with indefinite lives, long-lived assets impairment. Management bases its estimates on historical experience and on various assumptions which are believed
+ to be reasonable under the circumstances. We reevaluate these significant factors as facts and circumstances change. Historically, actual results have not differed significantly from our estimates. Note 1 of the notes to consolidated financial
+ statements included herein includes a summary of the significant accounting policies and methods used in the preparation of our consolidated financial statements. The following is a brief discussion of certain accounting policies and estimates.
+
+Management believes that the nature of the Company s business is such that there are few complex challenges in accounting for operations. Revenue recognition is considered the critical accounting policy due to the
+ complexity of arranging and managing global logistics and supply-chain management transactions.
+
+Income taxes
+
+The Company uses the asset and liability method of accounting for income taxes in accordance with Accounting Standards Codification Topic 740, Income Taxes. Under this method, income tax expense is recognized for
+ the amount of: (i) taxes payable or refundable for the current year and (ii) deferred tax consequences of temporary differences resulting from matters that have been recognized in an entity s financial statements or tax returns. Deferred tax assets
+ and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax
+ rates is recognized in the results of operations in the period that includes the enactment date.
+
+Estimates
+
+While judgments and estimates are a necessary component of any system of accounting, the Company s use of estimates is limited primarily to the following areas that in the aggregate are not a major component of the
+ Company s consolidated statements of operations:
+
+accounts receivable valuation 
+
+the useful lives of long-term assets 
+
+the accrual of costs related to ancillary services the Company provides and
+
+accrual of tax expense on an interim basis.
+
+inventory valuation
+
+potential impairment of goodwill and intangible assets with indefinite lives, long-lived assets impairment
+
+33 
+
+Table of Contents 
+
+Management believes that the methods utilized in these areas are consistent in application. Management further believes that there are limited, if any, alternative accounting principles or methods which could be
+ applied to the Company s transactions.
+
+While the use of estimates mean that actual future results may be different from those contemplated by the estimates, the Company believes that alternative principles and methods used for making such estimates would
+ not produce materially different results than those reported.
+
+Critical Accounting Policies and Estimates Applicable to the Global Logistics Services Segment
+
+Revenue Recognition
+
+Revenues are derived from customs brokerage services and from freight forwarding services.
+
+Customs brokerage services include activities required for the clearance of shipments through government customs regimes, such as preparing required documentation, calculating and providing for payment of duties and
+ other charges on behalf of customers, arranging required inspections and arranging final delivery.
+
+Freight forwarding may require multiple services, including long-distance shipment via air, ocean or ground assets, destination handling break bulk ), warehousing, distribution and other logistics management
+ activities. As an asset-light business, Janel Group owns none of the assets by which it fulfills its customers logistics needs. Rather, it purchases the services its customers need from asset owners, such as airlines and steamship lines, and
+ resells them. By consolidating shipments from multiple customers, Janel Group can negotiate terms of service with asset owners that are more favorable than those the customers could negotiate themselves.
+
+Revenue is recognized upon transfer of control of promised services to customers. With respect to its Global Logistics Services segment, the Company has determined that in general each shipment transaction or service
+ order constitutes a separate contract with the customer. When the Company provides multiple services to a customer, different contracts may be present for different services.
+
+The Company typically satisfies its performance obligations as services are rendered at a point in time. A typical shipment would include services rendered at origin, such as pick-up and delivery to port, freight
+ services from origin to destination port and destination services, such as customs clearance and final delivery. The Company measures the performance of its obligations as services are completed at a point in time during the life of a shipment,
+ including services at origin, freight and destination. The Company fulfills nearly all of its performance obligations within a one-to two-month period.
+
+The Company evaluates whether amounts billed to customers should be reported as gross or net revenue. Generally, revenue is recorded on a gross basis when the Company is primarily responsible for fulfilling the
+ promise to provide the services, when it has discretion in setting the prices for the services to the customers, and the Company has the ability to direct the use of the services provided by the third party. Revenue is recognized on a net basis
+ when we do not have latitude in carrier selection or establish rates with the carrier.
+
+In the Global Logistics Services segment, the Company disaggregates its revenues by its four primary service categories: ocean freight, air freight, custom brokerage and trucking and other.
+
+Net Revenue
+
+Our total revenues represent the total dollar value of services and goods we sell to our customers. Our net revenue is calculated as Revenue Global Logistics Services less Cost and Expenses Forwarding Expenses,
+ as presented on our consolidated statement of operations, which are purchased transportation and related services, including contracted air, ocean, rail, motor carrier and other costs. Total revenues can be influenced greatly by changes in
+ transportation rates or other items, such as fuel prices, which we do not control. Our net revenue, however, is the primary indicator of our ability to source, add value, and sell services and products that are provided by third parties therefore,
+ we consider net revenue to be our primary performance measurement. Accordingly, the discussion of our results of operations focuses on the changes in our net revenue. The difference between the rate billed to our customers (the sell rate) and the
+ rate we pay to the carrier (the buy rate) is termed net revenue , yield or margin. 
+
+34 
+
+Table of Contents 
+
+Critical Accounting Policies and Estimates Applicable to the Manufacturing and Life Sciences Segments
+
+Revenue Recognition Manufacturing
+
+Revenues from Indco are derived from the engineering, manufacture and delivery of specialty mixing equipment and accessories. Indco receives customer product orders via telephone, email, internet or fax. The pricing
+ of each standard product sold is listed in Indco s print and web-based catalog. Customer specific products are priced by quote. A sales order acknowledgement is sent to every customer for every order to confirm pricing and the specifications of the
+ products ordered. The revenue is recognized at a point in time when the product is shipped to the customer.
+
+Revenue Recognition Life Sciences
+
+Revenues from the Life Sciences segment are derived from the sale of high-quality monoclonal and polyclonal antibodies, diagnostic reagents and diagnostic kits and other immunoreagents for biomedical research and
+ antibody manufacturing. Revenues are recognized when products are shipped and risk of loss is transferred to the carrier(s) used.
+
+NEW ACCOUNTING STANDARDS 
+
+On October 1, 2019, the Company adopted ASU No. 2016-02, Leases ASC 842 or ASU 2016-02 ), issued by the FASB in February 2016 which was subsequently supplemented by
+ clarifying guidance intended to improve financial reporting of leasing transactions. The new lease accounting guidance requires lessees to recognize lease liabilities and right-of-use assets on the balance sheet for all leases with initial terms
+ longer than 12 months and provides enhanced disclosures on key information of leasing arrangements. The guidance allows companies to apply the requirements retrospectively, either to all prior periods presented or through a cumulative adjustment in
+ the year of adoption.
+
+The Company adopted the new standard effective October 1, 2019 using the modified retrospective transition method. The Company elected to use the package of practical expedients which allowed the Company to (i) not
+ reassess whether an arrangement contains a lease, (ii) carry forward its lease classification as operating or capital leases and (iii) not reassess its previously-recorded initial direct costs. For all existing operating leases as of October 1,
+ 2019, the Company recorded operating lease right of use assets of 1,043 and corresponding lease liabilities of 1,060, with an offset to other liabilities of 17 to eliminate deferred rent on the consolidated balance sheets.
+
+Operating lease expense is recognized on a straight-line basis over the lease term. At each balance sheet date, operating lease liabilities represent the present value of the future minimum payments related to
+ non-cancelable periods.
+
+Leases with an initial term of 12 months or less (short-term leases) are not recognized in the balance sheet, and the related lease payments are recognized as incurred over the lease term.
+
+All significant lease arrangements after October 1, 2019 are recognized as right-of-use assets and lease liabilities at lease commencement. Right-of-use assets represent the Company s right to use an underlying asset
+ for the lease term, and lease liabilities represent its obligation to make lease payments arising from the lease. Right-of-use assets and liabilities are recognized at the commencement date based on the present value of the future lease payments
+ using the Company s incremental borrowing rate.
+
+The adoption of the new lease accounting standard did not have a material impact on the Company s results of operations or cash flows.
+
+35 
+
+Table of Contents 
+
+In June 2018, the FASB issued ASU 2018-07, Compensation - Stock Compensation , which expands the scope of Topic 718 to include all share-based payment transactions for
+ acquiring goods and services from nonemployees. The amendments in this update are effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years, with early adoption permitted. The Company s
+ current share-based payment awards to non-employees consist only of grants made to its non-employee directors as compensation solely relates to each individual s role as a non-employee director. As such, in accordance with ASC 718, the Company
+ accounts for these share-based payment awards to its non- employee directors in the same manner as share-based payment awards for its employees. The Company adopted this standard on October 1, 2019, and the amendments in this guidance had no
+ material effect on either the accounting for its share-based payment awards to its non-employee directors, or the Company s consolidated financial statements.
+
+NON-GAAP FINANCIAL MEASURES 
+
+While we prepare our financial statements in accordance with U.S. GAAP, we also utilize and present certain financial measures, in particular adjusted operating income, which is not based on or included in U.S.
+ GAAP (we refer to these as non-GAAP financial measures ).
+
+Net Revenue
+
+Net revenue is a non-GAAP measure calculated as total revenue less forwarding expenses attributable to the Company s Global Logistics Services segment. Our total revenue represents the total dollar value of
+ services and goods we sell to our customers. Forwarding expenses attributable to the Company s Global Logistics Services segment refer to purchased transportation and related services including contracted air, ocean, rail, motor carrier and
+ other costs. Total revenue can be influenced greatly by changes in transportation rates or other items, such as fuel prices, which we do not control. Management believes that providing net revenue is useful to investors as net revenue is the
+ primary indicator of our ability to source, add value and sell services and products that are provided by third parties, and we consider net revenue to be our primary performance measurement. The difference between the rate billed to our
+ customers (the sell rate) and the rate we pay to the carrier (the buy rate) is termed net revenue , yield or margin. As presented, net revenue matches gross margin.
+
+Organic Growth
+
+Our non-GAAP financial measure of organic growth represents revenue growth excluding revenue from acquisitions within the preceding 12 months. The organic growth presentation provides useful period-to-period
+ comparison of revenue results as it excludes revenue from acquisitions that would not be included in the comparable prior period.
+
+Adjusted Operating Income
+
+As a result of our acquisition strategy, our net income includes material non-cash charges relating to the amortization of customer-related intangible assets in the ordinary course of business as well as other
+ intangible assets acquired in our acquisitions. Although these charges may increase as we complete more acquisitions, we believe we will be growing the value of our intangible assets such as customer relationships. Because these charges are not
+ indicative of our operations, we believe that adjusted operating income is a useful financial measure for investors because it eliminates the effect of these non-cash costs and provides an important metric for our business that is more
+ representative of the actual results of our operations.
+
+Adjusted operating income (which excludes the non-cash impact of amortization of intangible assets, stock-based compensation and cost recognized on the sale of acquired inventory valuation) is used by management
+ as a supplemental performance measure to assess our business s ability to generate cash and economic returns.
+
+Adjusted operating income is a non-GAAP measure of income and does not include the effects of preferred stock dividends, interest and taxes.
+
+36 
+
+Table of Contents 
+
+We believe that net revenue, organic growth and adjusted operating income provide useful information in understanding and evaluating our operating results in the same manner as management. However, net revenue,
+ organic growth and adjusted operating income are not financial measures calculated in accordance with U.S. GAAP and should not be considered as a substitute for total revenue, operating income or any other operating performance measures
+ calculated in accordance with U.S. GAAP. Using these non-GAAP financial measures to analyze our business has material limitations because the calculations are based on the subjective determination of management regarding the nature and
+ classification of events and circumstances that users of the financial statements may find significant.
+
+In addition, although other companies in our industry may report measures titled net revenue, organic growth, adjusted operating income or similar measures, such non-GAAP financial measures may be calculated
+ differently from how we calculate our non-GAAP financial measures, which reduces their overall usefulness as comparative measures. Because of these limitations, you should consider net revenue, organic growth and adjusted operating income
+ alongside other financial performance measures, including total revenue, operating income and our other financial results presented in accordance with U.S. GAAP.
+
+ITEM 7A. 
+ 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+Consistent with the rules applicable to smaller reporting companies , we have omitted the information required by Item 7A.

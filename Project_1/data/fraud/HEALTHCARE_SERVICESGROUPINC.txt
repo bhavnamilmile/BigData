@@ -1,0 +1,252 @@
+﻿
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operation. 
+ 
+ You should read the following discussion and analysis of our financial condition and results of our operations in conjunction with our Consolidated Financial Statements and the related notes to those statements included elsewhere in this report. This discussion contains forward-looking statements reflecting our current expectations that involve risks and uncertainties. Our actual results and the timing of events may differ materially from those contained in these forward-looking statements due to a number of factors, including those discussed in the section entitled Risk Factors, and elsewhere in this report on Form 10-K. We are on a calendar year end, and except where otherwise indicated, 2020 refers to the year ended December 31, 2020, and 2019 refers to the year ended December 31, 2019. Discussions of 2018 items and year-to-year comparisons between 2019 and 2018 that are not included in this Form 10-K can be found in Management s Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2019. 
+
+Results of Operations 
+ 
+ The following discussion is intended to provide the reader with information that will be helpful in understanding our financial statements, including the changes in certain key items when comparing financial statements period to period. We also intend to provide the primary factors that accounted for those changes, as well as a summary of how certain accounting principles affect our financial statements. In addition, we are providing information about the financial results of our two operating segments to further assist in understanding how these segments and their results affect our consolidated results of operations. This discussion should be read in conjunction with our consolidated financial statements as of December 31, 2020 and for the year then ended and the notes accompanying those financial statements. 
+
+COVID-19 Considerations 
+ 
+ The Company s priorities during the COVID-19 pandemic are protecting the health and safety of our employees; maximizing the impact of our main services in helping customers with the housekeeping and dietary services needs of their facilities, and deploying the talents of our employees and our resources to help the communities we serve meet and overcome the current challenges. During the year ended December 31, 2020, the COVID-19 pandemic did not have a material net impact on our consolidated operating results. Revenues for the year ended December 31, 2020 included 32.3 million of COVID-19 supplemental billings, primarily related to employee pay premiums passed through to customers, which were offset by temporary decreases in recurring billings as a result of census-driven cost reductions in staffing and purchasing. In the future, the pandemic may cause reduced demand for our services if, for example, the pandemic results in a recessionary economic environment to the long-term care and skilled nursing industries in which we serve; however since the services that we offer are essential to our customers, we believe that over the long term, there will continue to be strong demand for our services. 
+ 
+ Our ability to operate without significant negative operational impact from the COVID-19 pandemic will in part depend on our ability to protect our employees and our supply chain. The Company has endeavored to follow the recommended actions of government and health authorities to protect our employees, with particular measures in place for those working in our customer facilities. For the year ended December 31, 2020, we maintained the consistency of our operations during the onset of the COVID-19 pandemic. We will continue to innovate in managing our business, coordinating with nursing departments to do our part in the infection prevention and control continuum and remain flexible in responding to our customer-partners. However, the continued uncertainty resulting from the pandemic and the effect of the vaccine could result in an unforeseen disruption to our workforce and supply chain (for example an inability of a key supplier or transportation supplier to source and transport materials) that could negatively impact our operations. 
+ 
+ Through December 31, 2020, we continue to generate operating cash flows to meet our short-term liquidity needs, and we expect to maintain access to the capital markets. In addition, our liquidity and operating cash flows have been favorably impacted by 46.6 million of deferred payroll taxes under the Coronavirus Aid, Relief, and Economic Security Act (the "CARES Act") which are payable over two equal installments in December 2021 and 2022. We have also not observed any material impairments of our assets or a significant change in the fair value of our assets due to the COVID-19 pandemic. 
+ 19 
+
+Table of Contents 
+
+For additional information on risk factors related to the pandemic or other risks that could impact our results, please refer to Risk Factors in Part I, Item 1A of this Form 10-K. 
+
+Overview 
+ 
+ We provide management, administrative and operating expertise and services to the housekeeping, laundry, linen, facility maintenance and dietary service departments of healthcare facilities, including nursing homes, retirement complexes, rehabilitation centers and hospitals located throughout the United States. We believe we are the largest provider of housekeeping and laundry management services to the long-term care industry in the United States, rendering such services to over 3,000 facilities throughout the continental United States as of December 31, 2020. 
+ 
+ We provide services primarily pursuant to full service agreements with our customers. Under such agreements, we are responsible for the day-to-day management of the employees located at our customers facilities, as well as for the provision of certain supplies. We also provide services on the basis of management-only agreements for a limited number of customers. Under a management-only agreement, we provide management and supervisory services while the customer facility retains payroll responsibility for the non-supervisory staff. Our agreements with customers typically provide for a renewable one year service term, cancellable by either party upon 30 to 90 days notice after an initial period of 60 to 120 days. 
+ 
+ We are organized into two reportable segments: housekeeping, laundry, linen and other services Housekeeping ), and dietary department services Dietary ). 
+ 
+ Housekeeping consists of managing our customers housekeeping departments, which are principally responsible for the cleaning, disinfecting and sanitizing of resident rooms and common areas of the customers facilities, as well as the laundering and processing of the bed linens, uniforms, resident personal clothing and other assorted linen items utilized at the customers facilities. Upon beginning service with a customer facility, we typically hire and train the employees previously employed by such facility and assign an on-site manager to supervise and train the front-line personnel and coordinate housekeeping services with other facility support functions in accordance with customer requests. Such management personnel also oversee the execution of various cost and quality control procedures including continuous training and employee evaluation. 
+ 
+ Dietary consists of managing our customers dietary departments, which are principally responsible for food purchasing, meal preparation and professional dietitian services, which include the development of menus that meet the dietary needs of residents. On-site management is responsible for all daily dietary department activities, with regular support provided by a District Manager specializing in dietary services. We also offer clinical consulting services to our dietary customers, which may be provided as a stand-alone service, or bundled with other dietary department services. Upon beginning service with a customer facility, we typically hire and train the employees previously employed by such facility and assign an on-site manager to supervise and train the front-line personnel and coordinate dietitian services with other facility support functions in accordance with customer requests. Such management personnel also oversee the execution of various cost and quality control procedures including continuous training and employee evaluation. 
+ 
+ At December 31, 2020, Housekeeping services were provided at essentially all of our approximately 3,000 customer facilities, generating approximately 50.9 or 895.3 million of our total revenues for the year ended December 31, 2020. Dietary services were provided to over 1,500 customer facilities at December 31, 2020 and contributed approximately 49.1 or 865.0 million of our total revenues for the year ended December 31, 2020. 
+ 
+ Our workers compensation, general liability and certain employee health and welfare insurance programs are provided by HCSG Insurance Corp. HCSG Insurance or the Captive ), our wholly-owned captive insurance subsidiary. HCSG Insurance provides the Company with greater flexibility and cost efficiency in meeting our insurance needs. In 2015, we completed a corporate restructuring by capitalizing three new operating entities and transitioning our facility-based employees to such entities based on the geography served. HCSG Insurance provides workers compensation, general liability and other insurance coverages to such entities with respect to such transitioned workforce, such entities provide housekeeping, laundry and dietary services as a subcontracted provider to the Company, and the Company provides strategic customer-service management and administrative support services to such entities. 
+ 
+ 20 
+
+Table of Contents 
+
+ Our ability to acquire new customers, retain existing customers and increase revenues are affected by many factors. Competitive factors consist primarily of competing with potential customers use of in-house support staff, as well as local or regional companies providing services similar to ours. We believe the primary revenue drivers of our business are our ability to obtain new customers and to provide additional services to existing customers. In addition, we seek to pass through, by means of service billing increases, increases in our cost of providing the services, while also aiming to obtain modest annual revenue increases from our existing customers to attain desired profit margins at the facility level. The primary economic factor in acquiring new customers is our ability to demonstrate the cost-effectiveness of our services, because many of our customers revenues are generally highly reliant on Medicare and Medicaid reimbursements. Therefore, our customers economic decision-making is driven significantly by their reimbursement funding rate structure and the financial impact on their reimbursement as a result of engaging us for the respective services. The primary operational factor is our ability to demonstrate to potential customers the benefits of being relieved of the administrative and operational challenges related to the day-to-day management of their housekeeping and dietary operations. In addition, we must be able to assure new customers that we can improve the quality of service that they are providing to their residents. We believe the factors discussed above are equally applicable to each of our segments with respect to acquiring new customers and increasing revenues. 
+ 
+ When evaluating financial performance, we consider the ratio of certain financial items to consolidated revenues. The table below summarizes those metrics for 2020, 2019 and 2018: 
+ Relation to Consolidated Revenues Year Ended December 31, 2020 2019 2018 Revenues 100.0 100.0 100.0 Operating costs and expenses: Costs of services provided 84.8 87.6 88.3 Selling, general and administrative expense excluding change in deferred compensation liability 8.0 7.8 6.9 Gain on deferred compensation plan investments 0.6 0.4 (0.1) Selling, general and administrative expense 8.6 8.2 6.8 Other income (expense): Investment and other income, net 0.8 0.6 0.3 Interest expense (0.1) (0.2) (0.2) Income before income taxes 7.3 4.6 5.0 Income taxes 1.7 1.1 0.8 Net income 5.6 3.5 4.2 
+ 
+ Our costs of services can vary and may impact our operating performance. Management reviews two primary indicators (costs of labor and costs of supplies as percentages of segment revenues) to monitor and manage such costs. The variability of these costs may impact each segment differently, as Housekeeping is more significantly impacted by costs of labor than Dietary. Labor costs accounted for approximately 80.5 of Housekeeping revenues in 2020. Dietary labor costs accounted for approximately 63.7 of Dietary revenues in 2020. Changes in wage rates as a result of legislative or collective bargaining actions, market factors, adjustments to staffing levels, and other variations in our use of labor or in management labor costs can result in variability of these costs. Housekeeping supplies, including linen products, accounted for approximately 6.9 of Housekeeping revenues in 2020. In contrast, supplies consumed in performing our Dietary services accounted for approximately 26.5 of Dietary revenues. Generally, fluctuations in these expenses are influenced by factors outside of our control and are unpredictable. Housekeeping and Dietary supplies are principally commodity products and are affected by market conditions specific to the respective products. 
+ 
+ Our customers are concentrated in the healthcare industry and are primarily providers of long-term care. Many of our customers revenues are highly reliant on Medicare, Medicaid and third-party payors reimbursement funding rates. Legislation can significantly alter overall government reimbursement for nursing home services and such changes, as well as other trends in the long-term care industry, have affected and could adversely affect our customers cash flows, resulting in their inability to make payments to us in accordance with agreed-upon payment terms. The climate of legislative uncertainty has posed, and will continue to pose, both risks and opportunities for us: the risks are related to our customers cash flows and solvency, while the opportunities are related to our ability to offer our customers cost stability and efficiencies. 
+ 
+ 21 
+
+Years Ended December 31, 2020 and 2019 
+ 
+ The following table summarizes the income statement key components that we use to evaluate our financial performance on a consolidated and reportable segment basis, for the years ended December 31, 2020 and 2019. The differences between the reportable segments operating results and other disclosed data and our consolidated financial results relate primarily to corporate level transactions and adjustments related to transactions recorded at the reportable segment level which use methods other than generally accepted accounting principles. 
+ 
+ Year Ended December 31, 2020 2019 Change (in thousands) Revenues Housekeeping 895,267 909,499 (1.6) Dietary 865,036 931,279 (7.1) Consolidated 1,760,303 1,840,778 (4.4) Costs of services provided Housekeeping 799,544 815,326 (1.9) Dietary 796,743 888,010 (10.3) Corporate and eliminations (103,970) (90,459) 14.9 Consolidated 1,492,317 1,612,877 (7.5) Selling, general and administrative expense Corporate 150,778 150,022 0.5 Investment and other income, net Corporate 13,352 10,676 25.1 Interest expense Corporate (1,374) (3,459) (60.3) Income (loss) before income taxes Housekeeping 95,723 94,173 1.6 Dietary 68,293 43,269 57.8 Corporate and eliminations (34,830) (52,346) (33.5) Consolidated 129,186 85,096 51.8 Income taxes Corporate 30,504 20,515 48.7 
+
+Revenues 
+ 
+ Consolidated 
+ 
+ Consolidated revenues decreased 4.4 to 1.8 billion for the year ended December 31, 2020 compared to the corresponding period in 2019 as a result of the factors discussed below under Reportable Segments. 
+ 
+ 22 
+
+Reportable Segments 
+ 
+ Housekeeping and Dietary revenues decreased 1.6 and 7.1 , respectively, during the year ended December 31, 2020 compared to the corresponding period in 2019. The reductions in revenue were primarily driven by the termination of several customers due to the Company exiting facilities in conjunction with operator transitions where we have been unable to come to agreeable terms, typically including accelerated payment and stricter credit terms with new operators. Revenue for the year ended December 31, 2020 included 32.3 million of COVID-19 supplemental billings, primarily related to employee pay premiums passed through to customers, offset by temporary decreases in recurring billings as a result of census-driven cost reductions in staffing and purchasing. The full impact that COVID-19 will have on our future revenues is not yet known at this time. 
+
+Costs of services provided 
+ 
+ Consolidated 
+ 
+ Consolidated costs of services provided decreased 7.5 to 1.5 billion for the year ended December 31, 2020 compared to the corresponding period in 2019. 
+ 
+ The following table provides a comparison of key indicators we consider when managing the consolidated costs of services provided: 
+ Year Ended December 31, Costs of Services Provided - Key Indicators as of Consolidated Revenue 2020 2019 Change Bad debt provision 0.5 1.4 (0.9) Self-insurance costs 1.9 2.7 (0.8) 
+ The decrease in the bad debt provision is related to our current assessment of the collectability of our accounts and notes receivable during the year ended December 31, 2020. Additionally, we incurred higher than normal bad debt expense during the year ended December 31, 2019 due to the out-of-court restructuring of a privately held Northeast based operator. Effective January 1, 2020, the Company adopted a new accounting pronouncement which changed the Company s procedures for estimating its bad debt provision. Under the new guidance, the Company now records a provision for bad debt based on management s forecast of expected future credit losses versus the previous impaired loss model. Refer to the Note 1 Description of Business and Significant Accounting Policies herein for additional information on our adoption of the new accounting standard including our day one adjustment. The decline in our self-insurance costs as a percentage of consolidated revenue was primarily impacted by a favorable 14.0 million adjustment to the Company's self-insurance reserves during 2020 after considering our updated actuarial estimates for projected incurred losses on past claims as compared to the 2.1 million favorable adjustment recorded in 2019. 
+ 
+ Reportable Segments 
+ 
+ Costs of services provided for Housekeeping, as a percentage of Housekeeping revenues, decreased to 89.3 for the year ended December 31, 2020 from 89.6 in the corresponding period in 2019. Costs of services provided for Dietary, as a percentage of Dietary revenues, decreased to 92.1 for the year ended December 31, 2020 from 95.4 in the corresponding period in 2019. 
+ 
+ The following table provides a comparison of the key indicators we consider when managing costs of services provided at the segment level, as a percentage of the respective segment s revenues: 
+ Year Ended December 31, Costs of Services Provided - Key Indicators as of Segment Revenue 2020 2019 Change Housekeeping labor and other labor-related costs 80.5 80.2 0.3 Housekeeping supplies 6.9 7.4 (0.5) Dietary labor and other labor-related costs 63.7 63.6 0.1 Dietary supplies 26.5 29.3 (2.8) 
+ 
+ Variations within these key indicators relate to the provision of services at new facilities and changes in the mix of customers for whom we provide supplies or do not provide supplies. Management focuses on building efficiencies and managing labor and other costs at the facility level, as well as managing supply chain costs, for new and existing facilities. The decline in 
+ 23 
+
+dietary supplies spend as a percentage of dietary revenues was driven by the mix of business where we no longer provide all dining department supplies, declining census as well as management of food-spend costs. 
+
+Consolidated Selling, General and Administrative Expense 
+ 
+ Included in selling, general and administrative expense are gains and losses associated with changes in the value of investments under our deferred compensation liability. These investments represent the amounts held on behalf of the participating employees as changes in the value of these investments affect the amount of our deferred compensation liability. Gains on the plan investments during the years ended December 31, 2020 and 2019 increased our total selling, general and administrative expense for these periods. During the year ended December 31, 2020, we incurred an increase to certain costs related to COVID-19, however such costs were immaterial. There is a possibility for additional increased selling, general and administrative expense related to the pandemic. 
+ 
+ Excluding the change in the deferred compensation plan described above, consolidated selling, general and administrative expense decreased 1.1 million or 0.8 for the year ended December 31, 2020 compared to the corresponding period in 2019. The decrease was primarily a result of higher legal and other professional fees incurred during 2019 in connection with the Company's internal investigation related to the SEC's inquiry regarding the Company's earnings per share calculation practices, along with a reduction in travel related expense. 
+ 
+ The table below summarizes the changes in these components of selling, general and administrative expense: 
+ Year Ended December 31, 2020 2019 Change Change (dollar amounts in thousands) Selling, general and administrative expense excluding change in deferred compensation liability 141,578 142,669 (1,091) (0.8) Gain on deferred compensation plan investments 9,200 7,353 1,847 25.1 Selling, general and administrative expense 150,778 150,022 756 0.5 
+
+Consolidated Investment and Interest Income, net 
+ 
+ Investment and other income increased 25.1 to 13.4 million for the year ended December 31, 2020 compared to the corresponding 2019 period, primarily due to market fluctuations in the value of our trading security investments representing the funding for our deferred compensation plan. 
+ 
+ Consolidated Interest Expense 
+ 
+ Consolidated interest expense decreased 60.3 to 1.4 million for the year ended December 31, 2020 compared to the corresponding 2019 period due to strong cash flows from operations which necessitated fewer interquarter borrowings. Cash flows from operations increased 132 to 217.2 million for the year ended December 31, 2020 primarily driven by a 46.6 million increase related to the deferral of payroll taxes under the CARES Act and a 75.7 million increase in collections on outstanding accounts and notes receivable as compared to the year ended December 31, 2019. 
+
+Consolidated Income Taxes 
+ 
+ Our effective tax rate was 23.6 for the year ended December 31, 2020 compared to 24.1 in 2019. 
+ 
+ 24 
+
+Table of Contents 
+
+ Critical Accounting Policies and Estimates 
+ 
+ The preparation of financial statements in accordance with accounting standards generally accepted in the United States U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. 
+ 
+ Financial reporting results rely on estimating the effects of matters that are inherently uncertain. An understanding of the policies discussed below is critical to the understanding of our financial statements because the application of these policies requires judgment. Specific risks for these critical accounting policies and estimates are described in the following paragraphs. For these estimates, we caution that future events do not always occur as forecasted, and the best estimates routinely require adjustment. Any such adjustments or revisions to estimates could result in material differences from previously reported amounts. 
+ 
+ The policies discussed below are not intended to be a comprehensive list of all of our accounting policies. In many cases, the accounting treatment of a particular transaction is specifically dictated by U.S. GAAP, with no need for our judgment in their application. There are also areas in which our judgment in selecting another available alternative would not produce a materially different result. See our audited consolidated financial statements and notes thereto which are included in this Annual Report on Form 10-K, which contain a discussion of our accounting policies and other disclosures required by U.S. GAAP. 
+ 
+ Allowance for Doubtful Accounts 
+ 
+ The allowance for doubtful accounts (the "Allowance") is established at the origination of an account or note receivable in accordance with the Financial Accounting Standards Board ("FASB") Accounting Standards Codification subtopic 326 Credit Losses - Measurement of Credit Losses on Financial Instruments ("ASC 326"). ASC 326 was adopted by the Company prospectively as of January 1, 2020. 
+ 
+ In adopting ASC 326, the Company replaced its previous incurred loss impairment model for estimating credit losses on accounts and notes receivables for its reporting of quarterly and annual financial results with an expected loss model prepared in accordance with ASC 326. While the incurred loss impairment model had the Company recognize credit losses when it was probable that a loss had been incurred, ASC 326 requires the Company to estimate the lifetime expected credit losses on such instruments and to record an allowance to offset the receivables. Accordingly, credit losses under ASC 326 are generally recognized earlier in the life cycle of a receivable than under the Company's previous incurred loss model. 
+ 
+ The Allowance is evaluated quarterly based upon our financial models which consider historical collections experience, current market conditions, government funding of Medicare and Medicaid, and reasonable and supportable economic forecasts to estimate lifetime expected credit losses. Portions of the Allowance are inherently more sensitive to fluctuations in management's assumptions than others, particularly any adjustments made to reflect reasonable and supportable economic forecasts. Such qualitative assessments would be expected to have a greater effect on aged accounts receivable and notes receivable as compared to current receivables. Due to the prospective nature of the Allowance under ASC 326, Management continues to review our portfolio of accounts and notes receivable and any estimate of credit losses is inherently subjective as it requires estimates that are susceptible to significant revision as more information becomes available. 
+ 
+ We have had varying collections experience with respect to our accounts and notes receivable. We have at times elected to extend the period of payment for certain customers beyond contractual terms. Such customers include those who have terminated service agreements and slow payers experiencing financial difficulties. In making credit evaluations, in addition to analyzing and anticipating, where possible, the specific cases described above, we consider customer-specific risks as well as the general collection risks associated with trends in the long-term care industry. We establish credit limits through our payment terms, perform ongoing credit evaluations, and monitor accounts to minimize the risk of loss. 
+ 
+ Despite our efforts to minimize credit risk exposure, our customers could be adversely affected if future industry trends, as more fully discussed under "Liquidity and Capital Resources" below, and in this Annual Report on Form 10-K in Part I under "Government Regulation of Customers," "Service Agreements and Collections" and Risk Factors change in such a manner as to negatively impact the cash flows of our customers. If our customers experience a negative impact in their cash flows, it could have a material adverse effect on our results of operations and financial condition. 
+ 
+ Accrued Insurance Claims 
+ 
+ We currently have a Paid Loss Retrospective Insurance Plan for general liability, workers compensation insurance and other self-insurance programs, which comprise approximately 27.1 of our liabilities at December 31, 2020. Under our insurance 
+ 25 
+
+Table of Contents 
+
+ plans predetermined loss limits are arranged with our insurance company to limit both our per occurrence cash outlay and annual insurance plan cost. Our accounting for this plan utilizes current valuations from a third party actuary, which include assumptions based on data such as historical claims and pay-out experience, demographic factors, industry trends, severity factors, and other actuarial calculations. In the event that our claims experience and/or industry trends result in an unfavorable change in our assumptions or outcomes, it would have an adverse effect on our results of operations and financial condition. Recently, our claims experiences have been favorable, as a result of our ongoing initiative to promote safety and accident prevention in the workplace, as well as proactive management of workers compensation claims. 
+ 
+ For general liability, workers compensation and other self-insurance programs, we record both a reserve for the estimated future cost of claims and related expenses that have been reported but not settled, as well as an estimate of claims incurred but not reported. General liability and workers' compensation reserves for claims incurred but not reported are developed by a third party actuary through review of our historical data and open claims. 
+ 
+ A summary of the changes in our total self-insurance liability is as follows: 
+ 2020 2019 2018 (in thousands) Accrued insurance claims - January 1, 87,622 79,600 84,699 Claim payments (30,828) (35,834) (34,901) Reserve accruals: Current year accruals 39,638 45,934 45,478 Changes to the provision for prior year claims (14,004) (2,078) (15,676) Change in accrued insurance claims (5,194) 8,022 (5,099) Accrued insurance claims - December 31, 82,428 87,622 79,600 
+ 
+ 26 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ 
+ Cash generated through operations is our primary source of liquidity. At December 31, 2020, we had cash, cash equivalents and marketable securities of 264.3 million and working capital of 410.1 million, compared to December 31, 2019 cash, cash equivalents and marketable securities of 118.0 million and working capital of 367.1 million. Our current ratio was 3.5 to 1 at December 31, 2020 versus 3.5 to 1 at December 31, 2019. Marketable securities represent fixed income investments that are highly liquid and can be readily purchased or sold through established markets. Such securities are held by HCSG Insurance to satisfy capital requirements of the state regulator related to captive insurance companies. Through December 31, 2020, the pandemic has not negatively impacted the Company s liquidity position as of such date. 
+ 
+ For the year ended December 31, 2020 and 2019, our cash flows were as follows: 
+ Year Ended December 31, 2020 2019 2018 (in thousands) Net cash provided by operating activities 217,213 93,581 80,031 Net cash used in investing activities (36,845) (16,457) (9,586) Net cash used in financing activities (68,367) (75,820) (53,977) 
+ 
+ Operating Activities 
+ 
+ Our primary sources of cash from operating activities are the revenues generated from our Housekeeping and Dietary services. Our primary uses of cash from operating activities are the funding of our payroll and other personnel-related costs, as well as the costs of supplies used in providing our services. For the year ended December 31, 2020 cash flow from operations included a 46.6 million increase related to the deferral of payroll taxes under the CARES Act which are payable over two equal installments in December 2021 and 2022. Such deferral, along with the timing of cash receipts and cash payments, are the primary drivers of the period-over-period changes in net cash provided by operating activities. 
+ 
+ We have not changed our expectations on future cash flows from operating activities due to COVID-19. We anticipate that several of our customers may experience changes in their cash flows however we will continue to pursue collections in accordance with our service agreements. 
+ 
+ Investing Activities 
+ 
+ Our principal uses of cash for investing activities are the purchases of marketable securities and capital expenditures such as those for housekeeping and food service equipment, computer software and equipment, and furniture and fixtures (see Capital Expenditures below for additional information). Such uses of cash are partially offset by proceeds from sales of marketable securities. 
+ 
+ Our investments in marketable securities are primarily comprised of tax-exempt municipal bonds and are intended to achieve our goal of preserving principal, maintaining adequate liquidity and maximizing returns subject to our investment guidelines. Our investment policy limits investment to certain types of instruments issued by institutions primarily with investment-grade ratings and places restrictions on concentration by type and issuer. 
+ 
+ 27 
+
+Table of Contents 
+
+ Financing Activities 
+ 
+ The primary use of cash for financing activities is the payment of dividends. We have paid regular quarterly cash dividends since the second quarter of 2003. During 2020, we paid regular quarterly cash dividends to shareholders totaling 60.7 million as follows: 
+
+Quarter Ended December 31, 2020 September 30, 2020 June 30, 2020 March 31, 2020 (amounts in thousands, except per share data) Cash dividend per common share 0.20500 0.20375 0.20250 0.20125 Total cash dividends paid 15,322 15,222 15,128 15,033 Record date November 20, 2020 August 21, 2020 May 22, 2020 February 28, 2020 Payment date December 24, 2020 September 25, 2020 June 26, 2020 March 27, 2020 
+ 
+ Additionally, on February 9, 2021, our Board of Directors declared a regular quarterly cash dividend of 0.20625 per common share, which will be paid on March 26, 2021 to shareholders of record as of the close of business on February 26, 2021. 
+ 
+ The dividends paid to shareholders during the year ended December 31, 2020 were funded by cash generated from operations. Our Board of Directors reviews our dividend policy on a quarterly basis. Although there can be no assurance that we will continue to pay dividends or regarding the amount of future dividend payments, we expect to continue to pay a regular quarterly cash dividend. In connection with the establishment of our dividend policy, we adopted a Dividend Reinvestment Plan in 2003. 
+ 
+ The primary source of cash from financing activities is the net borrowings under our bank line of credit. We borrow for general corporate purposes as needed throughout the year. 
+ 
+ We remain authorized to repurchase 1.6 million shares of our Common Stock pursuant to previous Board of Directors authorization. During the year ended December 31, 2020 and 2019, we repurchased our Common Stock as part of the dividend reinvestment related to treasury shares held within the Deferred Compensation Plan. The number of shares and value of shares repurchased were immaterial for the years ended December 31, 2020 and 2019. 
+ 
+ Contractual Obligations 
+ 
+ Our future contractual obligations and commitments at December 31, 2020 primarily consist of minimum lease payments on our operating lease agreements as discussed within Note 9 Lease Commitments. As of December 31, 2020, the Company had no other minimum purchase or capital expenditure commitments pertaining to our daily operations or existing financing arrangements. 
+ 
+ Line of Credit 
+ 
+ At December 31, 2020, we had a 475 million bank line of credit on which to draw for general corporate purposes. Amounts drawn under the line of credit are payable upon demand and generally bear interest at a floating rate, based on our leverage ratio, and starting at LIBOR plus 115 basis points (or if LIBOR becomes unavailable, the higher of the Overnight Bank Funding Rate, plus 50 basis points and the Prime Rate). At December 31, 2020, there were no borrowings under the line of credit. 
+ 
+ The line of credit requires us to satisfy two financial covenants. The covenants and their respective status at December 31, 2020 were as follows: 
+ Covenant Descriptions and Requirements As of December 31, 2020 Funded debt 1 to EBITDA 2 ratio: less than 3.50 to 1.00 
+ 0.19 EBITDA 2 to Interest Expense ratio: not less than 3.00 to 1.00 
+ 106.82 
+ 1. All indebtedness for borrowed money including, but not limited to, reimbursement obligations in respect of letters of credit and guarantees of any such indebtedness. 
+ 2. Net income plus interest expense, income tax expense, depreciation, amortization, share compensation expense and extraordinary non-recurring losses/gains. 
+ 28 
+
+Table of Contents 
+
+As noted above, we were in compliance with our financial covenants at December 31, 2020 and we expect to remain in compliance. The line of credit expires on December 21, 2023. We believe that our existing capacity under the line of credit and our favorable operating cash flows provide adequate liquidity to fund our operations for the next twelve months following the date of this report, inclusive of the potential impact of COVID-19. 
+ 
+ LIBOR is expected to be discontinued after 2021. Our line of credit agreement provides procedures for determining a replacement or alternative rate in the event that LIBOR is unavailable. However, there can be no assurances as to whether such replacement or alternative rate will be more or less favorable than LIBOR. We intend to monitor the developments with respect to the potential phasing out of LIBOR after 2021 and will work with our lenders to ensure any transition away from LIBOR will have minimal impact on our financial condition. We however can provide no assurances regarding the impact of the discontinuation of LIBOR on the interest rate that we would be required to pay or on our financial condition. 
+ 
+ At December 31, 2020, we also had outstanding 62.9 million in irrevocable standby letters of credit, which relate to payment obligations under our insurance programs. In connection with the issuance of the letters of credit, the amount available under the line of credit was reduced by 62.9 million to 412.1 million at December 31, 2020. On January 2, 2021 the letters of credit were renewed and expire on January 4, 2022. 
+ 
+ Accounts and Notes Receivable 
+ 
+ Decisions to grant or to extend credit to customers are made on a case-by-case basis and based on a number of qualitative and quantitative factors related to the particular customer as well as the general risks associated with operating within the healthcare industry. 
+ 
+ Fluctuations in net accounts and notes receivable are attributable to a variety of factors including, but not limited to, the timing of cash receipts from customers, the Company s assessment of collectability and corresponding provision for bad debt expense and the inception, transition, modification or termination of customer relationships. 
+ 
+ We deploy significant resources and have invested in tools and processes to optimize our credit and collections efforts. When appropriate, the Company utilizes interest-bearing promissory notes to enhance the collectability of amounts due, by instituting definitive repayment plans and providing a means by which to further evidence the amounts owed. In addition, the Company may amend contracts from full service to management-only arrangements, or adjust contractual payment terms, to accommodate customers who have in good faith established clearly-defined plans for addressing cash flow issues. These efforts are intended to minimize the Company s collections risk. 
+ 
+ In order to provide for collections issues and the general risk associated with the granting of credit terms, we recorded a bad debt provision (in an Allowance for Doubtful Accounts) of 9.6 million, 25.5 million and 51.4 million in the years ended December 31, 2020, 2019 and 2018, respectively. As a percentage of total revenues, these provisions represented approximately 0.5 , 1.4 and 2.6 for the years ended December 31, 2020, 2019 and 2018, respectively. 
+ 
+ Insurance Programs 
+ 
+ We self-insure or carry high deductible insurance plans and therefore retain a substantial portion of the risk associated with the expected losses under our general liability and workers compensation programs. Under our insurance plans for general liability and workers compensation, predetermined loss limits are arranged with our insurance company to limit both our per occurrence cash outlay and annual insurance plan cost. Our accounting for this plan is affected by various uncertainties, such as historical claims, pay-out experience, demographic factors, industry trends, severity factors, and other actuarial assumptions calculated by a third party actuary. Evaluations of our accrued insurance claims estimate as of the balance sheet date are based primarily on current information derived from our actuarial valuation which assists in quantifying and valuing these trends. In the event that our claims experience and/or industry trends result in an unfavorable change resulting from, among other factors, the severity levels of reported claims and medical cost inflation, as compared to historical claim trends, it would have an adverse effect on our results of operations and financial condition. 
+ 
+ For general liability and workers compensation, we record a reserve for the estimated future cost of claims and related expenses that have been reported but not settled, including an estimate of claims incurred but not reported that are developed as a result of a review of our historical data and open claims, which is based on estimates provided by a third party actuary. 
+ 
+ 29 
+
+Table of Contents 
+
+ Capital Expenditures 
+ 
+ The level of capital expenditures is generally dependent on the number of new customers obtained. Such capital expenditures primarily consist of housekeeping and food service equipment purchases, laundry and linen equipment installations, computer hardware and software, and furniture and fixtures. Our capital expenditures totaled 4.3 million in 2020. Although we have no specific material commitments for capital expenditures through the end of calendar year 2021, we estimate that for 2021 we will have capital expenditures of approximately 4.0 million to 6.0 million. We believe that our cash from operations, existing cash and cash equivalents balance and credit line will be adequate for the foreseeable future to satisfy the needs of our operations and to fund our anticipated growth. However, should these sources not be sufficient, we would seek to obtain necessary capital from such sources as long-term debt or equity financing. 
+ 
+ Material Off-Balance Sheet Arrangements 
+ 
+ We have no material off-balance sheet arrangements, other than our irrevocable standby letter of credit previously discussed. 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk. 
+ 
+ At December 31, 2020, we had 264.3 million in cash, cash equivalents and marketable securities. The fair value of all of our cash equivalents and marketable securities are determined based on Level 1 or Level 2 inputs, which are based upon quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques for which all significant assumptions are observable in the market. We place our cash investments in instruments that meet credit quality standards, as specified in our investment policy guidelines. 
+ 
+ Investments in both fixed-rate and floating-rate investments carry a degree of interest rate risk. The market value of fixed rate securities may be adversely impacted by an increase in interest rates, while floating rate securities may produce less income than expected if interest rates fall. Due in part to these factors, our future investment income may fall short of expectations due to changes in interest rates or if there is a decline in the fair value of our investments. 
+ 
+ 30 

@@ -1,0 +1,159 @@
+
+Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward-Looking
+Statements 
+
+Certain
+statements, other than purely historical information, including estimates, projections, statements relating to our business plans,
+objectives, and expected operating results, and the assumptions upon which those statements are based, are forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act
+of 1933 and Section 21E of the Securities Exchange Act of 1934. These forward-looking statements generally are identified by the
+words believes, project, expects, anticipates, estimates, 
+ intends, strategy, plan, may, will, would, 
+ will be, will continue, will likely result, and similar expressions. We intend such
+forward-looking statements to be covered by the safe-harbor provisions for forward-looking statements contained in the Private
+Securities Litigation Reform Act of 1995, and are including this statement for purposes of complying with those safe-harbor provisions.
+Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties which
+may cause actual results to differ materially from the forward-looking statements. Our ability to predict results or the actual
+effect of future plans or strategies is inherently uncertain. Factors which could have a material adverse affect on our operations
+and future prospects on a consolidated basis include, but are not limited to: changes in economic conditions, legislative/regulatory
+changes, availability of capital, interest rates, competition, and generally accepted accounting principles. These risks and uncertainties
+should also be considered in evaluating forward-looking statements and undue reliance should not be placed on such statements.
+We undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information,
+future events or otherwise. Further information concerning our business, including additional factors that could materially affect
+our financial results, is included herein and in our other filings with the SEC. 
+
+See
+discussion in section marked: Our Business Moving Forward In 2021 
+
+Results
+of Operations for the Years Ended September 30, 2020 and 2019 
+
+We
+generated no revenues from September 6, 2007 (date of inception) to September 30, 2020. We do not expect to generate revenues
+until we are able to obtain FDA approval of cell therapy and biotechnology products and thereafter successfully market and sell
+those products. 
+
+We
+incurred operating expenses of 663,749 for the year ended September 30, 2020, compared with operating expenses of 736,553 for
+the year ended September 30, 2019. Our operating expenses decreased in 2020 from 2019, and are compared as follows: 
+
+Operating Expenses 
+ September
+ 30, 2020 
+ September
+ 30, 2019 
+ 
+ General
+ and Administrative 
+ 663,749 
+ 705,729 
+ 
+ Stock
+ Based Compensation 
+ 
+ 30,824 
+
+We
+incurred net other expense of 48,775 for the year ended September 30, 2020, as compared to net other expense of 21,903 for the
+year ended September 30, 2019. Our other income and expenses for 2020 consisted of interest expenses of 47,050 and a loss on
+other than temporary decline in the fair value of Amarantus stock of 1,725. Our other income and expenses for 2019 consisted
+of only interest expenses of 17,953 and a loss on other than temporary decline in the fair value of Amarantus stock of 3,950 
+
+We had a net loss of 559,591 for the year ended September 30, 2020,
+as compared with a loss of 758,456 for the prior year. The decrease in loss of 198,865 was due to the reversal of accounts payable
+in the year ended September 30, 2020 of 152,933 , a decrease in G A expense of 41,980 , a decrease of 30,824 in stock
+based compensation , a decrease of 2,225 the unrealized loss on securities,offset by an increase in interest expense of 29,097 
+
+Our net loss attributable to common stockholders
+for the year ended September 30, 2020 was 630,583 compared to a net loss of 829,256 for the year ended September 30, 2019. The
+decrease in loss was 198,673 due to the 198,865 decrease in the loss explained above offset by an increase in the stock dividend
+of 192. 
+
+9 
+
+ Table of Contents 
+
+Liquidity
+and Capital Resources 
+
+As
+of September 30, 2020, we had cash of 1,366 and investments of 2,775, for total current assets of 4,141. Our total current
+liabilities as of September 30, 2019 were 4,291,417. We had a working capital deficit of 4,287,276 as of September 30, 2020. 
+
+Operating
+activities used a net 123,199 in cash for the year ended September 30, 2020. Financing activities provided 123,750 for the year
+ended September 30, 2020 and consisted entirely of proceeds from loans from officers. 
+
+We
+have issued various promissory notes over the course of the last several fiscal years in order to continue funding our operations.
+The terms of these promissory notes are detailed in Note G to the financial statements accompanying this Annual Report. While
+this financing has been helpful in the short term to meet our financial obligations, we will need additional financing to fund
+our operations, continue with the FDA approval process, and implement our business plan over the long term. We will thus once
+again be seeking additional financing during the fiscal year end September 30, 2021. 
+
+Going
+Concern 
+
+Our
+financial statements have been prepared assuming that we will continue as a going concern which contemplates the realization of
+assets and satisfaction of liabilities in the normal course of business. We have incurred cumulative losses to date, expect to
+incur further losses in the development of our business, and have been dependent on funding operations through the issuance of
+convertible debt and private sale of equity securities. These conditions raise substantial doubt about our ability to continue
+as a going concern. Management s plans include continuing to finance operations through the private or public placement
+of debt and/or equity securities and the reduction of expenditures. However, no assurance can be given at this time as to whether
+we will be able to achieve these objectives. The financial statements do not include any adjustment relating to the recoverability
+and classification of recorded asset amounts or the amounts and classification of liabilities that might be necessary should we
+be unable to continue as a going concern. 
+
+Critical
+Accounting Policies 
+
+In
+December 2001, the SEC requested that all registrants list their most critical accounting polices in the Management
+Discussion and Analysis. The SEC indicated that a critical accounting policy is one which is both important to the
+portrayal of a company s financial condition and results, and requires management s most difficult, subjective or
+complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. 
+
+Accordingly,
+this is the policy we believe is the most critical to aid in fully understanding and evaluating our financial condition and results
+of operations. 
+
+1.
+Income Taxes - The Company accounts for income taxes in accordance with accounting guidance FASB ASC 740, Income Taxes
+, which requires that the Company recognize deferred tax liabilities and assets based on the differences between the financial
+statement carrying amounts and the tax bases of assets and liabilities, using enacted tax rates in effect in the years the differences
+are expected to reverse. Deferred income tax benefit (expense) results from the change in net deferred tax assets or deferred
+tax liabilities. A valuation allowance is recorded when it is more likely than not that some or all deferred tax assets will not
+be realized. The Company has adopted the provisions of FASB ASC 740-10-05 Accounting for Uncertainty in Income Taxes . 
+The ASC clarifies the accounting for uncertainty in income taxes recognized in an enterprise's financial statements. The ASC prescribes
+a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken
+or expected to be taken guidance on de- recognition, classification, interest and penalties, accounting in interim periods, disclosure,
+and transition. 
+
+Development
+Stage Activities and Operations 
+
+The
+Company is in the development stage and has had no revenues other than the sale of its assets to Amarantus. A development stage
+company is defined as one in which all efforts are devoted substantially to establishing a new business and even if planned principal
+operations have commenced, revenues are insignificant. 
+
+10 
+
+ Table of Contents 
+
+Recently
+Issued Accounting Pronouncements 
+
+Any
+recent pronouncements issued by the FASB or other authoritative standards groups with future effective dates are either not applicable
+or are not expected to be significant to the condensed financial statements of the Company. 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+A
+smaller reporting company is not required to provide the information required by this Item. 

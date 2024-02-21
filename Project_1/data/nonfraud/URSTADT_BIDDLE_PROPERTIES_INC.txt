@@ -1,0 +1,1159 @@
+Table Of Contents 
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion should be read in conjunction with the consolidated financial statements of the Company and the notes thereto included elsewhere in this report, the Special Note Regarding Forward-Looking Statements in Part I and Item 1A. Risk Factors. 
+
+Executive Summary
+
+Overview
+
+We are a fully integrated, self-administered real estate company that has elected to be a Real Estate Investment Trust ("REIT") for federal income tax purposes, engaged in the acquisition, ownership and management of commercial real estate, primarily neighborhood and community shopping centers, anchored by supermarkets, pharmacy/drug-stores and wholesale clubs, with a concentration in the metropolitan tri-state area outside of the City of New York. Other real estate assets include office properties, single tenant retail or restaurant properties and office/retail mixed-use properties. Our major tenants include supermarket chains and other retailers who sell basic necessities.
+
+At October 31, 2020, we owned or had equity interests in 81 properties, which include equity interests we own in five consolidated joint ventures and six unconsolidated joint ventures, containing a total of 5.3 million square feet of Gross Leasable Area GLA ). Of the properties owned by wholly-owned subsidiaries or joint venture entities that we consolidate, approximately 90.4 was leased (92.9 at October 31, 2019). Of the properties owned by unconsolidated joint ventures, approximately 91.1 was leased (96.1 at October 31, 2019).
+
+We have paid quarterly dividends to our shareholders continuously since our founding in 1969.
+
+Impact of COVID-19
+
+The following discussion is intended to provide stockholders with certain information regarding the impacts of the COVID-19 pandemic on our business and management s efforts to respond to those impacts. Unless otherwise specified, the statistical and other information regarding our property portfolio and tenants are estimates based on information available to us as of December 10, 2020. As a result of the rapid development, fluidity and uncertainty surrounding this situation, we expect that such statistical and other information will change going forward, potentially significantly, and may not be indicative of the actual impact of the COVID-19 pandemic on our business, operations, cash flows and financial condition for fiscal 2021 and future periods.
+
+The spread of COVID-19 is having a significant impact on the global economy, the U.S. economy, the economies of the local markets throughout the northeast region in which our properties are located, and the broader financial markets. Nearly every industry has been impacted directly or indirectly, and the U.S. retail market has come under severe pressure due to numerous factors, including preventive measures taken by local, state and federal authorities to alleviate the public health crisis, such as mandatory business closures, quarantines, restrictions on travel and shelter-in-place or stay-at-home orders. During the early part of the pandemic, these containment measures, as implemented by the tri-state area of Connecticut, New York and New Jersey, generally permitted businesses designated as essential to remain open, although limiting the operations of different categories of our tenants to varying degrees. Since early summer, many (but not all) of these restrictions have been gradually lifted as the COVID-19 situation in the tri-state area significantly improved, with most businesses now permitted to open at reduced capacity and under other limitations intended to control the spread of COVID-19. The situation, however, has been evolving as we head deeper into the winter months.
+
+Moreover, not all tenants have been impacted in the same way or to the same degree by the pandemic and the measures adopted to control the spread of COVID-19. For example, grocery stores, pharmacies and wholesale clubs have been permitted to remain fully open throughout the pandemic and have generally performed well given their focus on food and necessities. Many restaurants have also been considered essential, although social distancing and group gathering limitations have generally prevented or limited dine-in activity, forcing them to evaluate alternate means of operations, such as outdoor dining, delivery and pick-up. The large majority of our restaurant tenants are fast casual, rather than full-service restaurants. For a number of our tenants that operate businesses involving high contact interactions with their customers, such as spas and salons, the negative impact of COVID-19 on their business has been more severe and the recovery more difficult. Gyms and fitness tenants have experienced varying results. Dry cleaners have also suffered as a result of many workers continuing to work from home. The following additional information reflects the impact of COVID-19 on our portfolio and tenants:
+
+All 74 of our shopping centers or free-standing, net-leased retail bank or restaurant properties are open and operating, with 99.1 of our total tenants open and operating based on Annualized Base Rent ABR ).
+
+All of our shopping centers include necessity-based tenants, with approximately 71.4 of our tenants (based on ABR) designated as essential businesses during the early stay-at-home period of the pandemic in the tri-state area or otherwise permitted to operate through curbside pick-up and other modified operating procedures in accordance with state guidelines. These essential businesses are 99.0 open based on ABR.
+
+Approximately 84 of our GLA is located in properties anchored by grocery stores, pharmacies and wholesale clubs, 6 of our GLA is located in outdoor retail shopping centers adjacent to regional malls and 8 of our GLA is located in outdoor neighborhood convenience retail, with the remaining 2 of our GLA consisting of six suburban office buildings located in Greenwich, Connecticut and Bronxville, New York, three retail bank branches and one childcare center. All six suburban office buildings are open with some restrictions on capacity based on state mandates and all of the retail bank branches are open.
+
+As of December 10, 2020, we have received payment of approximately 86.0 , 83.3 and 89.8 of lease income, consisting of contractual base rent (leases in place without consideration of any deferral or abatement agreements), common area maintenance reimbursement and real estate tax reimbursement billed, respectively, for April 2020 through October 2020, the third quarter (May through July) of fiscal 2020 and the fourth quarter (August through October) of fiscal 2020, not including the application of any security deposits.
+
+Similar to other retail landlords across the United States, we received a number of requests for rent relief from tenants, with most requests received during the early days of the pandemic when stay-at-home orders were in place and many businesses were required to close, but we have continued to receive a smaller number of new requests even after businesses have re-opened, and in some cases, follow-on requests from tenants to whom we had already provided temporarily rent relief. We have been evaluating each request on a case-by-case basis to determine the best course of action, recognizing that in many cases some type of concession may be appropriate and beneficial to our long-term interests. In evaluating these requests, we have been considering many factors, including the tenant s financial strength, the tenant s operating history, potential co-tenancy impacts, the tenant s contribution to the shopping center in which it operates, our assessment of the tenant s long-term viability, the difficult or ease with which the tenant could be replaced, and other factors. Although each negotiation has been specific to that tenant, most of these concessions have been in the form of deferred rent for some portion of rents due in April through December 2020, or longer, to be paid back over the later part of the lease, preferably within a period of one year or less. In addition, some of these concessions have been in the form of rent abatements for some portion of tenant rents due in April through December or longer.
+
+As of October 31, 2020, we had received 396 rent relief requests from our approximately 900 tenants in our consolidated portfolio. Subsequently, approximately 118 of the 396 tenants withdrew their request for rent relief or paid their rent in full. These remaining requests represent 35.0 of our ABR. As of October 31, 2020, we had completed lease amendments with approximately 234 of the tenants that had requested rent relief, representing deferments of approximately 3.4 million in lease income 854,000 of our fourth quarter lease income) or approximately 3.5 of our ABR and abatements of approximately 1.4 million in lease income 934,000 of our fourth quarter lease income) or approximately 1.4 of ABR. The weighted average payback period for the 3.4 million of deferred rents is 8.5 months.
+
+Each reporting period we must make estimates as to the collectability of our tenants accounts receivable related to base rent, straight-line rent, expense reimbursements and other revenues. Management analyzes accounts receivable by considering tenant creditworthiness, current economic trends, including the impact of the COVID-19 pandemic on tenants businesses, and changes in tenants payment patterns when evaluating the adequacy of the allowance for doubtful accounts. As a result of this analysis, we have increased our allowance for doubtful accounts by 426,000 and 3.9 million in the three and twelve months ended October 31, 2020, respectively. For the year ended October 31, 2020, this increase of 3.9 million represented approximately 4.0 of ABR. Management has every intention of collecting as much of our billed rents, to the extent feasible, regardless of the requirement under Generally Accepted Accounting Principles ("GAAP") to reserve for uncollectable accounts. In addition, the GAAP accounting standard governing leases requires, among other things, that if a specific tenant s future lease payments as contracted are not probable of collection, revenue recognition for that tenant must be converted to cash-basis accounting and be limited to the lesser of the amount billed or collected from that tenant, and any straight-line rental receivables would need to be reversed in the period that the collectability assessment is changed to not probable. As a result of analyzing our entire tenant base, in the fiscal year ended October 31, 2020, we determined that 64 tenants future lease payments were no longer probable of collection (7.1 of our approximate 900 tenants) and, as a result of this assessment, in the three and twelve months ended October 31, 2020 we reversed previously billed lease income in the amount of 551,000 and 2.3 million, respectively. For the year ended October 31, 2020, this 2.3 million represented approximately 2.4 of ABR. In addition, as a result of this assessment, we reversed 179,000 and 1.1 million in the three and twelve months ended October 31, 2020, respectively, of accrued straight-line rent receivables related to these 64 tenants. For the year ended October 31, 2020, this 1.1 million represented approximately 1.1 of ABR. Both of these reversals, totaling 730,000 and 3.4 million in the three and twelve months ended October 31, 2020, respectively, result in a direct reduction of lease income on our consolidated income statement.
+
+Each reporting period management assesses whether there are any indicators that the value of its real estate investments may be impaired and has concluded that none of its investment properties are impaired at October 31, 2020. The COVID-19 pandemic has however, significantly impacted many of the retail sectors in which our tenants operate, and if the effects of the pandemic are prolonged, it could have a significant adverse impact on the underlying industries of many of our tenants. We will continue to monitor the economic, financial, and social conditions resulting from the COVID-19 pandemic and will assess our real estate asset portfolio for any impairment indicators as required under GAAP. If we determine that any of our real estate assets are impaired, we would be required to take impairment charges and such amounts could be material. See Footnote 1 to the Notes to the Company s Consolidated Financial Statements for additional discussion regarding impairment charges.
+
+14 
+
+Table Of Contents 
+
+Actions Taken in Response to COVID-19
+
+We have taken a number of proactive measures to maintain the strength of our business and manage the impact of COVID-19 on our operations and liquidity, including the following:
+
+Along with our tenants and the communities we together serve, the health and safety of our employees is our top priority. We have adapted our operations to protect employees, including by implementing a work-from-home policy in March 2020, which worked seamlessly with no disruption in our service to tenants and other business partners. On May 20, 2020, in response to a change in the State of Connecticut's mandates, we re-opened our office at less than 50 capacity, with employees encouraged to continue working from home when feasible consistent with business needs. We continue to closely monitor the recommendations and mandates of federal, state and local governments and health authorities to ensure the safety of our own employees as well as our properties.
+
+We are in regular communication with our tenants, providing assistance in identifying local, state and federal resources that may be available to support their businesses and employees during the pandemic, including stimulus funds that may be available under the Coronavirus Aid, Relief, and Economic Security Act of 2020 (the "CARES Act ). We compiled a robust set of tenant materials explaining these and other programs, which have been posted to the tenant portal on our website, disseminated by e-mail to all of our tenants through the tenant portal of our general ledger system and communicated directly by telephone through our leasing agents. Each of our tenants was also assigned a leasing agent to whom the tenant can turn with questions and concerns during these uncertain times.
+
+In addition, we launched a program designating dedicated parking spots for curbside pick-up at our shopping centers for use by all tenants and their customers, assisted restaurant tenants in securing municipal approvals for outdoor seating, and are assisting tenants in many other ways to improve their business prospects.
+
+To enhance our liquidity position and maintain financial flexibility, we borrowed 35 million under our Unsecured Revolving Credit Facility ("Facility") during March and April 2020 to fund capital improvements and for general corporate purposes.
+
+At October 31, 2020, we had 40.8 million in cash and cash equivalents on our consolidated balance sheet, and an additional 64 million available under our Facility (excluding the 50 million accordion feature).
+
+We do not have any unsecured debt maturing until August 2021. Additionally, we do not have any secured debt maturing until January 2022. All maturing secured debt is generally below a 55 loan-to-value ratio, and we believe we will be able to refinance that debt. Construction related to three large re-tenanting projects, two for grocery stores and one for a national junior anchor, was completed during the second quarter and all three tenants are open and operating as of the date of this report. We do not have any other material re-tenanting projects ongoing.
+
+We have taken proactive measures to manage costs, including reducing, where possible, our common area maintenance spending. We have one ongoing construction project at one of our properties, with approximately 4.3 million remaining to complete the project. Otherwise, only minimal construction is underway. Further, we expect that the only material capital expenditures at our properties in the near term will be tenant improvements and/or other leasing costs associated with existing and new leases.
+
+Although we continue to seek opportunities to acquire high-quality neighborhood and community shopping centers, we have temporarily redirected the executives in our acquisition department to help with lease negotiations.
+
+On March 27, 2020, the President of the United States signed into law the CARES Act. The CARES Act, among other things, includes provisions relating to refundable payroll tax credits, deferment of employer-side social security payments, net operating loss carryback periods, alternative minimum tax credit refunds, modifications to the net interest deduction limitations, increased limitations on qualified charitable contributions, and technical corrections to tax depreciation methods for qualified improvement property. The Company has availed itself of some of the above benefits afforded by the CARES Act (other than what are commonly referred to as PPP loans).
+
+On December 27, 2020, a second COVID-19 federal stimulus package was enacted as part of the Consolidated Appropriations Act, 2021 (the "COVID Supplemental Appropriations Act"). Among other things, the COVID Supplemental Appropriations Act will enhance various support features of the previously enacted CARES Act, increase unemployment payments and extend the time frame for unemployment benefits, and re-implement a modified version of the Paycheck Protection Program for small businesses and eligible non-profits. As with the CARES Act, the Company has disseminated information about the COVID Supplemental Appropriations Act to our tenants through our website and general ledger system.
+
+On December 15, 2020, our Board of Directors declared a quarterly dividend of 0.125 per Common share and 0.14 per Class A Common share to be paid on January 15, 2021 to holders of record on January 5, 2021, reduced approximately 50 from pre-pandemic dividend levels of 0.25 per Common share and 0.28 per Class A Common share. The announced dividend level will preserve approximately 5.5 million of cash in the first quarter of fiscal 2021 when compared to our pre-pandemic dividend levels. Given the reduction of operating cash flow and taxable income caused by tenants nonpayment of rent during the period from April through December 2020, the overall uncertainty of the COVID-19 pandemic s near and potential long-term impact on our business, and the importance of preserving our liquidity position, among other considerations, the Board determined after careful consideration of all information available to them at the time that reducing the quarterly dividend, when compared with the pre-pandemic level, is in the best interests of stockholders. Based on the Company s updated taxable income projections for the fiscal year ending 2021, we will most likely need to pay dividends over the remainder of the fiscal year at higher levels in order to meet the distribution requirements necessary for it to continue qualifying as a REIT for U.S. federal income tax requirements. The Board may determine that the increased level would be more appropriate towards the latter part of fiscal 2021 once, hopefully, a vaccine has become widely disseminated, the pandemic has begun to wane and the economy and our properties have returned to some normalcy. We cannot, however, be certain as to the level or timing of any such dividend increase. The Board declared the full contractual dividend on both our Series H and Series K Cumulative Preferred Stock, payable on January 29, 2021, to holders of record on January 15, 2021. Going forward, our Board of Directors will continue to evaluate our dividend policy.
+
+We derive revenues primarily from rents and reimbursement payments received from tenants under leases at our properties. Our operating results therefore depend materially on the ability of our tenants to make required rental payments. The extent to which the COVID-19 pandemic impacts the businesses of our tenants, and therefore our operations and financial condition, will depend on future developments which are highly uncertain and cannot be predicted with confidence, including the scope, severity and duration of the COVID-19 pandemic, the actions taken to contain the COVID-19 pandemic or mitigate its impact, and the direct and indirect economic effects of the COVID-19 pandemic and such mitigation measures, among others. See Risk Factors. 
+
+Strategy, Challenges and Outlook
+
+We have a conservative capital structure, which includes permanent equity sources of Common Stock, Class A Common Stock and two series of perpetual preferred stock, which are only redeemable at our option. In addition, we have mortgage debt secured by some of our properties. As mentioned earlier, we do not have any secured debt maturing until January of 2022.
+
+Key elements of our growth strategies and operating policies are to:
+
+maintain our focus on community and neighborhood shopping centers, anchored principally by regional supermarkets, pharmacy chains or wholesale clubs, which we believe can provide a more stable revenue flow even during difficult economic times because of the focus on food and other types of staple goods;
+
+acquire quality neighborhood and community shopping centers in the northeastern part of the United States with a concentration on properties in the metropolitan tri-state area outside of the City of New York, and unlock further value in these properties with selective enhancements to both the property and tenant mix, as well as improvements to management and leasing fundamentals, with hopes to grow our assets through acquisitions subject to the availability of acquisitions that meet our investment parameters;
+
+selectively dispose of underperforming properties and re-deploy the proceeds into potentially higher performing properties that meet our acquisition criteria;
+
+invest in our properties for the long term through regular maintenance, periodic renovations and capital improvements, enhancing their attractiveness to tenants and customers (e.g. curbside pick-up), as well as increasing their value;
+
+leverage opportunities to increase GLA at existing properties, through development of pad sites and reconfiguring of existing square footage, to meet the needs of existing or new tenants;
+
+proactively manage our leasing strategy by aggressively marketing available GLA, renewing existing leases with strong tenants, anticipating tenant weakness when necessary by pre-leasing their spaces and replacing below-market-rent leases with increased market rents, with an eye towards securing leases that include regular or fixed contractual increases to minimum rents;
+
+improve and refine the quality of our tenant mix at our shopping centers;
+
+maintain strong working relationships with our tenants, particularly our anchor tenants;
+
+maintain a conservative capital structure with low debt levels; and
+
+control property operating and administrative costs.
+
+We believe our strategy of focusing on community and neighborhood shopping centers, anchored principally by regional supermarkets, pharmacy chains or wholesale clubs, is being validated during the COVID-19 pandemic. We believe the nature of our properties makes them less susceptible to economic downturns than other retail properties whose anchor tenants do not supply basic necessities. During normal conditions, we believe that consumers generally prefer to purchase food and other staple goods and services in person, and even during the COVID-19 pandemic our supermarkets, pharmacies and wholesale clubs have been posting strong in-person sales. Moreover, most of our grocery stores have also implemented or expanded curbside pick-up or partnered with delivery services to cater to the needs of their customers during this pandemic.
+
+We recognize, however, that the pandemic may have accelerated a movement towards e-commerce that may be challenging for weaker tenants that lack an omni-channel sales or micro-fulfillment strategy. We launched a program designating dedicated parking spots for curbside pick-up and are assisting tenants in many other ways to help them quickly adapt to these changing circumstances. Many tenants have adapted to the new business environment through use of our curbside pick-up program and early industry data seems to indicate that micro-fulfillment from retailers with physical locations may be a new competitive alternative to e-commerce. It is too early to know which tenants will or will not be successful in making any changes that may be necessary. It is also too early to determine whether these changes in consumer behavior are temporary or reflect long-term changes.
+
+Moreover, due to the current disruptions in the economy and our marketplace as a result of the COVID-19 pandemic and resulting changes to the short-term and possibly even long-term landscape for brick-and-mortar retail, we anticipate that it will be more difficult to actively pursue and achieve certain elements of our growth strategy. For example, it will likely be more difficult for us to acquire or sell properties in fiscal 2021 (or possibly beyond), as it may be difficult to value a property correctly given changing circumstances. Additionally, parties may be unwilling to enter into transactions during such uncertainty. We may also be less willing to enter into developments or capital improvements that require large amounts of upfront capital if the expected return is perceived as delayed or uncertain. We choose to borrow 35 million under our Facility during March and April 2020 to enhance our liquidity position and maintain financial flexibility, which is an approach consistent with many of our peers. While we believe we still maintain a conservative capital structure and low debt levels, particularly relative to our peers, our profile may evolve based on changing needs.
+
+We expect that our rent collections will continue to be below our tenants contractual rent obligations at least for as long as governmental orders require non-essential businesses to restrict business operations and individuals to adhere to social distancing policies, or potentially until a medical solution is achieved for COVID-19. We will continue to accrue rental revenue during the deferral period, except for tenants for which revenue recognition was converted to cash basis accounting in accordance with ASC Topic 842. However, we anticipate that some tenants eventually will be unable to pay amounts due, and we will incur losses against our rent receivables. The extent and timing of the recognition of such losses will depend on future developments, which are highly uncertain and cannot be predicted. April through November 2020 rental income collections and rent relief requests to date may not be indicative of collections or requests in any future period.
+
+We continue to have active discussions with existing and potential new tenants for new and renewed leases. However, the uncertainty relating to the COVID-19 pandemic has slowed the pace of leasing activity and could result in higher vacancy rates than we otherwise would have experienced, a longer amount of time to fill vacancies and potentially lower rental rates.
+
+As a REIT, we are susceptible to changes in interest rates, the lending environment, the availability of capital markets and the general economy. The impacts of any changes are difficult to predict, particularly during the course of the current COVID-19 pandemic.
+
+15 
+
+Table Of Contents 
+
+Highlights of Fiscal 2020; Recent Developments
+
+Set forth below are highlights of our recent property acquisitions, other investments, property dispositions and financings:
+
+On November 1, 2019, we redeemed all of the outstanding shares of our Series G Cumulative Preferred Stock for 25 per share with proceeds from our sale of our Series K Cumulative Preferred Stock in October 2019. The total redemption amount was 75 million.
+
+In December 2019, we closed on the sale of our property located in Bernardsville, NJ to an unrelated third party for a sale price of 2.7 million, pursuant to a contract we had entered into in August 2019, as that property no longer met our investment objectives. In accordance with GAAP, the property met all the criteria to be classified as held for sale in the fourth quarter of fiscal 2019, and, accordingly, we recorded a loss on property held for sale of 434,000, which loss was included in continuing operations in the consolidated statement of income for the year ended October 31, 2019. The amount of the loss represented the net carrying amount of the property over the fair value of the asset less estimated cost to sell. Upon completion of the sale in December 2019, we realized an additional loss on sale of property of 86,000, which loss is included in continuing operations in the consolidated statement of income for the year ended October 31, 2020. This loss has been added back to our Funds from Operations FFO as discussed below in this Item 7.
+
+In January 2020, we sold for 1.3 million a retail property located in Carmel, NY, as that property no longer met our investment objectives. In conjunction with the sale, we realized a loss on sale of property in the amount of 242,000, which loss is included in continuing operations in the consolidated statement of income for the year ended October 31, 2020. This loss has been added back to FFO as discussed below in this Item 7.
+
+In January 2020, we redeemed 2,250 units of UB New City I, LLC from the noncontrolling member. The total cash price paid for the redemption was 49,500. As a result of the redemption, our ownership percentage of New City increased to 79.7 from 78.2 .
+
+In January 2020, we redeemed 23,829 units of UB High Ridge, LLC from the noncontrolling member. The total cash price paid for the redemption was 560,000. As a result of the redemption, our ownership percentage of High Ridge increased to 14.2 from 13.3 .
+
+In March and April 2020, we borrowed an aggregate 35 million on our Facility to fund capital improvements and for general corporate purposes.
+
+In June 2020, we redeemed 6,750 units of UB New City I, LLC from the noncontrolling member. The total cash price paid for the redemption was 148,500. As a result of the redemption, our ownership percentage of New City increased to 84.3 from 79.7 .
+
+In December 2020 (fiscal 2021), we closed on the sale of a 29,000 square foot portion of our property, which was recently converted into a condominium, located in Pompton Lakes, NJ to Lidl, a national grocery store company, for a sale price of 2.8 million. We had entered into a purchase and sale agreement in January 2020, subject to various conditions. In accordance with GAAP, that portion of the property met all the criteria to be classified as held for sale in September of fiscal 2020, and accordingly, we recorded a loss on property held for sale of 5.7 million, which loss is included in continuing operations in the consolidated statement of income for the year ended October 31, 2020. The amount of the loss represented the net carrying amount of that portion of the property over the fair value of that portion of the property, less the estimated cost to sell. This loss has been added back to our FFO as discussed below in this Item 7. Lidl will operate a grocery store on its portion of the property. The 29,000 square foot portion of the property sold was approximately half of a vacant space that was previously leased and occupied by A P. A P went bankrupt several years ago and the space had remained vacant. In considering many options for the use of this space, we determined that the best course of action for the Company to maximize the value of the space was to sell this portion of the property to a leading grocery store company and to re-develop the balance of the 63,000 square foot space into 4,000 square feet of additional retail and a 50,000 square foot self-storage facility, which will be managed by Extra Space Storage. The square footage of the self-storage facility reflects the intended vertical expansion of our retained space. We believe that once completed and leased, the self-storage facility will add approximately 7 million in value to the shopping center over and above our development costs.
+
+16 
+
+Table Of Contents 
+
+Leasing
+
+ Rollovers
+
+For the fiscal year 2020, we signed leases for a total of 405,000 square feet of predominantly retail space in our consolidated portfolio. New leases for vacant spaces were signed for 63,000 square feet at an average rental decrease of 10.8 on a cash basis, excluding 5,400 square feet of new leases for which there was no prior rent history available. Renewals for 342,000 square feet of space previously occupied were signed at an average rental increase of 1.5 on a cash basis.
+
+Tenant improvements and leasing commissions averaged 29 per square foot for new leases and 0.45 per square foot for renewals for the fiscal year ended 2020. The average term for new leases was 4 years and the average term for renewal leases was 4 years.
+
+The rental increases/decreases associated with new and renewal leases generally include all leases signed in arms-length transactions reflecting market leverage between landlords and tenants during the period. The comparison between average rent for expiring leases and new leases is determined by including minimum rent paid on the expiring lease and minimum rent to be paid on the new lease in the first year. In some instances, management exercises judgment as to how to most effectively reflect the comparability of spaces reported in this calculation. The change in rental income on comparable space leases is impacted by numerous factors including current market rates, location, individual tenant creditworthiness, use of space, market conditions when the expiring lease was signed, the age of the expiring lease, capital investment made in the space and the specific lease structure. Tenant improvements include the total dollars committed for the improvement (fit-out) of a space as it relates to a specific lease but may also include base building costs (i.e. expansion, escalators or new entrances) that are required to make the space leasable. Incentives (if applicable) include amounts paid to tenants as an inducement to sign a lease that do not represent building improvements.
+
+The leases signed in 2020 generally become effective over the following one to two years. There is risk that some new tenants will not ultimately take possession of their space and that tenants for both new and renewal leases may not pay all of their contractual rent due to operating, financing or other reasons.
+
+Traditionally, we have seen overall positive increases in rental income for renewal leases. With the uncertainty of the COVID-19 pandemic and the many unknown factors that we, our tenants and the commercial real estate industry face from the pandemic, it is difficult to predict leasing trends for new leases into the near future.
+
+Significant Events with Impacts on Leasing
+
+In March 2020, we delivered two spaces to Dollar Tree and Family Dollar, to replace a grocery tenant that had previously occupied a 30,600 square foot space at our Passaic, NJ property. We signed new leases with these tenants in May 2019 for a large portion of the original 30,600 square foot space. Both of these stores are now open.
+
+In April 2020, we delivered a 26,800 square foot junior anchor space at the Orange Meadows Shopping Center to the TJX Companies, Inc., which will operate a TJ Maxx store that is expected to open in March of 2021. The space was delivered pursuant to a lease we signed in January 2019.
+
+In January 2020, we delivered a 40,000 square foot grocery-store space at the Valley Ridge Shopping Center to Whole Foods Market, which opened in September 2020. The space was delivered pursuant to a lease we signed in April 2018.
+
+In December 2019, we delivered a 30,000 square foot grocery-store space at one of our Eastchester, NY properties to DeCicco s Supermarket, which opened in October 2020. The space was delivered pursuant to a lease we signed in August 2017.
+
+In 2017, Toys R Us and Babies R Us Toys filed a voluntary petition under chapter 11 of title 11 of the United States Bankruptcy Code, and subsequently liquidated the company. Toys ground leased 65,700 square feet of space at our Danbury, CT shopping center. In August 2018, this lease was purchased out of bankruptcy from Toys and assumed by a new owner. The base lease rate for the 65,700 square foot space was and remains at 0 for the duration of the lease, and we did not have any other leases with Toys, so our cash flow was not impacted by the bankruptcy of Toys. As of the date of this report, the new owner of this ground lease has informed us that they are selling the lease to a national retailer, however the transaction has not closed yet.
+
+Impact of Inflation on Leasing
+
+Our long-term leases contain provisions to mitigate the adverse impact of inflation on our operating results. Such provisions include clauses entitling us to receive (a) scheduled base rent increases and (b) percentage rents based upon tenants gross sales, which generally increase as prices rise. In addition, many of our non-anchor leases are for terms of less than ten years, which permits us to seek increases in rents upon renewal at then current market rates if rents provided in the expiring leases are below then existing market rates. Most of our leases require tenants to pay a share of operating expenses, including common area maintenance, real estate taxes, insurance and utilities, thereby reducing our exposure to increases in costs and operating expenses resulting from inflation.
+
+Critical Accounting Policies
+
+Critical accounting policies are those that are both important to the presentation of the Company s financial condition and results of operations and require management s most difficult, complex or subjective judgments. For a further discussion about the Company's critical accounting policies, please see Note 1 to our consolidated financial statements included in Item 8 of this Annual Report on Form 10-K.
+
+17 
+
+Table Of Contents 
+
+Liquidity and Capital Resources
+
+Overview
+
+At October 31, 2020, we had cash and cash equivalents of 40.8 million (see below), compared to 94.1 million at October 31, 2019. Our sources of liquidity and capital resources include operating cash flows from real estate operations, proceeds from bank borrowings and long-term mortgage debt, capital financings and sales of real estate investments. Substantially all of our revenues are derived from rents paid under existing leases, which means that our operating cash flow depends on the ability of our tenants to make rental payments. As a result of state mandates forcing many non-essential businesses to close or restricting store operations to help prevent the spread of COVID-19, many of our tenants are suffering. Please see the "Impact of COVID-19" section earlier in this Item 7 for more information. In fiscal 2020, 2019 and 2018, net cash flow provided by operations amounted to 61.9 million, 72.3 million and 71.6 million, respectively.
+
+On November 1, 2019, we redeemed all 3,000,000 outstanding shares of our 6.75 Series G Cumulative Preferred Stock for 25 per share, which included all accrued and unpaid dividends. The total amount of the redemption amounted to 75 million. The redemption was funded with proceeds from our recently completed sale of 4,400,000 shares of 5.875 Series K Cumulative preferred stock. We issued the Series K shares on October 1, 2019 and raised proceeds of 106.5 million.
+
+Our short-term liquidity requirements consist primarily of normal recurring operating expenses and capital expenditures, debt service, management and professional fees, cash distributions to certain limited partners and non-managing members of our consolidated joint ventures, and regular dividends paid to our Common and Class A Common stockholders. Cash dividends paid on Common and Class A Common stock for fiscal years ended October 31, 2020, 2019 and 2018 totaled 30.0 million, 42.6 million and 41.6 million, respectively. Historically, we have met short-term liquidity requirements, which is defined as a rolling twelve-month period, primarily by generating net cash from the operation of our properties. As a result of the COVID-19 pandemic, we have made a number of concessions in the form of deferred rents and rent abatements, as more extensively discussed under the Impact of Covid-19 section earlier in this Item 7. To the extent rent deferral arrangements remain collectible, it will reduce operating cash flow in the near term but most likely increase operating cash flow in future periods. This process is ongoing. 
+
+On December 15, 2020, our Board of Directors declared a quarterly dividend of 0.125 per Common share and 0.14 per Class A Common share to be paid on January 15, 2021 to holders of record on January 5, 2021, reduced approximately 50 from pre-pandemic levels. The announced dividend level will preserve approximately 5.5 million of cash in the first quarter of fiscal 2021 when compared to our pre-pandemic dividend levels. The Board declared the full contractual dividend on both our Series H and Series K Cumulative Preferred Stock, payable on January 29, 2021 to holders of record on January 15, 2021. Going forward, our Board of Directors will continue to evaluate our dividend policy and adjust the levels accordingly based on their assessment of how the pandemic is affecting the cash flow of the Company and the level of distributions required to allow the Company to continue to qualify as a REIT for Federal Income tax purposes.
+
+Our long-term liquidity requirements consist primarily of obligations under our long-term debt, dividends paid to our preferred stockholders, capital expenditures and capital required for acquisitions. In addition, the limited partners and non-managing members of our five consolidated joint venture entities, McLean Plaza Associates, LLC, UB Orangeburg, LLC, UB High Ridge, LLC, UB Dumont I, LLC and UB New City I, LLC, have the right to require us to repurchase all or a portion of their limited partner or non-managing member interests at prices and on terms as set forth in the governing agreements. See Note 5 to the financial statements included in Item 8 of this Report on Annual Report on Form 10-K. Historically, we have financed the foregoing requirements through operating cash flow, borrowings under our Facility, debt refinancings, new debt, equity offerings and other capital market transactions, and/or the disposition of under-performing assets, with a focus on keeping our debt level low. We expect to continue doing so in the future. We cannot assure you, however, that these sources will always be available to us when needed, or on the terms we desire.
+
+Capital Expenditures
+
+We invest in our existing properties and regularly make capital expenditures in the ordinary course of business to maintain our properties. We believe that such expenditures enhance the competitiveness of our properties. For the fiscal year ended October 31, 2020, we paid approximately 22.3 million for property improvements, tenant improvements and leasing commission costs 1.9 million representing property improvements, 11.3 million in property improvements related to our Stratford project (see paragraph below) and approximately 9.1 million related to new tenant space improvements, leasing costs and capital improvements as a result of new tenant spaces). The amount of these expenditures can vary significantly depending on tenant negotiations, market conditions and rental rates. We expect to incur approximately 7.6 million for anticipated capital improvements, tenant improvements/allowances and leasing costs related to new tenant leases and property improvements during fiscal 2021. This amount is inclusive of commitments for the Stratford, CT development discussed directly below. These expenditures are expected to be funded from operating cash flows, bank borrowings or other financing sources. As a result of the ongoing COVID-19 pandemic, we have suspended all significant capital improvement projects other than the completion of our Stratford, CT project discussed below.
+
+We are currently in the process of developing 3.4 acres of recently-acquired land adjacent to a shopping center we own in Stratford, CT. We completed one pad-site building totaling approximately 3,200 square feet, which is 75 leased to Chipotle, and a self-storage facility of approximately 131,000 square feet, which will be managed for us by Extra Space Storage. In addition, we will be building a second pad site, which is leased to a national restaurant company but construction has not begun while we complete a billboard relocation on the site. We anticipate the total development cost will be approximately 18.2 million (excluding land acquisition cost), of which we have already funded 13.4 million as of October 31, 2020 and plan on funding the balance with available cash, borrowings on our Facility or other sources, as more fully described earlier in this Item 7. 
+
+Financing Strategy, Unsecured Revolving Credit Facility and Other Financing Transactions
+
+Our strategy is to maintain a conservative capital structure with low leverage levels by commercial real estate standards. Mortgage notes payable and other loans of 299.4 million primarily consist of 1.7 million in variable rate debt with an interest rate of 5.0 as of October 31, 2020 and 297.7 million in fixed-rate mortgage loan and unsecured note indebtedness with a weighted average interest rate of 4.1 at October 31, 2020. The mortgages are secured by 24 properties with a net book value of 540 million and have fixed rates of interest ranging from 3.5 to 4.9 . The 1.7 million in variable rate debt is unsecured. We may refinance our mortgage loans, at or prior to scheduled maturity, through replacement mortgage loans. The ability to do so, however, is dependent upon various factors, including the income level of the properties, interest rates and credit conditions within the commercial real estate market. Accordingly, there can be no assurance that such re-financings can be achieved.
+
+In addition, from time to time we have amounts outstanding on our Facility (see below) that are not fixed through an interest rate swap or otherwise. See Item 7.A. Quantitative and Qualitative Disclosures about Market Risk included in this Annual Report on Form 10-K for additional information on our interest rate risk. At October 31, 2020, we had 35 million outstanding on our Facility.
+
+We currently maintain a ratio of total debt to total assets below 33 and a fixed charge coverage ratio of over 3.28 to 1 (excluding preferred stock dividends), which we believe will allow us to obtain additional secured mortgage loans or other types of borrowings, if necessary. We own 51 properties in our consolidated portfolio that are not encumbered by secured mortgage debt. At October 31, 2020, we had borrowing capacity of 64 million on our Facility. Our Facility includes financial covenants that limit, among other things, our ability to incur unsecured and secured indebtedness. See Note 4 to our consolidated financial statements included in Item 8 of this Annual Report on Form 10-K for additional information on these and other restrictions.
+
+Unsecured Revolving Credit Facility and Other Property Financings
+
+We have a 100 million unsecured revolving credit facility with a syndicate of three banks, BNY Mellon, Bank of Montreal and Wells Fargo N.A. with the ability under certain conditions to additionally increase the capacity to 150 million, subject to lender approval. The maturity date of the Facility is August 23, 2021. Borrowings under the Facility can be used for general corporate purposes and the issuance of up to 10 million of letters of credit. Borrowings will bear interest at our option of Eurodollar rate plus 1.35 to 1.95 or BNY Mellon's prime lending rate plus 0.35 to 0.95 , based on consolidated indebtedness, as defined. We pay a quarterly commitment fee on the unused commitment amount of 0.15 to 0.25 per annum, based on outstanding borrowings during the year. As of October 31, 2020, we had 35 million in outstanding borrowings on the Facility. Our ability to borrow under the Facility is subject to our compliance with the covenants and other restrictions on an ongoing basis. As discussed above, the principal financial covenants limit our level of secured and unsecured indebtedness and additionally require us to maintain certain debt coverage ratios. We were in compliance with such covenants at October 31, 2020. We are currently in the process of working on an extension of our revolver, which we hope to complete in our first or second quarter of fiscal 2021.
+
+During the year ended October 31, 2020, we borrowed 35 million on our Facility to fund capital improvements to our properties and for general corporate purposes. 
+
+See Note 4 to our consolidated financial statements included in Item 8 of this Annual Report on Form 10-K for a further description of mortgage financing transactions in fiscal 2020 and 2019.
+
+Net Cash Flows from Operating Activities
+
+Variance from fiscal 2019 to 2020: 
+
+The decrease in operating cash flows when compared with the corresponding prior period was primarily related to an increase in our tenant accounts receivable, or a reduction of lease income related to the impact of the COVID-19 pandemic and increase in other assets offset by an increase in accounts payable and accrued expenses.
+
+Variance from fiscal 2018 to 2019: 
+
+The increase in operating cash flows was primarily due to our properties generating additional operating income in the fiscal year ended October 31, 2019 when compared with the corresponding prior period. This additional operating income was predominantly from properties acquired in fiscal 2018 and fiscal 2019 offset by a decrease in lease termination income of 3.6 million in fiscal 2019 when compared with fiscal 2018. In fiscal 2018 one of our grocery store tenants paid us 3.7 million to terminate its lease early. 
+
+Net Cash Flows from Investing Activities
+
+Variance from 2019 to 2020: 
+
+The increase in net cash flows used in investing activities in the year ended October 31, 2020 when compared to the corresponding prior period was the result of one of our unconsolidated joint ventures selling a property in fiscal 2019 and distributing our share of the sales proceeds to us in the amount of 6.0 million. The increase was further accentuated by our investing an additional 3.7 million in our properties in fiscal 2020 when compared with fiscal 2019. In addition, we generated 5.7 million less in net proceeds from the purchase and sale of marketable securities in fiscal 2020 when compared to the corresponding period of fiscal 2019. This net increase was offset by our purchasing one property in fiscal 2019 for 11.8 million. We did not purchase any properties in fiscal 2020.
+
+Variance from 2018 to 2019: 
+
+The decrease in net cash flows used in investing activities in fiscal 2019 when compared to fiscal 2018 was the result of selling our marketable security portfolio in the second quarter of fiscal 2019 and realizing proceeds on that sale of 6 million. The marketable securities were purchased in the first half of fiscal 2018. These transactions created an 11 million positive variance in cash flows from investing activities in fiscal 2019 when compared with the corresponding prior period. In addition, the decrease in cash flows used in investing activities was the result of one of our unconsolidated joint ventures selling a property it owned in the second quarter of fiscal 2019 and distributing 5 million in sales proceeds to us. In addition, this decrease in net cash used by investing activities was the result of us selling one property in fiscal 2019 that provided 3.4 million in sales proceeds versus having no property sales in the corresponding prior period. This decrease in net cash used by investing activities was partially offset by us acquiring one property for 12 million in fiscal 2019 versus purchasing three properties in fiscal 2018 that required 6.8 million in equity and expending 10.5 million more for improvements to properties and deferred charges in fiscal 2019 versus the corresponding prior period.
+
+We regularly make capital investments in our properties for property improvements, tenant improvements costs and leasing commissions.
+
+Net Cash Flows from Financing Activities
+
+Cash generated : 
+
+Fiscal 2020: (Total 35.2 million) 
+
+Proceeds from revolving credit line borrowings in the amount of 35.0 million.
+
+Fiscal 2019: (Total 178.9 million) 
+
+Proceeds from revolving credit line borrowings in the amount of 25.5 million.
+
+Proceeds from mortgage financing of 47 million.
+
+Proceeds from the issuance of a new series of preferred stock totaling 106.2 million.
+
+Fiscal 2018: (Total 43.8 million) 
+
+Proceeds from revolving credit line borrowings in the amount of 33.6 million.
+
+Proceeds from mortgage financing of 10 million.
+
+Cash used:
+
+Fiscal 2020: (Total 131.5 million) 
+
+Dividends to shareholders in the amount of 44.2 million.
+
+Repayment of mortgage notes payable in the amount of 7.1 million.
+
+Acquisitions of noncontrolling interests in the amount of 3.9 million.
+
+Redemption of preferred stock series in the amount of 75.0 million.
+
+Fiscal 2019: (Total 152.7 million) 
+
+Dividends to shareholders in the amount of 55.4 million.
+
+Repayment of mortgage notes payable in the amount of 33.4 million.
+
+Repayment of revolving credit line borrowings in the amount of 54.1 million.
+
+Additional acquisitions and distributions to noncontrolling interests of 9.5 million.
+
+Fiscal 2018: (Total 87.3 million) 
+
+Dividends to shareholders in the amount of 53.9 million.
+
+Repayment of mortgage notes payable in the amount of 24.1 million.
+
+Repayment of revolving credit line borrowings in the amount of 9 million.
+
+18 
+
+Table Of Contents 
+
+Results of Operations
+
+Fiscal 2020 vs. Fiscal 2019 
+
+The following information summarizes our results of operations for the years ended October 31, 2020 and 2019 (amounts in thousands):
+
+Year Ended October 31,
+
+Change Attributable to:
+
+Revenues
+
+2020
+
+2019
+
+Increase
+ (Decrease)
+
+Change
+
+Property
+ Acquisitions/Sales
+
+Properties Held in
+ Both Periods (Note 1)
+
+Base rents
+
+99,387
+
+100,459
+
+(1,072 
+
+(1.1 
+
+(351 
+
+(721 
+
+Recoveries from tenants
+
+28,889
+
+32,784
+
+(3,895 
+
+(11.9 
+
+(9 
+
+(3,886 
+
+Uncollectable amounts in lease income
+
+(3,916 
+
+(956 
+
+2,960
+
+309.6
+
+-
+
+2,960
+
+ASC Topic 842 cash basis lease income reversal
+
+(3,419 
+
+-
+
+(3,419 
+
+(100.0 
+
+(9 
+
+(3,410 
+
+Lease termination
+
+705
+
+221
+
+484
+
+219.0
+
+-
+
+484
+
+Other income
+
+5,099
+
+4,374
+
+725
+
+16.6
+
+(241 
+
+966
+
+Operating Expenses
+
+Property operating
+
+19,542
+
+22,151
+
+(2,609 
+
+(11.8 
+
+(264 
+
+(2,345 
+
+Property taxes
+
+23,464
+
+23,363
+
+101
+
+0.4
+
+(74 
+
+175
+
+Depreciation and amortization
+
+29,187
+
+27,930
+
+1,257
+
+4.5
+
+(99 
+
+1,356
+
+General and administrative
+
+10,643
+
+9,405
+
+1,238
+
+13.2
+
+n/a
+
+n/a
+
+Non-Operating Income/Expense
+
+Interest expense
+
+13,508
+
+14,102
+
+(594 
+
+(4.2 
+
+303
+
+(897 
+
+Interest, dividends, and other investment income
+
+398
+
+403
+
+(5 
+
+(1.2 
+
+n/a
+
+n/a
+
+Note 1 Properties held in both periods includes only properties owned for the entire periods of 2020 and 2019 and for interest expense the amount also includes parent company interest expense. All other properties are included in the property acquisition/sales column. There are no properties excluded from the analysis.
+
+Base rents decreased by 1.1 to 99.4 million for the fiscal year ended October 31, 2020 as compared with 100.5 million in the comparable period of 2019. The change in base rent and the changes in other income statement line items analyzed in the table above were attributable to:
+
+Property Acquisitions and Properties Sold: 
+
+In fiscal 2019, we purchased one property totaling 177,000 square feet, and sold one property totaling 10,100 square feet. In fiscal 2020, we sold two properties totaling 18,100 square feet. These properties accounted for all of the revenue and expense changes attributable to property acquisitions and sales in the year ended October 31, 2020 when compared with fiscal 2019.
+
+Properties Held in Both Periods: 
+
+Revenues
+
+Base Rent 
+
+ The net decrease in base rents for the fiscal year ended October 31, 2020, when compared to the corresponding prior period was predominantly caused by a decrease in base rent revenue at seven properties related to tenant vacancies. The most significant of these vacancies were the vacating of TJ Maxx at our New Milford, CT property, the vacancy of two tenants at our Bethel, CT property, the vacancy of three tenants at our Cos Cob, CT property, the vacancy of two tenants at our Orange, CT property, the vacancy of five tenants at our Katonah, NY property and the vacancy caused by the bankruptcy of Modell's at our Ridgeway shopping center in Stamford, CT. In addition, base rent decreased as a result of providing a rent reduction for the grocery store tenant at our Bloomfield, NJ property. This net decrease was partially offset by an increase in base rents at most properties related to normal base rent increases provided for in our leases, new leasing at some properties and base rent revenue related to two new grocery store leases and one junior anchor lease for which rental recognition began in fiscal 2020. The new grocery tenants are Whole Foods at our Valley Ridge shopping center in Wayne, NJ and DeCicco's at our Eastchester, NY property. The new junior anchor tenant is TJX at our property located in Orange, CT.
+
+In fiscal 2020, we leased or renewed approximately 405,000 square feet (or approximately 8.9 of total GLA). At October 31, 2020, the Company s consolidated properties were 90.4 leased (92.9 leased at October 31, 2019).
+
+Tenant Recoveries 
+
+ For the fiscal year ended October 31, 2020, recoveries from tenants (which represent reimbursements from tenants for operating expenses and property taxes) decreased by a net 3.9 million when compared with the corresponding prior period. The decrease was the result of having lower common area maintenance expenses in fiscal 2020 when compared with fiscal 2019. This decrease was caused by significantly lower snow removal costs in the winter of 2020 when compared with the winter of 2019. In addition, throughout our third and fourth quarters of fiscal 2020, in response to the COVID-19 pandemic we made a conscious effort to reduce common area maintenance costs at our shopping centers to help reduce the overall tenant reimbursement rents charged to our tenants. In addition, the reduction was caused by a negative variance relating to reconciliation of the accruals for real estate tax recoveries billed to tenants in the first half of fiscal 2019 and 2020. The decrease was further accentuated by accruing a lower percentage of recovery at most of our properties as a result of our assessment that many of our smaller local tenants will have difficulty paying the full amounts required under their leases as a result of the COVID-19 pandemic. This assessment was based on the fact that many smaller tenants' businesses were deemed non-essential by the states where they operate and were forced to close for a portion of fiscal 2020. These net decreases were offset by increased tax assessments at our other properties held in both periods, which increases the amount of tax due and the amount billed back to tenants for those billings.
+
+Uncollectable Amounts in Lease Income 
+
+ In the fiscal year ended October 31, 2020, uncollectable amounts in lease income increased by 3.0 million when compared to fiscal 2019. This increase was predominantly the result of our assessment of the collectability of existing non-credit small shop tenants' receivables given the on-going COVID-19 pandemic. Many non-credit small shop tenants' businesses were deemed non-essential by the states where they operate and were forced to close for a portion of fiscal 2020. Our assessment was based on the premise that as we emerge from the COVID-19 pandemic, our non-credit small shop tenants will need to use most of their resources to re-establish their business footing and any existing accounts receivable attributable to these tenants would most likely be uncollectable.
+
+ASC Topic 842 Cash Basis Lease Income Reversals 
+
+ The Company adopted ASC Topic 842 "Leases" at the beginning of fiscal 2020. ASC Topic 842 requires amongst other things, that if the collectability of a specific tenant s future lease payments as contracted are not probable of collection, revenue recognition for that tenant must be converted to cash-basis accounting and be limited to the lesser of the amount billed or collected from that tenant and in addition, any straight-line rental receivables would need to be reversed in the period that the collectability assessment changed to not probable. As a result of analyzing our entire tenant base, we determined that as a result of the COVID-19 pandemic 64 tenants' future lease payments were no longer probable of collection (7.1 of our approximate 900 tenants), and as a result of this assessment in fiscal 2020, we reversed 2.3 million of previously billed lease income that was uncollected, which represented 2.4 of our ABR. In addition, as a result of this assessment, we reversed 1.1 million of accrued straight-line rent receivables related to these 64 tenants, which equated to an additional 1.1 of our ABR. These reductions are a direct reduction of lease income in fiscal 2020.
+
+Expenses
+
+Property Operating 
+
+ In the fiscal year ended October 31, 2020, property operating expenses decreased by 2.3 million as a result of a large decrease in snow removal costs and parking lot repairs in fiscal 2020 when compared with fiscal 2019 and an overall reduction of other common area maintenance expenses as a result of COVID-19 pandemic as discussed above.
+
+Property Taxes 
+
+ In the fiscal year ended October 31, 2020, property tax expense was relatively unchanged when compared with the corresponding prior period. In the first half of fiscal 2020, one of our properties received a large real estate tax expense reduction as a result of a successful tax reduction proceeding. This decrease was offset by increased tax assessments at our other properties held in both periods, which increased the amount of tax due.
+
+Interest 
+
+ In fiscal year ended October 31, 2020, interest expense decreased by 897,000 when compared with the corresponding prior period, as a result of a reduction in interest expense related to our Facility. In October 2019, we used a portion of the proceeds from a new series of preferred stock to repay all amounts outstanding on our Facility. In addition, the decrease was caused by our repayment of a mortgage secured by our Rye, NY properties at the end of fiscal 2019 with available cash, which reduced interest expense by 183,000.
+
+Depreciation and Amortization 
+
+ In the fiscal year ended October 31, 2020, depreciation and amortization increased by 1.4 million when compared with the prior period, primarily as a result of a write-off of tenant improvements related to tenants that vacated our Danbury, CT, Newington, NH, Derby, CT and Stamford, CT properties in fiscal 2020 and increased depreciation for tenant improvements for large re-tenanting projects at our Orange, CT and Wayne, NJ properties.
+
+General and Administrative Expenses 
+
+ In the fiscal year ended October 31, 2020, general and administrative expenses increased by 1.2 million when compared with the corresponding prior period, primarily as a result of an increase of 1.4 million in restricted stock compensation expense in the second quarter of fiscal 2020 for the accelerated vesting of the grant value of restricted stock for our former Chairman Emeritus when he passed away in the second quarter of fiscal 2020. 
+
+19 
+
+Table Of Contents 
+
+Fiscal 2019 vs. Fiscal 2018 
+
+The following information summarizes our results of operations for the years ended October 31, 2019 and 2018 (amounts in thousands):
+
+Year Ended October 31,
+
+Change Attributable to:
+
+Revenues
+
+2019
+
+2018
+
+Increase
+ (Decrease)
+
+Change
+
+Property
+ Acquisitions/Sales
+
+Properties Held in
+ Both Periods (Note 2)
+
+Base rents
+
+100,459
+
+96,943
+
+3,516
+
+3.6
+
+2,816
+
+700
+
+Recoveries from tenants
+
+32,784
+
+31,144
+
+1,640
+
+5.3
+
+1,091
+
+549
+
+Uncollectable amounts in lease income
+
+(956 
+
+(857 
+
+(99 
+
+11.6
+
+-
+
+(99 
+
+Lease termination
+
+221
+
+3,795
+
+(3,574 
+
+(94.2 
+
+-
+
+(3,574 
+
+Other income
+
+4,374
+
+3,697
+
+677
+
+18.3
+
+270
+
+407
+
+Operating Expenses
+
+Property operating
+
+22,151
+
+22,235
+
+(84 
+
+(0.4 
+
+990
+
+(1,074 
+
+Property taxes
+
+23,363
+
+21,167
+
+2,196
+
+10.4
+
+820
+
+1,376
+
+Depreciation and amortization
+
+27,930
+
+28,327
+
+(397 
+
+(1.4 
+
+412
+
+(809 
+
+General and administrative
+
+9,405
+
+9,223
+
+182
+
+2.0
+
+n/a
+
+n/a
+
+Non-Operating Income/Expense
+
+Interest expense
+
+14,102
+
+13,678
+
+424
+
+3.1
+
+213
+
+211
+
+Interest, dividends, and other investment income
+
+403
+
+350
+
+53
+
+15.1
+
+n/a
+
+n/a
+
+Note 2 Properties held in both periods includes only properties owned for the entire periods of 2019 and 2018 and for interest expense the amount also includes parent company interest expense. All other properties are included in the property acquisition/sales column. There are no properties excluded from the analysis.
+
+Base rents increased by 3.6 to 100.5 million in fiscal 2019, as compared with 96.9 million in the comparable period of 2018. The increase in base rents and the changes in other income statement line items were attributable to:
+
+Property Acquisitions and Properties Sold: 
+
+ In fiscal 2018, we purchased three properties totaling 53,700 square feet of GLA. In fiscal 2019, we purchased one property totaling 177,000 square feet and sold one property totaling 10,100 square feet. These properties accounted for all of the revenue and expense changes attributable to property acquisitions and sales in the fiscal year ended 2019 when compared with fiscal 2018.
+
+Properties Held in Both Periods: 
+
+Revenues
+
+Base Rent 
+
+ The net increase in base rents for the fiscal year ended 2019 when compared to the corresponding prior period, was predominantly caused by positive leasing activity at several properties held in both periods accentuated by a lease renewal with a grocery-store tenant at a significantly higher rent than the expiring period rent, both of which created a positive variance in base rent.
+
+In fiscal 2019, we leased or renewed approximately 676,000 square feet (or approximately 14.8 of total consolidated property leasable area). At October 31, 2019, the Company s consolidated properties were 92.9 leased (93.2 leased at October 31, 2018).
+
+Tenant Recoveries 
+
+ In the fiscal year ended 2019, recoveries from tenants (which represent reimbursements from tenants for operating expenses and property taxes) increased by 549,000 when compared with the corresponding prior period. This increase was a result of an increase in property tax expense caused by an increase in property tax assessments predominantly related to properties the Company owns in Stamford, CT. This increase was partially offset by a decrease in property operating expenses mostly related to a decrease in snow removal costs at our properties owned in both periods.
+
+Lease Termination Income 
+
+ In April 2018, we reached agreement with the grocery tenant at our Newark, NJ property to terminate its 63,000 square foot lease in exchange for a one-time 3.7 million lease termination payment, which we received and recorded as revenue in the second quarter of fiscal 2018. Also in March 2018, we leased that same space to a new grocery store operator who took possession in May 2018. While the rental rate on the new lease is 30 less than the rental rate on the terminated lease, we hope that part of this decreased rental rate will be recaptured with the receipt of percentage rent in subsequent years as the store matures and its sales increase. The new lease required no tenant improvement allowance.
+
+Expenses
+
+Property Operating 
+
+ In the fiscal year ended October 31, 2019, property operating expenses decreased by 1.1 million when compared with the corresponding prior period, predominantly as a result of a decrease in snow removal costs at our properties owned in both periods.
+
+Property Taxes 
+
+ In the fiscal year ended October 31, 2019, property taxes increased by 1.4 million when compared with the corresponding prior period, as a result of an increase in property tax assessments for a number of our properties owned in both periods, specifically those located in Stamford, CT.
+
+Interest 
+
+ In the fiscal year ended October 31, 2019, interest expense increased by a net 211,000 when compared with the corresponding prior period as a result of the Company having a larger balance drawn on its Facility for a large portion of fiscal 2019 when compared with the corresponding prior periods, offset by mortgage refinancings at lower interest rates than the refinanced mortgage notes.
+
+Depreciation and Amortization 
+
+ In the fiscal year ended October 31, 2019, depreciation and amortization decreased by 809,000 when compared with the prior period primarily as a result of increased ASC Topic 805 amortization expense for lease intangibles in fiscal year ended October 31, 2018 for a tenant who vacated the property and whose lease was terminated.
+
+General and Administrative Expenses 
+
+ General and administrative expense was relatively unchanged in the fiscal year ended October 31, 2019 when compared with the corresponding prior period.
+
+20 
+
+Table Of Contents 
+
+Funds from Operations
+
+We consider Funds from Operations FFO to be an additional measure of our operating performance. We report FFO in addition to net income applicable to common stockholders and net cash provided by operating activities. Management has adopted the definition suggested by The National Association of Real Estate Investment Trusts NAREIT and defines FFO to mean net income (computed in accordance with GAAP) excluding gains or losses from sales of property, plus real estate-related depreciation and amortization and after adjustments for unconsolidated joint ventures.
+
+Management considers FFO a meaningful, additional measure of operating performance because it primarily excludes the assumption that the value of our real estate assets diminishes predictably over time and industry analysts have accepted it as a performance measure. FFO is presented to assist investors in analyzing our performance. It is helpful as it excludes various items included in net income that are not indicative of our operating performance, such as gains (or losses) from sales of property and depreciation and amortization. However, FFO:
+
+does not represent cash flows from operating activities in accordance with GAAP (which, unlike FFO, generally reflects all cash effects of transactions and other events in the determination of net income); and
+
+should not be considered an alternative to net income as an indication of our performance.
+
+FFO as defined by us may not be comparable to similarly titled items reported by other real estate investment trusts due to possible differences in the application of the NAREIT definition used by such REITs. The table below provides a reconciliation of net income applicable to Common and Class A Common Stockholders in accordance with GAAP to FFO for each of the three years in the period ended October 31, 2020, 2019 and 2018 (amounts in thousands):
+
+Year Ended October 31,
+
+2020
+
+2019
+
+2018
+
+Net Income Applicable to Common and Class A Common Stockholders
+
+8,533
+
+22,128
+
+25,217
+
+Real property depreciation
+
+22,662
+
+22,668
+
+22,139
+
+Amortization of tenant improvements and allowances
+
+4,694
+
+3,521
+
+4,039
+
+Amortization of deferred leasing costs
+
+1,737
+
+1,652
+
+2,057
+
+Depreciation and amortization on unconsolidated joint ventures
+
+1,499
+
+1,505
+
+1,719
+
+(Gain)/loss on sale of properties
+
+6,047
+
+19
+
+-
+
+Loss on sale of property of unconsolidated joint venture
+
+-
+
+462
+
+-
+
+Funds from Operations Applicable to Common and Class A Common Stockholders
+
+45,172
+
+51,955
+
+55,171
+
+FFO amounted to 45.2 million in fiscal 2020 compared to 52.0 million in fiscal 2019 and 55.2 million in fiscal 2018.
+
+The net decrease in FFO in fiscal 2020 when compared with fiscal 2019 was predominantly attributable, among other things, to:
+
+Decreases :
+
+A net decrease in base rents for the fiscal year ended October 31, 2020, when compared to the corresponding prior period caused by a decrease in base rent revenue at seven properties related to tenant vacancies offset by an increase in base rents at most properties related to normal base rent increases provided for in our leases, new leasing at some properties and base rent revenue related to two new grocery store leases and one junior anchor lease for which rental recognition began in fiscal 2020. Please see operating expense variance explanations earlier in this Item 7.
+
+An increase in uncollectable amounts in lease income of 3.0 million. This increase was the result of our assessment of the collectability of existing non-credit small shop tenants' receivables given the ongoing COVID-19 pandemic. Many non-credit, small shop tenants' businesses were deemed non-essential by the states where they operate and were forced to close for a portion of our fiscal year, until states loosened their restrictions and allowed almost all businesses to re-open, although some with operational restrictions. Our assessment was based on the premise that as we emerge from the COVID-19 pandemic, our non-credit, small shop tenants will need to use most of their resources to re-establish their business footing, and any existing accounts receivable attributable to those tenants would most likely be uncollectable.
+
+An increase in the write-off of lease income for tenants in our portfolio whose future lease payments were deemed to be not probable of collection, requiring us under GAAP to convert revenue recognition for those tenants to cash-basis accounting. This caused a write off of previously billed but unpaid lease income of 2.3 million and the reversal of accrued straight-line rents receivable for these aforementioned tenants of 1.1 million.
+
+A decrease in variable lease income (cost recovery income) related to the COVID-19 pandemic. In fiscal 2020, we lowered our percentage of recovery at most of our properties as a result of our assessment that many of our non-credit, small shop tenants will have difficulty paying the amounts required under their leases as a result of the COVID 19 pandemic. This assessment was based on the fact that many smaller tenants' businesses were deemed non-essential by the states where they operate and temporarily forced to close.
+
+A decrease in variable lease income (cost recovery income) related to an over-accrual adjustment in recoveries from tenants for real estate taxes in the first quarter of fiscal 2020 versus an under-accrual adjustment in recoveries from tenants for real estate taxes in the first quarter of fiscal 2019, which when combined, resulted in a negative variance in the first nine months of fiscal 2020 when compared to the same period of fiscal 2019.
+
+A net increase in general and administrative expenses of 1.4 million, predominantly related to an increase in compensation and benefits expense for the accelerated vesting of restricted stock grant value upon the death of our former Chairman Emeritus in the second quarter of fiscal 2020.
+
+A net increase in preferred stock dividends of 861,000 as a result of issuing a new series of preferred stock in fiscal 2019 and redeeming an existing series. The new series has a principal value 35 million higher than the redeemed series which increased preferred stock dividends by 1.5 million, which included one month of dividends in fiscal 2019 and a full year in fiscal 2020. The new series has a lower coupon rate of 5.875 versus 6.75 on the redeemed series, which reduced preferred stock dividends by 656,000 in fiscal 2020 when compared with fiscal 2019.
+
+Increases :
+
+A 484,000 increase in lease termination income in fiscal 2020 when compared with the corresponding prior period.
+
+A 594,000 decrease in interest expense as a result of fully repaying our Facility in the fourth quarter of fiscal 2019 with proceeds from our new series of preferred stock.
+
+A 446,000 decrease in payments to noncontrolling interests as a result of redeeming units valued at 768,000 in fiscal 2020 and a reduction in the amount of distributions to noncontrolling interests for distributions based on the reduced dividend on our Class A Common stock.
+
+In fiscal 2019 we issued notice of redemption of our Series G preferred stock and realized preferred stock redemption charges of 2.4 million.
+
+The net decrease in FFO in fiscal 2019 when compared with fiscal 2018 was predominantly attributable, among other things, to:
+
+Decreases: 
+
+The receipt of a 3.7 million one-time lease termination payment in the second quarter of fiscal 2018 from a grocery store tenant that wanted to terminate its lease early.
+
+An increase of 725,000 in base rent in the third quarter of fiscal 2018 related to the amortization of a below market rent in accordance with ASC Topic 805 for a grocery store tenant who was evicted and whose lease was terminated at our Passaic property.
+
+An increase in interest expense as a result of having a greater amount outstanding on our Facility in the fiscal year ended 2019 when compared with the corresponding prior periods.
+
+2.4 million in preferred stock redemption charges relating to our calling our Series G preferred stock for redemption on October 1, 2019.
+
+An increase of 539,000 in preferred stock dividends as a result of having a new series of preferred stock outstanding for the month of October 2019. We redeemed our Series G preferred stock on November 1, 2019.
+
+Increases: 
+
+403,000 gain on sale of marketable securities in fiscal 2019 when we sold all of our marketable securities.
+
+Additional net income generated from properties acquired in fiscal 2018 and fiscal 2019.
+
+Additional net income generated from increased base rent revenue for our existing properties, specifically related to a property where the grocery store tenant renewed its lease at a significantly higher rent than the current rent.
+
+21 
+
+Table Of Contents 
+
+Off-Balance Sheet Arrangements
+
+We have six off-balance sheet investments in real property through unconsolidated joint ventures:
+
+a 66.67 equity interest in the Putnam Plaza Shopping Center,
+
+an 11.792 equity interest in the Midway Shopping Center L.P.,
+
+a 50 equity interest in the Chestnut Ridge Shopping Center,
+
+a 50 equity interest in the Gateway Plaza shopping center and the Riverhead Applebee s Plaza, and
+
+a 20 economic interest in a partnership that owns a suburban office building with ground level retail.
+
+These unconsolidated joint ventures are accounted for under the equity method of accounting, as we have the ability to exercise significant influence over, but not control of, the operating and financial decisions of these investments. Our off-balance sheet arrangements are more fully discussed in Note 6 to our consolidated financial statements included in Item 8 of this Annual Report on Form 10-K. Although we have not guaranteed the debt of these joint ventures, we have agreed to customary environmental indemnifications and nonrecourse carve-outs (e.g. guarantees against fraud, misrepresentation and bankruptcy) on certain loans of the joint ventures. The below table details information about the outstanding non-recourse mortgage financings on our unconsolidated joint ventures (amounts in thousands):
+
+Principal Balance
+
+Joint Venture Description
+ 
+ Location
+
+Original Balance
+
+At October 31, 2020
+
+Fixed Interest Rate Per Annum
+
+Maturity Date
+
+Midway Shopping Center
+ 
+ Scarsdale, NY
+
+32,000
+
+25,700
+
+4.80
+
+Dec-2027
+
+Putnam Plaza Shopping Center
+ 
+ Carmel, NY
+
+18,900
+
+18,300
+
+4.81
+
+Oct-2028
+
+Gateway Plaza
+ 
+ Riverhead, NY
+
+14,000
+
+11,600
+
+4.18
+
+Feb-2024
+
+Applebee's Plaza
+ 
+ Riverhead, NY
+
+2,300
+
+1,800
+
+3.38
+
+Aug-2026
+
+Contractual Obligations
+
+Our contractual payment obligations as of October 31, 2020 were as follows (amounts in thousands):
+
+Payments Due by Period
+
+Total
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Thereafter
+
+Mortgage notes payable and other loans
+
+299,434
+
+7,252
+
+55,986
+
+6,233
+
+25,000
+
+86,295
+
+118,668
+
+Interest on mortgage notes payable
+
+66,652
+
+13,043
+
+11,775
+
+10,281
+
+8,832
+
+6,252
+
+16,469
+
+Capital improvements to properties 
+
+7,649
+
+7,649
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total Contractual Obligations
+
+373,735
+
+27,944
+
+67,761
+
+16,514
+
+33,832
+
+92,547
+
+135,137
+
+Includes committed tenant-related obligations based on executed leases as of October 31, 2020.
+
+We have various standing or renewable service contracts with vendors related to property management. In addition, we also have certain other utility contracts entered into in the ordinary course of business which may extend beyond one year, which vary based on usage. These contracts include terms that provide for cancellation with insignificant or no cancellation penalties. Contract terms are generally one year or less.
+
+22 
+
+Table Of Contents 
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+We are exposed to interest rate risk primarily through our borrowing activities, which include fixed-rate mortgage debt and, in limited circumstances, variable rate debt. As of October 31, 2020, we had total mortgage debt and other notes payable of 299.4 million, 297.7 million for which interest was based on fixed-rate, inclusive of variable rate mortgages that have been swapped to fixed interest rates using interest rate swap derivatives contracts, and 1.7 million of which interest was based on a variable rate (see below).
+
+Our fixed-rate debt presents inherent rollover risk for borrowings as they mature and are renewed at current market rates. The extent of this risk is not quantifiable or predictable because of the variability of future interest rates and our future financing requirements.
+
+To reduce our exposure to interest rate risk on variable-rate debt, we use interest rate swap agreements, for example, to convert some of our variable-rate debt to fixed-rate debt. As of October 31, 2020, we had eight open derivative financial instruments. These interest rate swaps are cross collateralized with mortgages on properties in Ossining, NY, Yonkers, NY, Orangeburg, NY, Brewster, NY, Stamford, CT, Greenwich CT, Darien, CT and Dumont, NJ. The Ossining swap expires in August 2024, the Yonkers swap expires in November 2024, the Orangeburg swap expires in October 2024, the Brewster swap expires in July 2029, the Stamford swap expires in July 2027, the Greenwich swaps expire in October 2026, the Darien swap expires in April 2029 and the Dumont, NJ swap expires in August 2028, in each case concurrent with the maturity of the respective mortgages. All of the aforementioned derivatives contracts are adjusted to fair market value at each reporting period. We have concluded that all of the aforementioned derivatives contracts are effective cash flow hedges as defined in ASC Topic 815. We are required to evaluate the effectiveness at inception and at each reporting date. As a result of the aforementioned derivatives contracts being effective cash flow hedges all changes in fair market value are recorded directly to stockholders equity in accumulated comprehensive income and have no effect on our earnings.
+
+Under existing guidance, the publication of the LIBOR reference rate was to be discontinued beginning on or around the end of 2021. However, the ICE Benchmark Administration, in its capacity as administrator of USD LIBOR, has announced that it intends to extend publication of USD LIBOR (other than one-week and two-month tenors) by 18 months to June 2023. Notwithstanding this possible extension, a joint statement by key regulatory authorities calls on banks to cease entering into new contracts that use USD LIBOR as a reference rate by no later than December 31, 2021. We have good working relationships with each of the lenders to our notes, who are also the counterparties to our swap contracts. We understand from our lenders and counterparties that their goal is to have the replacement reference rate under the notes match the replacement rates in the swaps. If this were achieved, we believe there would be no effect on our financial position or results of operations. However, because this will be the first time any of the reference rates for our promissory notes or our swap contracts will cease to be published, we cannot be sure how the replacement rate event will conclude. Until we have more clarity from our lenders and counterparties, we cannot be certain of the impact on the Company. See We may be adversely affected by changes in LIBOR reporting practices, the method in which LIBOR is determined or the use of alternative reference rates under Item 1A of our annual report on Form 10-K for more information. 
+
+At October 31, 2020, we had 35.0 million outstanding on our Facility, which bears interest at LIBOR plus 1.35 . If interest rates were to rise 1 , our interest expense as a result of the variable rate would increase by any amount outstanding multiplied by 1 annum.
+
+In addition, we purchased a property in March of fiscal 2018 and financed a portion of the purchase price with unsecured notes held by the seller of the property. The unsecured notes require the payment of interest only. 1.5 million of the notes bear interest at a fixed rate of 5.05 and 1.7 million of the notes bear interest at a variable rate of interest based on the level of our Class A Common stock dividend, currently 2.88 as of October 31, 2020. If the level of our Class A Common dividend rises, it will increase the interest rate on the 1.7 million in notes.
+
+The following table sets forth the Company s long-term debt obligations by principal cash payments and maturity dates, weighted average fixed interest rates and estimated fair value at October 31, 2020 (amounts in thousands, except weighted average interest rate): 
+
+For the Fiscal Year Ended October 31,
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Thereafter
+
+Total
+
+Estimated Fair Value
+
+Mortgage notes payable and other loans
+
+7,252
+
+55,986
+
+6,233
+
+25,000
+
+86,295
+
+118,668
+
+299,434
+
+316,483
+
+Weighted average interest rate for debt maturing
+
+n/a
+
+4.42
+
+n/a
+
+4.14
+
+3.95
+
+4.00
+
+4.07
+
+23 

@@ -1,0 +1,179 @@
+﻿
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Overview 
+ 
+ As a leading synthetic biotechnology company active in the Clean Health and Beauty markets through our consumer brands and a top supplier of sustainable and natural ingredients, we apply our proprietary Lab-to-Market biotechnology platform to engineer, manufacture and market high performance, natural and sustainably sourced products. We do so with the use of computational tools, strain construction tools, screening and analytics tools, and advanced lab automation and data integration. Our biotechnology platform enables us to rapidly engineer microbes and use them as catalysts to metabolize renewable, plant-sourced sugars into high-value ingredients that we manufacture at industrial scale. Through the combination of our biotechnology platform and our industrial fermentation process, we have successfully developed, produced and commercialized thirteen distinct molecules used in formulations by thousands of leading global brands. 
+ 
+ We believe that synthetic biology represents a third industrial revolution, bringing together biology and engineering to generate new, more sustainable materials to meet the growing global demand for bio-based replacements of petroleum-based and traditional animal- or plant-derived ingredients. We continue to generate demand for our current portfolio of products through an extensive go-to-market network provided by our partners that are the leading companies in our target markets. Via our partnership model, our partners invest in the development of molecules to take it from the lab to commercial scale and use their extensive marketing and sales capabilities to sell our ingredients and formulations to their customers. We capture long-term revenue both through the production and sale of our molecules to our partners and through royalty revenues from our partners' product sales to their customers. We have also successfully formulated our unique, natural and sustainably-sourced ingredients into wholly-owned consumer brands, including Biossance our clean beauty skincare brand, Pipette , our baby and mother care brand, and Purecane TM , our alternative sweetener brand. We are marketing our brands directly to consumers via our ecommerce platforms, in brick-and-mortar stores, and online via various retail partners. 
+ 
+ We were founded in 2003 in the San Francisco Bay area by a group of scientists from the University of California, Berkeley. Through a grant in 2005 from the Bill Melinda Gates Foundation, we developed technology capable of creating microbial strains that produce artemisinic acid, a precursor of artemisinin, an anti-malarial drug. 
+ 39 
+
+We produced a renewable farnesene brand, Biofene , a long-chain, branched hydrocarbon molecule that we manufacture through fermentation using engineered microbes. Our farnesene derivatives are sold in hundreds of products as nutraceuticals, skincare products, fragrances, solvents, polymers, and lubricant ingredients. In 2014, we began manufacturing additional molecules for the Flavor Fragrance industry; in 2015, we began investing to expand our capabilities to other small molecule chemical classes via our collaboration with the Defense Advanced Research Projects Agency (DARPA); and in 2016, we expanded into proteins. We then made the strategic decision to transition our business model from low margin commodity markets to higher margin specialty ingredients markets. We began the transition by first commercializing and supplying farnesene-derived squalane as a cosmetic ingredient to formulators and distributors. We also entered into collaboration and supply agreements for the development and commercialization of molecules within the Flavor Fragrance and Clean Beauty markets. We partner with our customers to create sustainable, high performing, low-cost molecules that replace an ingredient in their supply chains. We commercially scale and manufacture those molecules. Our revenue is generated from research and development collaboration programs, grants, renewable product sales, and license and royalty revenues from our renewable product portfolios. 
+ 
+ All of our non-government partnerships include commercial terms for the supply of molecules we produce at commercial scale. The first molecule to generate revenue for us outside of farnesene was a fragrance molecule launched in 2015. Since the launch, this and additional fragrance molecules have continued to generate sales year over year. Our partners for these molecules are indicating continued strong growth due to their cost advantaged position, high purity of our molecules and our sustainable production method. In 2019, we commercially produced and shipped our Reb M product that is an alternative sweetener and sugar replacement for food and beverages. In 2020, we added a total of six new ingredients to our portfolio. We have a pipeline that can deliver an estimated two to three new molecules each year over the coming years. 
+ 
+ Our time to market for molecules has decreased from seven years to less than a year for our most recent molecule, mainly due to our ability to leverage our biotechnology platform with proprietary computational tools, strain construction tools, screening and analytics tools, and advanced lab automation and data integration. Our state-of-the-art infrastructure includes industry-leading strain engineering and lab automation located in Emeryville, California, pilot-scale production facilities in Emeryville, California and Campinas, Brazil, a demonstration-scale facility in Campinas, Brazil and a commercial scale production facility in Leland, North Carolina (owned and operated by our Aprinnova joint venture). We are able to use a wide variety of feedstocks for production but have focused on sourcing Brazilian sugarcane for our large-scale production because of its renewability, low cost and relative price stability. We are constructing a new purpose-built, large-scale specialty ingredients facility in Brazil, which we anticipate will allow for the manufacture of up to five products concurrently, including both our specialty ingredients portfolio and our alternative sweetener product. In September 2019, we obtained the necessary permits and broke ground for this facility and we expect construction to be completed by the end of 2021. During construction, we continue to manufacture our products at manufacturing sites in Brazil, the U.S. and Europe. 
+ 
+ Sales and Revenue 
+ 
+ We recognize revenue from product sales, license fees and royalties, and grants and collaborations. 
+ 
+ We have research and development collaboration arrangements for which we receive payments from our collaboration partners, which include DARPA, Koninklijke DSM N.V. (DSM), Firmenich SA (Firmenich), Givaudan International SA (Givaudan), Yifan Pharmaceutical Co. Ltd. (Yifan) and others. Some of our collaboration arrangements provide for advance payments to us in consideration for grants of exclusivity or research efforts that we will perform. Our collaboration agreements, which may require us to achieve milestones prior to receiving payments, are expected to contribute revenues from product sales and royalties if and when they are commercialized. See Note 10, Revenue Recognition in Part II, Item 8 of this Annual Report on Form 10-K for additional information. 
+ 
+ We have several other collaboration molecules in our development pipeline with partners including DSM, Givaudan, Firmenich and Yifan that we expect will contribute revenues from product sales and royalties if and when they are commercialized. 
+ 
+ COVID-19 Business Update 
+ 
+ We have been closely monitoring the impact of the global COVID-19 pandemic on all aspects of our business, including how it has and will impact our employees, partners, supply chain, and distribution network. Since the start of the pandemic in early 2020, we developed a comprehensive response strategy including establishing a cross-functional COVID-19 task force and implementing business continuity plans to manage the impact of the COVID-19 pandemic on our employees and our business. We have applied recommended public health strategies designed to prevent the spread of COVID-19 and have been 
+ 40 
+
+focused on the health and welfare of our employees. We have successfully managed to sustain ongoing critical production campaigns and infrastructure while staying in compliance with State and County public health orders. 
+ 
+ Accordingly, since the end of the first quarter of 2020, we have initiated several precautions in accordance with local regulations and guidelines to mitigate the spread of COVID-19 infection across our businesses, which has impacted the way we carry out our business, including additional sanitation and cleaning procedures in our laboratories and other facilities, on-site COVID-19 testing, temperature and symptom confirmations, instituting remote working when possible, and implementing social distancing and staggered worktime requirements for our employees who must work on-site. Our plans to reopen our sites and enable a broad return to work in our offices, laboratories and production facilities will continue to follow local public health plans and guidelines. As the effects of the COVID-19 pandemic and the availability of vaccines continue to rapidly evolve, even if our employees more broadly return to work in our offices, laboratories and production facilities, we have the flexibility to resume more restrictive on-site and remote work models, if needed, as a result of spikes or surges in COVID-19 infection, hospitalization rates or otherwise. See Risk Factors Business and Operational Risks - The COVID-19 pandemic has impacted our business and results of operations and could have a material adverse effect on our business, results of operations and financial condition in the future. 
+ 
+ Critical Accounting Policies and Estimates 
+ 
+ Management's discussion and analysis of results of operations and financial condition are based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the U.S. (U.S. GAAP). We believe that the critical accounting policies described in this section are those that significantly impact our financial condition and results of operations and require the most difficult, subjective or complex judgements, often as a result of the need to make estimates about the effects of matters that are inherently uncertain. Because of this uncertainty, actual results may vary from these estimates. 
+ 
+ Our most critical accounting estimates include: 
+ Recognition of revenue including arrangements with multiple performance obligations; 
+ Valuation and allocation of fair value to various elements of complex related party transactions; 
+ The valuation of freestanding and embedded derivatives, which impacts gains or losses on such derivatives, the carrying value of debt, interest expense and deemed dividends; and 
+ The valuation of debt for which we have elected fair value accounting. 
+ 
+ For a more detailed discussion of our critical accounting estimates and policies, see Note 1, "Basis of Presentation and Summary of Significant Accounting Policies" in Part II, Item 8 of this 2020 Form 10-K. 
+
+Results of Operations 
+ 
+ Revenue 
+ Years Ended December 31, (In thousands) 2020 2019 Change Revenue: Renewable products 104,338 59,872 74 Licenses and royalties 50,991 54,043 (6) Grants and collaborations 17,808 38,642 (54) Total revenue 173,137 152,557 13 
+ 
+ Total revenue increased by 13 to 173.1 million in 2020. Renewable products revenue increased by 74 to 104.3 million in 2020, due to a 197 increase in consumer products revenue and a 26 increase in ingredients revenue. 
+ 
+ Licenses and royalties revenue decreased by 6 to 51.0 million in 2020, due to a reduction from DSM, partly offset by an increase from Firmenich. 
+ 
+ Grants and collaborations revenue decreased by 54 to 17.8 million in 2020, primarily due to no collaboration revenue generated under our cannabinoid agreement in 2020 as compared to 18.3 million in 2019. 
+ 
+ Our revenues are dependent on the timing and nature of arrangements entered into with our customers, which may include multiple performance obligations for which revenue accounting requires significant judgement and estimates. Based on the nature of our customer arrangements, our revenues may vary significantly from one period to the next. 
+ 
+ 41 
+
+Cost and Operating Expenses 
+ Years Ended December 31, (In thousands) 2020 2019 Change Cost of products sold 87,812 76,185 15 Research and development 71,676 71,460 Sales, general and administrative 137,071 126,586 8 Impairment of other assets 216 (100) Total cost and operating expenses 296,559 274,447 8 
+ 
+ Cost of Products Sold 
+ 
+ Cost of products sold includes the costs of raw materials, labor and overhead, amounts paid to contract manufacturers, inventory write-downs resulting from applying lower of cost or net realizable value inventory adjustments, and costs related to production scale-up. Because of our product mix, our cost of products sold does not change proportionately with changes in renewable product revenue. 
+ 
+ Cost of products sold increased by 15 to 87.8 million in 2020, primarily due to a 74 increase in renewable products revenue, mostly offset by significant improvements in unit costs and manufacturing efficiencies. 
+ 
+ Research and Development Expenses 
+ 
+ Research and development expenses increased by 0.3 to 71.7 million in 2020, primarily due to increases in professional services and employee compensation, mostly offset by a net decrease in equipment-related expense. Equipment-related expense, including depreciation, decreased as the result of our replacing equipment rentals with financing leases, which replaced monthly rental expense with depreciation expense over a 3- to 5-year useful life for capitalized equipment. 
+ 
+ Sales, General and Administrative Expenses 
+ 
+ Sales, general and administrative expenses increased by 8 to 137.1 million in 2020, primarily due to an 11.5 million increase in sales and marketing expense related to our consumer brands. 
+ 
+ Impairment of Other Assets 
+ 
+ In 2019, we impaired 0.2 million of contingent consideration that had been recorded in 2017 in connection with the December 2017 sale of our factory in Brasil. There was no such impairment in 2020. 
+ 
+ Other Income (Expense), Net 
+ Years Ended December 31, (In thousands) 2020 2019 Change Interest expense (47,951) (58,665) (18) (Loss) gain from change in fair value of derivative instruments (11,362) 2,777 (509) Loss from change in fair value of debt (89,827) (19,369) 364 Loss upon extinguishment of debt (51,954) (44,208) 18 Other income (expense), net 666 (783) (185) Total other expense, net (200,428) (120,248) 67 
+ ______________ 
+ nm = not meaningful 
+ 
+ Total other expense, net was 200.4 million in 2020, compared to 120.2 million in 2019. The 80.2 million increase was primarily comprised of a 70.5 million increase in loss from change in fair value of debt, a 14.1 million swing from a gain to a loss in change in fair value of derivative instruments, and a 7.7 million increase in loss upon extinguishment of debt, partly offset by a 10.7 million decrease in interest expense. 
+ 
+ The increase in loss from change in fair value of debt was due to a 95 increase in our stock price during 2020, combined with the addition of a second debt instrument (the Foris Convertible Note) for which we elected to account for at fair value during 2020; see Note 4, "Debt" in Part II, Item 8 of this Annual Report on Form 10-K for details regarding the Foris Convertible Note. 
+ 
+ 42 
+
+The swing from a gain to a loss in change in fair value of derivative instruments was primarily due to a 95 increase in our stock price during 2020; see Note 3, "Fair Value Measurement" in Part II, Item 8 of this Annual Report on Form 10-K for details regarding our outstanding derivative instruments. 
+ 
+ The loss upon extinguishment of debt for the year ended December 31, 2020 was the result of debt modifications and restructuring which required the write-off of significant unamortized debt discount balances and expensing of the fair value of equity instruments granted or modified in connection with the debt settlement or modification. 
+ 
+ The reduction in interest expense was primarily due to a decrease in debt discount accretion, along with lower average debt principal balances during 2020 as compared to the prior year. 
+ 
+ Income Taxes 
+ 
+ For the years ended December 31, 2020 and 2019, we recorded income tax expense of 0.3 million and 0.6 million related to accrued interest on uncertain tax positions. 
+ 
+ See Note 13, "Income Taxes" in Part II, Item 8 of this Annual Report on Form 10-K for additional information. 
+
+Liquidity and Capital Resources 
+ 
+ Years Ended December 31, (In thousands) 2020 2019 Net cash (used in) provided by: Operating activities (175,753) (156,933) Investing activities (12,781) (13,080) Financing activities 222,525 124,910 Effect of exchange rate changes on cash, cash equivalents and restricted cash (4,268) (252) Net increase (decrease) in cash, cash equivalents and restricted cash 29,723 (45,355) 
+ 
+ Liquidity 
+ 
+ We have incurred operating losses since our inception, and we expect to continue to incur losses and negative cash flows from operations through at least the next 12 months following the issuance of this Annual Report on Form 10-K. As of December 31, 2020, we had negative working capital of 16.5 million, an accumulated deficit of 2.1 billion, and cash and cash equivalents of 30.2 million. 
+ 
+ As of December 31, 2020, the principal amounts due under our debt instruments (including related party debt) totaled 170.5 million, of which 56.5 million is classified as current. Our debt agreements contain various covenants, including certain restrictions on our business including restrictions on additional indebtedness, material adverse effect and cross default provisions that could cause us to be at risk of default. A failure to comply with the covenants and other provisions of our debt instruments, including any failure to make payments when required, would generally result in events of default under such instruments, which could result in the acceleration of a substantial portion of such indebtedness. Acceleration would generally also constitute an event of default under our other outstanding debt instruments, which could result in the acceleration of a substantial portion of our debt repayment obligations. 
+ 
+ During 2020 we failed to meet certain covenants under several credit arrangements, including those associated with missed payments, cross-default provisions, minimum liquidity and minimum asset coverage requirements. These lenders provided permanent waivers to us for breaches of all past covenant violations and cross-default payment failures under the respective credit agreements, and significantly reduced the minimum liquidity requirement and substantially increased the base of eligible assets to calculate the asset coverage requirement. 
+ 
+ Cash and cash equivalents of 30.2 million as of December 31, 2020 are not sufficient to fund expected future negative cash flows from operations and cash debt service obligations through March 2022. These factors raise substantial doubt about our ability to continue as a going concern within one year after the date that the financial statements in this Annual Report on Form 10-K are issued. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty. Our ability to continue as a going concern will depend, in large part, on our ability to minimize the anticipated negative cash flows from operations during the 12 months from the date of this filing and to raise additional proceeds through strategic transactions, financings, and refinance or extend other existing debt maturities that will occur in June 2021 10 million as of the date of this filing), all of which are uncertain and outside of our control. 
+ 43 
+
+Our operating plan for 2021 contemplates a significant reduction in net operating cash outflows as compared to the year ended December 31, 2020, resulting from (i) revenue growth from sales of existing and new products with positive gross margins, (ii) reduced production costs as a result of manufacturing and technical developments, (iii) the monetization of certain assets, (iv) an increase in cash inflows from collaboration and grants and licenses and royalties, and (v) lower debt servicing expense. Our operating plan for 2021 also contemplates funding the construction and launch of our new specialty ingredients fermentation facility in Brazil, which will most likely require financing that is significantly above any potential to generate excess cash flows from operations. If we are unable to generate sufficient cash inflows from product sales, licenses and collaboration arrangements, we will need to obtain additional funding from new equity or debt financings, which may not occur timely or on reasonable terms, if at all, and agree to burdensome covenants, grant further security interests in our assets, enter into collaboration and licensing arrangements that require us to relinquish commercial rights, or grant licenses on terms that are not favorable. 
+ 
+ If we do not achieve our planned operating results, we may need to take the following actions to support our liquidity needs in 2021: 
+ shift focus to existing products and customers with significantly reduced investment in new product and commercial development efforts; 
+ reduce expenditures for employees and third-party contractors, including consultants, professional advisors and other vendors; 
+ reduce or delay uncommitted capital expenditures, including expenditures related the construction and commissioning of the new production facility in Brazil, nonessential facilities and lab equipment, and information technology projects; and 
+ closely monitor our working capital position with customers and suppliers, as well as suspend operations at pilot plants and demonstration facilities. 
+ 
+ Implementing this plan could negatively impact our ability to continue our business as currently contemplated, including, without limitation, delays or failures in our ability to: 
+ achieve planned production levels; 
+ develop and commercialize products within planned timelines or at planned scales; and 
+ continue other core activities. 
+ 
+ We will need to fund operations for the foreseeable future with cash currently on hand, cash inflows from product sales, licenses and royalties, grants and collaborations, and equity and debt financings, to the extent necessary. Some of our research and development collaborations are subject to the risk that we may not meet milestones. Future equity and debt financings, if needed, are subject to the risk that we may not be able to secure financing in a timely manner or on reasonable terms, if at all. 
+ 
+ For details, see the following Notes in Part II, Item 8 of this Annual Report on Form 10-K: 
+ Note 4, "Debt" 
+ Note 5, "Mezzanine Equity" 
+ Note 6, "Stockholders' Deficit" 
+ 
+ Cash Flows during the Years Ended December 31, 2020 and 2019 
+ 
+ Cash Flows from Operating Activities 
+ 
+ Our primary uses of cash from operating activities are for personnel costs and costs related to the production and sales of our products, offset by cash received from sales to customers. 
+ 
+ For the year ended December 31, 2020, net cash used in operating activities was 175.8 million, which was primarily comprised of our 326.9 million net loss and a decrease of 54.4 million in working capital, partly offset by 205.5 million of non-cash charges. Non-cash charges were primarily comprised of an 89.8 million loss from change in fair value of debt, a 52.0 million loss upon extinguishment of debt, 13.7 million of stock-based compensation expense, an 11.4 million loss from change in fair value of derivative instruments and 10.5 million of non-cash interest expense in connection with the release of pre-delivery shares to a debt holder in connection with a previous debt issuance. The decrease in working capital was primarily comprised of a 24.2 million increase in accounts receivable, a 16.2 million increase in inventories and a 4.0 million increase in contract assets. 
+ 44 
+
+For the year ended December 31, 2019, net cash used in operating activities was 156.9 million, which was comprised of our 242.8 million net loss and a 23.8 million decrease in working capital, partly offset by 109.6 million of non-cash charges. The decrease in working capital was primarily comprised of an 18.0 million increase in inventories, a 17.1 million decrease in lease liabilities, a 13.2 million increase in deferred cost of products sold, an 8.1 million increase in prepaid expenses and other assets, and a 6.9 million decrease in contract liabilities, mostly offset by a 42.7 million combined increase in accounts payable and accrued and other liabilities. Non-cash charges were primarily comprised of a 44.2 million loss upon extinguishment of debt, a 19.4 million loss from change in fair value of debt, 12.6 million of amortization of right-of-use assets under operating leases, 12.6 million of stock-based compensation expense and 11.7 million of debt discount accretion. 
+ 
+ Cash Flows from Investing Activities 
+ 
+ For the year ended December 31, 2020, net cash used in investing activities was 12.8 million and was comprised of property, plant and equipment purchases. 
+ 
+ For the year ended December 31, 2019, net cash provided by investing activities was 13.1 million and was comprised of property, plant and equipment purchases. 
+ 
+ Cash Flows from Financing Activities 
+ 
+ For the year ended December 31, 2020, net cash provided by financing activities was 222.5 million, primarily comprised of 262.3 million of proceeds from the issuance of common stock and 15.6 million from the issuance of debt, partly offset by 52.0 million of principal payments on debt and 3.5 million of principal payments on financing leases. 
+ 
+ For the year ended December 31, 2019, net cash provided by financing activities was 124.9 million, primarily comprised of 53.7 million of proceeds from the issuance of common stock and 189.2 million from the issuance of debt, partly offset by 112.4 million of principal payments on debt and 5.3 million of principal payments on financing leases. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ None. 
+ 
+ Contractual Obligations 
+ 
+ The following is a summary of our contractual obligations as of December 31, 2020: 
+ 
+ Payable by Year Ended December 31, (In thousands) Total 2021 2022 2023 2024 2025 Thereafter Principal payments on debt 170,504 56,515 99,236 12,793 307 321 1,332 Interest payments on debt 29,917 13,454 16,051 106 91 75 140 Operating leases 
+ 18,686 7,503 7,680 3,340 163 Partnership payment obligation 11,286 878 10,408 Construction costs in connection with new production facility 5,448 5,448 Financing leases 4,570 4,570 Contract termination fees 4,344 4,344 Total 244,755 92,712 133,375 16,239 561 396 1,472 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ Not applicable for smaller reporting companies. 
+ 45 

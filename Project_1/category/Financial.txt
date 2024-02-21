@@ -1,0 +1,8 @@
+debt
+lease
+security
+tax
+equity
+liability
+asset
+balance

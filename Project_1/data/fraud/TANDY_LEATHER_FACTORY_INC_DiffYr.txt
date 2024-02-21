@@ -1,0 +1,496 @@
+﻿
+ITEM 7. 
+ 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This discussion is intended to assist in understanding our financial performance and should be read in conjunction with our financial statements and the notes accompanying those financial statements included
+ elsewhere in this Form 10-K, including the information under the caption Summary of Critical Accounting Policies. In addition to historical financial information, the following management s discussion and analysis may contain forward-looking
+ statements. These statements reflect our expectations or estimates based on the information we have today but are not guarantees or predictions of future performance. They involve known and unknown risks, uncertainties and other factors, many of
+ which are beyond our control, and which may cause actual results to differ materially from the statements contained here. You are cautioned not to put undue reliance on these forward-looking statements. The Company assumes no obligation to update
+ or otherwise revise these forward-looking statements, except as required by law. More discussion of risks can be found under Item 1A, Risk Factors .
+
+Summary
+
+The Business and Strategy
+
+Tandy Leather Factory, Inc. is one of the world s largest specialty retailers of leather and leathercraft-related items. Founded in 1919 in Fort Worth, Texas, the Company introduced leathercrafting to millions of
+ American and later Canadian and other international customers and has built a track record as the trusted source of quality leather, tools, hardware, supplies, kits and teaching materials for leatherworkers everywhere. Today, our mission remains
+ to build on our legacy of inspiring the timeless art and trade of leatherworking.
+
+What differentiates Tandy from the competition is our high brand awareness and strong brand equity and loyalty, our network of retail stores that provides convenience, a high-touch customer service experience and a
+ hub for the local leathercrafting community, and our 100-year heritage. We believe that this combination of qualities is unique to Tandy and gives the brand competitive advantages that are difficult for others to replicate.
+
+We sell our products primarily through company-owned stores and through orders generated from our four websites: tandyleather.com, tandyleather.ca, tandyleather.eu and tandyleather.com.au. We also manufacture leather
+ lace, cut leather pieces and most of the do-it-yourself kits that are sold in our stores and on our websites. We also offer production services to our business customers such as cutting clicking ), splitting, and some assembly. We maintain our
+ principal offices at 1900 Southeast Loop 820, Fort Worth, Texas 76140.
+
+The Company currently operates a total of 106 retail stores as of August 2021. There are 95 stores in the U.S., ten stores in Canada and one store in Spain. During the second quarter of 2020, we consolidated U.S.
+ e-commerce web order fulfilment from the stores to our Fort Worth distribution center.
+
+We launched a new Commercial Program in April 2019 to better serve larger business customers, a majority of these customers and their sales were also recognized in retail stores through most of 2019. For 2019, the
+ Company operated as a single reportable segment and all reporting herein is presented on a consolidated basis.
+
+New management joined the Company in October 2018 and set new strategic directions for both the short and long term. The overarching goal is to invest in rebuilding a foundation for growth by: 1) improving our brand
+ proposition, 2) reversing the sales decline with business customers, 3) building our talent, processes, tools and systems and 4) positioning us for long-term growth. Despite the major disruption of the business by COVID-19, progress was made
+ against these goals in 2020.
+
+22 
+
+Table of Contents 
+
+COVID-19 
+
+In late 2019, COVID-19 was detected in Wuhan, China and has since spread to other parts of the world, including the U.S. On March 11, 2020, the World Health Organization declared COVID-19 a global pandemic. 
+ Federal, state, and local governments implemented various restrictions, including travel restrictions, border closings, restrictions on public gatherings, quarantining of people who may have been exposed to the virus, shelter-in-place restrictions
+ and limitations on business operations. As previously announced and for the health and safety of employees and customers, o n March 17, 2020, the Company made the decision to begin temporary store closures. The
+
+onset of the COVID-19 pandemic in March 2020 temporarily shifted our strategic focus to company survival and cash preservation. We began closing stores on March 18, 2020, and by April 2, 2020, we temporarily
+ closed all stores to the public. While we pivoted to serve customers only online, the Company experienced significant decreases in demand for its products in the second and third quarters of 2020, negatively impacting net sales.
+
+In response, w e took immediate action to mitigate the impact of temporary store closures on our cash flows by: (i) furloughing 406 Tandy employees, comprising two-thirds of the
+ Tandy work force, (ii) temporarily cutting corporate salaries, with deeper cuts for the Executive Leadership Team, (iii) negotiating abatements, deferrals and other favorable lease terms with landlords, and (iv) negotiating longer payment terms
+ with our key product vendors. 
+
+Due to our size, we were not eligible for the Paycheck Protection Program administered through the Small Business Administration. Also, due to our not being current on financial
+ filings with the SEC, we were not able to obtain loans under the Coronavirus Aid, Relief, and Economic Security Act, also known as the CARES Act. During the second quarter of 2020, the Company borrowed 0.4 million through the Spanish
+ government s Institute of Official Credit Guarantee for Small and Medium-sized Enterprises, a COVID-19 relief program. The term of the agreement is for five years and the interest rate is fixed at 1.5 . Based on the terms of the loan agreement,
+ we make interest-only payments for the first two years and monthly principal and interest payments for the remainder of the term of the agreement. In Canada, we participated in the Canada Emergency Commercial Rent Assistance CECRA program for
+ rent relief. This program provided for a 75 reduction in the store rent for included stores for the months of April, May and June 2020. We received total rent abatements under the program of 0.05 million.
+
+Nine stores were permanently closed during 2020 as leases expired or early terminations were negotiated, including at locations where we believe we can retain a majority of customers through geographically proximate
+ stores and/or our enhanced website platform. After these permanent closures, Tandy operates 106 stores, including ten in Canada and one in Spain.
+
+On May 22, 2020, our Fort Worth flagship store reopened to the public, the beginning of a phased approach to reopening our stores with limited hours, new protocols for sanitizing,
+ social distancing, wearing masks and taking daily temperatures of employees. During the third quarter of 2020, all 106 of Tandy s stores had reopened to the public, and the store re-openings were well received by our employees and
+ customers. D uring the fourth quarter of 2020 and into the present, we continue to manage through the pandemic as we saw increased spikes in COVID-19 infections, and continue to see varying levels of infection
+ rates, and have been forced to close certain stores or move certain stores to curbside only operations. We expect that at least some further infections and temporary store shutdowns will continue for
+ the foreseeable future. 
+
+23 
+
+Table of Contents 
+
+While we previously fulfilled our web orders out of our retail stores, during the second quarter of 2020, we built a centralized web fulfillment capability in our Fort Worth distribution center
+ and have been and expect to continue to fulfill web orders primarily through Fort Worth going forward. Both our e-commerce business and stores have been performing above last year sales levels, but the future remains uncertain, and more store
+ closures and/or the ongoing unemployment crisis could cause a material negative impact on future sales.
+
+As part of the Company s accounting policy for long-lived asset impairments, we believe the COVID-19 impact on the Company s results of operations, cash flows and financial position and the
+ ongoing uncertainty the virus has created around future operating results represented a triggering event starting in the first quarter of 2020 which continued throughout the remainder of 2020.
+
+Impairment charges recognized during 2020 totaled 1.1 million and primarily related to property and equipment and operating lease assets for certain stores that are projected to underperform to
+ a level where the cash flows they generate will not be sufficient to cover their respective asset carry values.
+
+Results of Operations
+
+Consolidated Net Sales
+
+(in thousands)
+
+2020
+
+2019
+
+Net sales
+
+64,084
+
+74,918
+
+Decrease from prior year
+
+(14.5
+
+(10.0
+
+Consolidated net sales declined by 10.8 million, or 14.5 , from 2019 to 2020. Of this decline, 4.5 million was due to the permanent closure of nine stores in 2020. 14.1 million was due to the temporary closure
+ of all of our stores during the second and third quarters of 2020, which was offset by sales in the web and commercial channels. We saw sales increases in the fourth quarter of 2020 over the prior year of 6.5 , or 1.3 million.
+
+The table below reports our global net sales by store category for the year ended December 31, 2020 compared to the year ended December 31, 2019:
+
+2020
+
+2019
+
+2020 vs 2019
+
+(in thousands, except store data)
+
+# Stores
+
+Sales
+
+# Stores
+
+Sales
+
+Change
+
+Change
+
+Comparable retail stores
+
+106
+
+42,556
+
+106
+
+59,391
+
+(16,835
+
+(28.3
+
+Web/Commercial
+
+20,784
+
+11,748
+
+9,036
+
+76.9
+
+2019 Permanently closed stores
+
+-
+
+5
+
+755
+
+(755
+
+2020 Permanently closed stores
+
+9
+
+744
+
+9
+
+3,024
+
+(2,280
+
+Total at year-end
+
+106
+
+64,084
+
+115
+
+74,918
+
+(10,834
+
+We operated 106 stores worldwide as of December 31, 2020 and 115 stores as of December 31, 2019. Since January 1, 2020, we have closed nine stores, including Beaverton, OR in February 2020. During the second
+ quarter of 2020, we converted eight stores from temporary closures to permanent closures based on expiring leases, proximity to other stores, and local web sales penetration: Phoenix, AZ; Austin TX; Dallas, TX; Peoria, IL; Henrico (Richmond), VA;
+ Nyack, NY; Johnston, RI and St Leonard (Montreal), QC. We did not open any new stores during 2019 or 2020.
+
+24 
+
+Table of Contents 
+
+Gross Profit
+
+(in thousands)
+
+2020
+
+2019
+
+Sales
+
+64,084
+
+74,918
+
+Cost of sales
+
+28,026
+
+32,959
+
+Gross profit
+
+36,058
+
+41,959
+
+Gross profit margin percentage
+
+56.3
+
+56.0
+
+Gross margin rate in 2020 was essentially flat to 2019, with increases in product costs, shipping and handling related to supply chain disruptions of COVID-19 offset by improvements in average unit retails,
+ investments in inventory at pre-pandemic pricing, and promotional pricing optimization.
+
+Operating Expenses
+
+(in thousands)
+
+2020
+
+2019
+
+Operating expenses
+
+41,328
+
+43,554
+
+Non-routine items related to restatement
+
+(3,587
+
+(1,346
+
+Non-routine items related to CFO transition
+
+(388
+
+(206
+
+Adjusted operating expenses
+
+37,353
+
+42,002
+
+Operating expenses of sales
+
+64.5
+
+58.1
+
+Adjusted operating expenses of sales
+
+58.3
+
+56.1
+
+Operating expenses decreased by 2.2 million in 2020 as compared to the corresponding prior year mostly as a result of payroll and occupancy savings associated with store closures, lower bonuses, marketing expense
+ reductions, and cancellation of the annual store manager conference, partially offset by higher costs for restricted stock units, and non-routine expenses related to the restatement and Chief Financial Officer CFO turnover. Adjusted operating
+ expenses, which excludes the non-routine items related to the restatement and CFO turnover, decreased in 2020 by 4.6 million, compared to prior year, mostly as a result of the items noted above. Adjusted operating expenses excluding non-routine
+ items as shown above is a non-GAAP measure and is included here because we believe it provides additional information regarding the Company s financial performance on a recurring basis. Non-routine items in 2020 primarily included legal and
+ accounting fees associated with the restatement and recruiting fees, exit costs, interim CFO-related expenses, and expenses for a number of other contract accounting professionals associated with the turnover of our CFO.
+
+Impairment Expense
+
+We completed an interim impairment assessment as of March 31, 2020, and based on the concluded fair value of the reporting unit, we recorded impairment expense of 1.1 million during the first quarter of 2020. No
+ other impairment was recorded throughout the remainder of 2020, including as a result of our annual impairment assessment. See Note 2, Significant Accounting Policies Impairment
+
+of long-lived assets of the Notes to the Consolidated Financial Statements included in Item 8, Financial Statements and Supplementary Data of this Form 10-K for further detail.
+
+For the years ended December 31, 2020 and 2019, 26 stores and three stores, respectively, were reviewed for impairment due to overall underperformance. Based on the results of the review, impairment expense of 1.1
+ million and 1.0 million was recorded for 2020 and 2019, respectively.
+
+25 
+
+Table of Contents 
+
+Other Income/Expense (net)
+
+Other income/expense consists primarily of interest expense and interest income. In the years ended December 31, 2020, we recognized other income (net) of 0.1 million. During the year ended December 31, 2019 other
+ (income) expense, net was immaterial. We earned 0.1 million and 0.2 million, respectively, in interest income and paid 0.1 million and 0.04 million, respectively, in interest expense on our bank debt.
+
+Provision for Income Taxes
+
+Our effective tax rate was 21.9 and 26.6 for the years ended December 31, 2020, and 2019, respectively. For 2020 and 2019, the difference between our statutory rates and our effective rate are primarily due to
+ state income taxes, the difference in tax rates for loss carryback periods, items that are nondeductible for income tax purposes, and the change in valuation allowance against U.S. deferred tax assets and certain foreign net operating losses. 
+ Going forward, we expect that our effective tax rate for 2021 will be 25-27 .
+
+Capital Resources, Liquidity and Financial Condition
+
+We require cash principally for day-to-day operations, to purchase inventory and to finance capital investments. We expect to fund our operating and liquidity needs primarily from a combination of current cash
+ balances, cash generated from operating activities and a future working capital bank line of credit that we are negotiating. Any excess cash will be invested as determined by our Board of Directors in accordance with its approved investment
+ policy. Our cash balance as of December 31, 2020, totaled 10.3 million, and as of June 30, 2021, our cash balance totaled 5.9 million.
+
+Spain Loan
+
+During the second quarter of 2020, the Company borrowed 0.4 million from Banco Santander S.A. under the Institute of Official Credit Guarantee for Small and Medium-sized Enterprises in order to facilitate the
+ continuation of employment and to attenuate the economic effects of the COVID-19 virus. This loan was provided for by the Spanish government as part of a COVID-19 relief program. The term of the agreement is five years, and the interest rate is
+ fixed at 1.5 . Based on the terms of the loan agreement, we are required to make monthly interest-only payments for the first two years and monthly principal and interest payments for the remainder of the term of the agreement.
+
+Share Repurchase Program
+
+In August 2015, our Board of Directors authorized a share repurchase program, pursuant to which we were authorized to repurchase up to 1.2 million shares of our common stock at prevailing market rates through August
+ 2016. Subsequently, the program was amended to increase the number of shares available for repurchase to 2.2 million and to extend the program through August 2019. In June 2019, the program was again amended to decrease the number of shares
+ available for repurchase to one million as of such date and to extend the program through August 9, 2020.
+
+For the years ended December 31, 2020, and 2019, we repurchased the following shares:
+
+Year ended 
+
+ December 31,
+
+Total shares repurhased
+
+Average price per share
+
+2020
+
+-
+
+-
+
+2019
+
+131,782
+
+5.58
+
+26 
+
+Table of Contents 
+
+As of December 31, 2020, we were authorized to purchase 5 million of our common stock under the plan.
+
+On August 9, 2020, the Board of Directors approved a new program to repurchase up to 5 million of its common stock between August 9, 2020 and July 31, 2022, subject to the completion of our financial restatement and
+ the filing of all delinquent filings with the SEC. The Company s previous share repurchase program expired in August 2020.
+
+On January 28, 2021, we entered into an agreement with an institutional shareholder of the Company, to repurchase 500,000 shares of our common stock, par value 0.0024 in a private transaction. The purchase price was
+ 3.35 per share for a total of 1.7 million. The closing of the repurchase of these shares took place on February 1, 2021. Prior to the repurchase, the shares represented approximately 5.5 of our outstanding common stock.
+
+Cash Flows 
+
+(amounts in thousands)
+
+2020
+
+2019
+
+Net cash provided by (used in) operating activities
+
+(12,527
+
+10,471
+
+Net cash provided by (used in) investing activities
+
+6,256
+
+(9,156
+
+Net cash provided by (used in) financing activities
+
+416 
+
+(9,703) 
+
+Effect of exchange rate changes on cash and cash equivalents
+
+279
+
+223
+
+Net decrease in cash and cash equivalents
+
+(5,576
+
+(8,165
+
+For the year ended 2020, we used 12.6 million of cash from operations driven by our net loss of 4.9 million which was offset by non-cash expenses of 6.7 million, including depreciation and amortization,
+ impairments, and stock-based compensation. Working capital used 14.3 million of cash, primarily from the build-up of inventory. We received 7.5 million from the sale of short-term U.S. Treasuries. We invested 1.3 million in capital
+ expenditures for the purchase of store fixtures and systems implementations. We borrowed 0.4 million as part of a COVID-19 relief program sponsored by the Spanish government. The activities above, in addition to the effect of exchange rate
+ changes, resulted in a net decrease in cash of 5.6 million.
+
+For the year ended 2019, we generated 10.5 million of cash from operations driven by our efforts to streamline working capital levels, of which 9.3 million was from the liquidation of inventory. The 2019 net loss
+ of 1.9 million was offset by non-cash expenses of 6.7 million, including depreciation and amortization, impairments, and stock-based compensation. With the cash generated from operations, we invested 18.1 million in short-term U.S. Treasuries
+ and sold short-term U.S. Treasuries at maturity for 9.1 million, and we invested 0.3 million in capital expenditures for the purchase of store fixtures and systems implementations. We used cash in financing activities to extinguish 9.0 million
+ of debt and to repurchase 131,782 shares of treasury stock for 0.7 million at an average price of 5.58 per share. The activities above, in addition to the effect of exchange rate changes, resulted in a net decrease in cash of 8.2 million.
+
+We believe that cash flow from operations and our existing cash reserves will be adequate to fund our operations through 2021, taking into account the current effects of the COVID-19 pandemic on our business and cash
+ flow and our current business performance. In addition, we anticipate that this cash flow and our current cash reserves will enable us to meet our contractual obligations and commercial commitments throughout 2021. There can be no assurance,
+ however, that the COVID-19 pandemic would not result in further restrictions on our business operations in a manner that would more materially impact our cash flow.
+
+27 
+
+Table of Contents 
+
+Off-Balance Sheet Arrangements
+
+We did not have any off-balance sheet arrangements during 2020 or 2019, and we do not currently have any such arrangements.
+
+Summary of Critical Accounting Policies
+
+The preparation of the Company s Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States requires the use of estimates that affect the reported value of
+ assets, liabilities, revenues and expenses. These estimates are based on historical experience and various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for the Company s
+ conclusions. The Company continually evaluates the information used to make these estimates as the business and the economic environment changes. Actual results may differ from these estimates, and estimates are subject to change due to
+ modifications in the underlying conditions or assumptions. The policies discussed below require estimates that contain a significant degree of judgement. The use of estimates is pervasive throughout the Consolidated Financial Statements, but the
+ accounting policies and estimates considered most critical are as follows.
+
+Revenue Recognition. Our revenue is earned from sales of merchandise and generally occurs via two methods: (1) at the store counter and (2) shipment of product generally via
+ web sales. We recognize revenue when we satisfy the performance obligation of transferring control of product merchandise over to a customer. At the store counter, our performance obligation is met and revenue is recognized when a sales
+ transaction occurs with a customer. When merchandise is shipped to a customer, our performance obligation is met and revenue is recognized when control passes to the customer. Shipping terms are normally free on board FOB shipping point and
+ control passes when the merchandise is shipped to the customer. Sales tax and comparable foreign tax is excluded from net sales, while shipping charged to our customers is included in net sales. Net sales are based on the amount of consideration
+ that we expect to receive, reduced by estimates for future merchandise returns. Our sales return allowance for future merchandise returns is estimated based on historical sales return rates. Under our sales returns policy, merchandise may be
+ returned, under most circumstances, up to 60 days after date of purchase. As merchandise is returned, the company records the sales return against the sales return allowance. We record a gift card liability for the unfulfilled performance
+ obligation on the date we issue a gift card to a customer. We record revenue and reduce the gift card liability as the customer redeems the gift card. In addition, for gift card breakage, we recognize a proportionate amount for the expected
+ unredeemed gift cards over the expected customer redemption period, which is one year.
+
+Inventory. Inventory is stated at the lower of cost (first-in, first-out) or net realizable value. Finished goods held for sale includes the cost of merchandise purchases,
+ the costs to bring the merchandise to our Texas distribution center, warehousing and handling expenditures, and distributing and delivering merchandise to our stores. These costs include depreciation of long-lived assets utilized in acquiring,
+ warehousing and distributing inventory. Manufacturing inventory including raw materials and work-in-process is valued on a first in, first out basis using full absorption accounting which includes material, labor, and other applicable
+ manufacturing overhead. Carrying values of inventory are analyzed and, to the extent that the cost of inventory exceeds the net realizable value, provisions are made to reduce the carrying amount of the inventory. We regularly review all
+ inventory items to determine if there are (i) damaged goods (e.g., for leather, excessive scars or damage from ultra-violet UV light), (ii) items that need to be removed from our product line (e.g., slow-moving items, inability of a supplier to
+ provide items of acceptable quality or quantity, and to maintain freshness in the product line) and (iii) pricing actions that need to be taken to adequately value our inventory at the lower of cost or net realizable value. Since the determination
+ of net realizable value of inventory involves both estimation and judgement with regard to market values and reasonable costs to sell, differences in these estimates could result in ultimate valuations that differ from the recorded asset. The
+ majority of inventory purchases and commitments are made in U.S. dollars in order to limit the Company s exposure to foreign currency fluctuations. Goods shipped to us are recorded as inventory owned by us when the risk of loss shifts to us from
+ the supplier. Inventory is physically counted twice annually in the Texas distribution center. At the store level, inventory is physically counted each quarter. Inventory is then adjusted in our accounting
+ system to reflect actual count results. 
+
+28 
+
+Table of Contents 
+
+Leases. We lease certain real estate for our retail store locations under long-term lease agreements. Starting in 2019, with the adoption of Accounting Standards Update
+ ASU 2016-02, Leases (Topic 842), once we have determined an arrangement is a lease, at inception we recognize a lease asset and lease liability at commencement date based on the present value of the lease payments over the lease term. For our
+ operating leases, the present value of our lease payments may include: (1) rental payments adjusted for inflation or market rates, and (2) lease terms with options to renew the lease when it is reasonably certain we will exercise such an option.
+ The exercise of lease renewal options is generally at our discretion. Payments based on a change in an index or market rate are not considered in the determination of lease payments for purposes of measuring the related lease liability. We discount
+ lease payments using our incremental borrowing rate based on information available as of the measurement date. Rent expense is recorded in operating expenses. The net excess of rent expense over the actual cash paid has been recorded as accrued
+ expenses and other liabilities in the accompanying consolidated balance sheets. For finance leases, our right-of-use assets are amortized on a straight-line basis over the earlier of the useful life of the right-of-use asset or the end of the lease
+ term with rent expense recorded to operating expenses. We adjust the lease liability to reflect lease payments made during the period and interest incurred on the lease liability using the effective interest method. The incurred interest expense
+ is recorded in interest expense on the consolidated statements of comprehensive income (loss). As of December 31, 2020, we have no sublease agreements and no lease agreements in which we are named as a lessor. Subsequent to the recognition of our
+ operating lease assets and lease liabilities, we recognize lease expense related to our operating leases on a straight-line basis over the lease term. The depreciable life of related leasehold improvements is based on the shorter of the useful life
+ or the lease term. We also perform interim reviews of our operating lease assets for impairment when evidence exists that the carrying value of an asset group, including a lease asset, may not be recoverable.
+
+Impairment of Long-Lived Assets . We evaluate long-lived assets on a
+ quarterly basis to identify events or changes in circumstances triggering events that indicate the carrying value of certain assets may not be recoverable. Upon the occurrence of a triggering event, right-of-use ROU lease assets, property
+ and equipment and definite-lived intangible assets are reviewed for impairment and an impairment loss is recorded in the period in which it is determined that the carrying amount of the assets is not recoverable. The determination of
+ recoverability is made based upon the estimated undiscounted future net cash flows of assets grouped at the lowest level for which there are identifiable cash flows independent of the cash flows of other groups of assets with such cash flows to be
+ realized over the estimated remaining useful life of the primary asset within the asset group. The Company determined the lowest level of identifiable cash flows that are independent of other asset groups to be primarily at the individual store
+ level. If the estimated undiscounted future net cash flows for a given store are less than the carrying amount of the related store assets, an impairment loss is determined by comparing the estimated fair value with the carrying value of the
+ related assets. The impairment loss is then allocated across the asset group s major classifications which in this case are operating lease assets and property and equipment. Triggering events at the store level could include material declines in
+ operational and financial performance or planned changes in the use of assets, such as store relocation or store closure. This evaluation requires management to make judgements relating to future cash flows, growth rates and economic and market
+ conditions. The fair value of an asset group is estimated using a discounted cash flow valuation method.
+
+29 
+
+Table of Contents 
+
+Stock-based Compensation . The Company s stock-based compensation relates primarily to restricted stock unit RSU awards. Accounting guidance requires measurement and
+ recognition of compensation expense at an amount equal to the grant date fair value. Compensation expense is recognized for service-based stock awards on a straight-line basis or ratably over the requisite service period, based on the closing
+ price of the Company s stock on the date of grant. The service-based awards typically vest ratably over the requisite service period, provided that the participant is employed on the vesting date. The total compensation expense is reduced by
+ actual forfeitures as they occur over the requisite service period of the awards. Performance-based RSUs vest, if at all, upon the Company satisfying certain performance targets. The Company records compensation expense for awards with a
+ performance condition when it is probable that the condition will be achieved. If the Company determines it is not probable a performance condition will be achieved, no compensation expense is recognized. If the Company changes its assessment in
+ a subsequent period and concludes it is probable a performance condition will be achieved, the Company will recognize compensation expense ratably between the period of the change in assessment through the expected date of satisfying the
+ performance condition for vesting. If the Company subsequently assesses that it is no longer probable that a performance condition will be achieved, the accumulated expense that has been previously recognized will be reversed. The compensation
+ expense ultimately recognized, if any, related to performance-based awards will equal the grant date fair value based on the number of shares for which the performance condition has been satisfied. We issue shares from authorized shares upon the
+ lapsing of vesting restrictions on RSUs. We do not use cash to settle equity instruments issued under stock-based compensation awards.
+
+Income Taxes. Income taxes are estimated for each jurisdiction in which we operate. This involves assessing current tax exposure together with temporary differences resulting
+ from differing treatment of items for tax and financial statement accounting purposes. Any resulting deferred tax assets are evaluated for recoverability based on estimated future taxable income. To the extent recovery is deemed not likely, a
+ valuation allowance is recorded. Our evaluation regarding whether a valuation allowance is required or should be adjusted also considers, among other things, the nature, frequency, and severity of recent losses, forecasts of future profitability
+ and the duration of statutory carryforward periods. Deferred tax assets and liabilities are measured using the enacted tax rates in effect in the years when those temporary differences are expected to reverse. The effect on deferred taxes from a
+ change in tax rate is recognized through continuing operations in the period that includes the enactment date of the change. Changes in tax laws and rates could affect recorded deferred tax assets and liabilities in the future. A tax benefit from
+ an uncertain tax position may be recognized when it is more-likely-than-not that the position will be sustained upon examination, including resolutions of any related appeals or litigation processes, based on the technical merits. Income tax
+ positions must meet a more-likely-than-not recognition threshold to be recognized. We recognize tax liabilities for uncertain tax positions and adjust these liabilities when our judgement changes as a result of the evaluation of new information
+ not previously available. Due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from the current estimate of the tax liabilities. These differences will be reflected as
+ increases or decreases to income tax expense and the effective tax rate in the period in which new information becomes available. We may be subject to periodic audits by the Internal Revenue Service and other taxing authorities. These audits may
+ challenge certain of our tax positions, such as the timing and amount of deductions and allocation of taxable income to the various jurisdictions.
+
+30 
